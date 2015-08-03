@@ -5,7 +5,7 @@ Unofficial shim repository for Highmaps - Map Collection.
 This package provides Highmaps' free collection of maps for your convenience;
 a set of common maps which include hundreds of pre-generated maps of countries, regions and other administration levels to choose between.
 
-The full suite of maps with examples be found at http://code.highcharts.com/mapdata/
+The full suite of maps with examples can be found at http://code.highcharts.com/mapdata/
 
 For more info and additional documentation on how to use them in your project, refer to:
 http://www.highcharts.com/docs/maps/map-collection
