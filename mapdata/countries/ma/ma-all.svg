@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<desc>
+Map version: 1.1.1
+Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
+</desc>
+<title>Morocco</title>
+<g id="admin1">
+
+<g id="MA">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <name>Morocco</name>
+    <labelrank>3</labelrank>
+    <country-abbrev>Mor.</country-abbrev>
+    <subregion>Northern Africa</subregion>
+    <woe-id>23424893</woe-id>
+    <region-wb>Middle East &amp; North Africa</region-wb>
+    <iso-a3>MAR</iso-a3>
+    <iso-a2>MA</iso-a2>
+    <region-un>Africa</region-un>
+    <continent>Africa</continent>
+    <hc-key>ma</hc-key>
+    <hc-a2>MO</hc-a2>
+  </desc>
+</g>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MA.RZ" d="M440.9,103.4 L448.5,98.0 L452.7,93.2 L456.5,86.2 L463.4,89.1 L471.1,86.5 L477.6,86.9 L483.0,88.7 L487.0,89.2 L490.5,88.5 L492.0,89.2 L495.8,96.2 L494.8,99.6 L497.5,104.3 L495.1,112.5 L494.8,124.1 L493.6,126.8 L489.0,126.7 L487.0,127.6 L478.8,125.4 L478.1,121.9 L474.5,120.3 L472.3,120.5 L470.6,124.8 L471.0,130.3 L469.9,131.8 L464.4,134.4 L457.2,131.9 L454.1,130.0 L453.5,127.7 L454.6,116.9 L446.7,114.0 L443.4,105.8 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>5</labelrank>
+    <hasc>MA.RZ</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-56120059</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MO49</fips>
+    <postal-code>RZ</postal-code>
+    <name>Rabat - Salé - Zemmour - Zaer</name>
+    <country>Morocco</country>
+    <type-en>Region</type-en>
+    <region>NULL</region>
+    <longitude>-6.42079</longitude>
+    <woe-name>NULL</woe-name>
+    <latitude>33.6986</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Region</type>
+    <hc-middle-x>0.52</hc-middle-x>
+    <hc-middle-y>0.45</hc-middle-y>
+    <hc-key>ma-rz</hc-key>
+    <hc-a2>RZ</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MA.MT" d="M469.9,131.8 L471.0,130.3 L470.6,124.8 L472.3,120.5 L474.5,120.3 L478.1,121.9 L478.8,125.4 L487.0,127.6 L489.0,126.7 L493.6,126.8 L494.8,124.1 L495.1,112.5 L497.5,104.3 L494.8,99.6 L495.8,96.2 L492.0,89.2 L490.5,88.5 L494.2,83.8 L497.8,87.0 L503.1,87.5 L507.9,84.9 L508.9,79.9 L511.9,83.9 L512.9,88.5 L516.2,88.0 L523.2,101.0 L520.8,105.4 L522.2,108.0 L528.0,109.1 L531.1,112.5 L531.5,115.1 L528.3,119.2 L527.8,121.3 L533.7,135.1 L540.0,144.7 L549.3,146.3 L553.4,150.1 L558.6,157.2 L562.5,159.0 L570.2,158.4 L577.0,168.2 L579.7,174.2 L585.4,180.9 L590.6,178.5 L597.6,179.7 L603.1,179.3 L602.5,181.8 L603.2,188.9 L605.4,193.3 L607.1,194.5 L607.0,199.7 L592.6,203.3 L589.3,203.2 L586.5,204.9 L586.6,217.5 L583.5,217.8 L580.6,221.2 L580.7,229.7 L583.9,227.8 L588.8,231.7 L592.6,238.3 L588.4,244.3 L589.3,250.4 L581.6,254.8 L574.6,256.9 L568.2,257.5 L563.2,259.1 L559.2,261.6 L554.7,267.9 L549.0,272.9 L542.9,275.8 L523.6,263.5 L523.9,255.9 L519.9,250.3 L517.1,247.8 L517.0,243.8 L519.3,239.2 L519.0,233.8 L521.7,224.4 L522.3,219.0 L520.6,216.1 L514.0,211.8 L512.0,209.8 L507.3,208.5 L504.2,209.3 L500.2,208.7 L501.1,205.5 L504.7,200.7 L506.7,197.0 L505.9,194.0 L502.9,192.5 L496.9,194.6 L494.5,190.7 L496.0,186.3 L503.4,180.6 L510.3,178.1 L507.7,172.0 L508.4,169.5 L511.2,166.1 L507.7,165.2 L502.2,161.8 L497.1,160.0 L491.9,155.2 L486.0,153.0 L485.2,148.0 L481.2,146.7 L481.9,142.5 L479.0,139.4 L470.6,133.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>5</labelrank>
+    <hasc>MA.MT</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-56120057</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MO48</fips>
+    <postal-code>MT</postal-code>
+    <name>Meknès - Tafilalet</name>
+    <country>Morocco</country>
+    <type-en>Region</type-en>
+    <region>NULL</region>
+    <longitude>-4.78602</longitude>
+    <woe-name>NULL</woe-name>
+    <latitude>31.7916</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Region</type>
+    <hc-middle-x>0.60</hc-middle-x>
+    <hc-middle-y>0.62</hc-middle-y>
+    <hc-key>ma-mt</hc-key>
+    <hc-a2>MT</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MA.TD" d="M486.0,153.0 L491.9,155.2 L497.1,160.0 L502.2,161.8 L507.7,165.2 L511.2,166.1 L508.4,169.5 L507.7,172.0 L510.3,178.1 L503.4,180.6 L496.0,186.3 L494.5,190.7 L496.9,194.6 L494.7,197.7 L486.7,203.6 L469.3,212.7 L460.2,216.7 L456.1,221.8 L448.6,222.9 L443.3,221.5 L440.1,219.4 L441.5,213.8 L435.8,207.4 L438.3,204.3 L444.2,202.9 L446.3,198.2 L443.3,189.3 L442.5,185.1 L442.6,177.7 L441.8,175.7 L444.1,172.7 L447.6,161.4 L452.6,158.8 L460.6,158.9 L464.0,157.1 L475.8,157.7 L484.0,155.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>5</labelrank>
+    <hasc>MA.TD</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-56120061</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MO56</fips>
+    <postal-code>TD</postal-code>
+    <name>Tadla - Azilal</name>
+    <country>Morocco</country>
+    <type-en>Region</type-en>
+    <region>NULL</region>
+    <longitude>-6.36087</longitude>
+    <woe-name>NULL</woe-name>
+    <latitude>32.1648</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Region</type>
+    <hc-middle-x>0.44</hc-middle-x>
+    <hc-middle-y>0.41</hc-middle-y>
+    <hc-key>ma-td</hc-key>
+    <hc-a2>TD</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MA.OR" d="M607.0,199.7 L607.1,194.5 L605.4,193.3 L603.2,188.9 L602.5,181.8 L603.1,179.3 L597.6,179.7 L590.6,178.5 L585.4,180.9 L579.7,174.2 L577.0,168.2 L570.2,158.4 L575.4,148.1 L582.4,137.7 L585.5,134.7 L589.8,133.8 L596.9,133.4 L608.5,130.5 L612.7,127.2 L610.0,121.0 L605.4,116.5 L600.1,113.2 L599.7,110.4 L603.9,106.0 L606.1,101.0 L603.9,99.7 L599.7,92.1 L599.2,88.2 L602.8,86.3 L604.2,82.0 L602.3,76.7 L598.5,71.7 L599.3,68.6 L603.2,64.9 L604.1,60.1 L607.3,59.2 L606.0,54.5 L597.2,51.6 L594.3,52.0 L590.8,56.3 L585.2,61.3 L580.6,59.1 L581.2,51.6 L580.5,49.5 L575.7,48.2 L572.3,45.5 L571.1,32.1 L573.4,31.4 L574.8,28.2 L576.8,27.8 L580.3,30.3 L587.5,31.6 L591.2,31.2 L596.1,29.2 L599.0,26.3 L601.8,25.1 L604.5,18.5 L605.0,25.0 L607.8,27.4 L607.4,29.4 L608.8,32.9 L614.3,34.0 L609.2,29.4 L609.3,28.4 L613.7,32.8 L617.6,34.2 L621.8,34.5 L627.4,31.6 L635.4,34.0 L636.8,38.1 L654.8,49.6 L651.2,57.0 L656.4,61.6 L658.4,62.2 L654.4,67.7 L657.3,71.5 L660.8,80.3 L661.1,82.6 L659.8,90.6 L660.9,96.6 L659.6,100.9 L662.9,102.7 L665.4,108.6 L663.0,116.2 L663.9,122.6 L668.5,128.4 L671.6,130.7 L671.9,134.4 L669.6,137.1 L675.9,146.0 L680.0,147.8 L692.2,155.8 L692.9,156.9 L689.4,160.9 L685.6,162.4 L684.2,166.0 L682.8,174.5 L686.7,173.8 L687.7,175.4 L685.4,177.7 L632.7,178.7 L625.4,181.2 L617.7,182.3 L615.4,183.8 L620.7,195.9 L613.5,197.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>5</labelrank>
+    <hasc>MA.OR</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-56120058</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MO54</fips>
+    <postal-code>OR</postal-code>
+    <name>Oriental</name>
+    <country>Morocco</country>
+    <type-en>Region</type-en>
+    <region>NULL</region>
+    <longitude>-2.5158</longitude>
+    <woe-name>NULL</woe-name>
+    <latitude>33.6161</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Region</type>
+    <hc-middle-x>0.51</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>ma-or</hc-key>
+    <hc-a2>OR</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MA.FB" d="M603.9,99.7 L606.1,101.0 L603.9,106.0 L599.7,110.4 L600.1,113.2 L605.4,116.5 L610.0,121.0 L612.7,127.2 L608.5,130.5 L596.9,133.4 L589.8,133.8 L585.5,134.7 L582.4,137.7 L575.4,148.1 L570.2,158.4 L562.5,159.0 L558.6,157.2 L553.4,150.1 L549.3,146.3 L540.0,144.7 L533.7,135.1 L527.8,121.3 L528.3,119.2 L531.5,115.1 L531.1,112.5 L528.0,109.1 L522.2,108.0 L520.8,105.4 L523.2,101.0 L516.2,88.0 L512.9,88.5 L511.9,83.9 L508.9,79.9 L514.5,80.0 L519.6,78.1 L522.3,79.0 L526.9,78.7 L531.0,82.0 L533.9,83.3 L537.6,88.2 L542.7,90.5 L544.4,94.5 L547.8,96.7 L555.9,96.6 L558.8,95.7 L559.7,97.8 L565.0,105.4 L565.0,112.1 L569.1,113.6 L572.7,112.7 L574.2,114.4 L576.0,108.1 L584.5,97.1 L587.5,94.6 L590.5,95.0 L594.0,97.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>6</labelrank>
+    <hasc>MA.FB</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-56120057</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MO14</fips>
+    <postal-code>FB</postal-code>
+    <name>Fès - Boulemane</name>
+    <country>Morocco</country>
+    <type-en>Region</type-en>
+    <region>NULL</region>
+    <longitude>-4.17332</longitude>
+    <woe-name>NULL</woe-name>
+    <latitude>33.2343</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Region</type>
+    <hc-middle-x>0.52</hc-middle-x>
+    <hc-middle-y>0.61</hc-middle-y>
+    <hc-key>ma-fb</hc-key>
+    <hc-a2>FB</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MA.SM" d="M542.9,275.8 L538.6,278.4 L530.6,285.5 L526.2,288.7 L522.2,293.2 L515.8,305.3 L511.5,311.2 L507.4,312.7 L503.8,311.5 L502.2,307.1 L491.9,309.1 L477.3,309.8 L471.5,297.2 L470.9,292.7 L473.8,286.7 L469.7,285.7 L468.5,284.0 L466.9,277.2 L468.7,272.0 L466.3,269.0 L460.7,265.7 L455.3,267.5 L452.5,271.2 L447.3,271.7 L441.3,270.6 L439.6,272.5 L435.3,280.5 L426.2,278.7 L422.5,279.3 L416.9,283.7 L408.2,284.5 L406.0,288.8 L402.6,291.0 L400.3,289.8 L394.2,290.3 L391.4,292.4 L385.2,292.7 L379.7,292.0 L377.8,295.2 L377.6,310.4 L379.7,317.3 L375.7,319.2 L369.9,316.6 L361.3,318.2 L358.3,322.6 L356.6,321.5 L347.0,323.4 L342.9,323.2 L337.8,325.7 L333.8,324.1 L331.1,325.1 L327.5,330.6 L325.3,330.2 L321.0,331.9 L317.8,334.8 L315.8,334.9 L313.1,332.8 L307.8,332.1 L305.0,330.6 L309.2,325.3 L310.8,324.7 L316.1,317.8 L318.7,313.3 L320.0,309.5 L324.4,303.9 L329.9,298.0 L334.3,290.4 L337.0,284.0 L338.9,270.6 L337.1,268.7 L335.2,263.9 L329.8,259.6 L327.3,258.7 L327.4,256.8 L330.2,251.7 L330.2,243.6 L332.5,245.2 L335.7,249.9 L337.7,249.9 L341.7,247.4 L350.8,247.4 L354.7,249.2 L362.6,248.8 L372.1,243.3 L375.1,247.7 L381.5,246.7 L391.4,246.6 L399.6,243.8 L405.0,244.2 L408.7,239.6 L413.7,234.7 L434.4,224.7 L440.1,219.4 L443.3,221.5 L448.6,222.9 L456.1,221.8 L460.2,216.7 L469.3,212.7 L486.7,203.6 L494.7,197.7 L496.9,194.6 L502.9,192.5 L505.9,194.0 L506.7,197.0 L504.7,200.7 L501.1,205.5 L500.2,208.7 L504.2,209.3 L507.3,208.5 L512.0,209.8 L514.0,211.8 L520.6,216.1 L522.3,219.0 L521.7,224.4 L519.0,233.8 L519.3,239.2 L517.0,243.8 L517.1,247.8 L519.9,250.3 L523.9,255.9 L523.6,263.5 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>5</labelrank>
+    <hasc>MA.SM</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-56120060</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MO55</fips>
+    <postal-code>SM</postal-code>
+    <name>Souss - Massa - Draâ</name>
+    <country>Morocco</country>
+    <type-en>Region</type-en>
+    <region>NULL</region>
+    <longitude>-7.71517</longitude>
+    <woe-name>NULL</woe-name>
+    <latitude>30.6732</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Region</type>
+    <hc-middle-x>0.53</hc-middle-x>
+    <hc-middle-y>0.42</hc-middle-y>
+    <hc-key>ma-sm</hc-key>
+    <hc-a2>SM</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MA.MK" d="M441.8,175.7 L442.6,177.7 L442.5,185.1 L443.3,189.3 L446.3,198.2 L444.2,202.9 L438.3,204.3 L435.8,207.4 L441.5,213.8 L440.1,219.4 L434.4,224.7 L413.7,234.7 L408.7,239.6 L405.0,244.2 L399.6,243.8 L391.4,246.6 L381.5,246.7 L375.1,247.7 L372.1,243.3 L362.6,248.8 L354.7,249.2 L350.8,247.4 L341.7,247.4 L337.7,249.9 L335.7,249.9 L332.5,245.2 L330.2,243.6 L329.8,234.6 L330.9,227.7 L330.8,223.8 L329.3,222.1 L332.6,215.8 L336.0,210.8 L336.9,206.2 L345.6,195.9 L350.8,197.9 L357.0,196.6 L362.3,197.6 L365.9,203.0 L370.5,204.6 L377.8,204.8 L382.6,205.6 L387.4,204.1 L392.2,193.6 L394.6,190.4 L394.4,186.2 L389.7,183.4 L387.3,179.1 L387.3,176.9 L392.1,172.7 L399.8,167.3 L402.0,164.8 L403.5,154.8 L406.0,152.5 L410.9,158.8 L416.0,162.5 L420.3,168.4 L423.2,169.5 L431.6,170.4 L439.0,175.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>6</labelrank>
+    <hasc>MA.MK</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-56120056</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MO47</fips>
+    <postal-code>MK</postal-code>
+    <name>Marrakech - Tensift - Al Haouz</name>
+    <country>Morocco</country>
+    <type-en>Region</type-en>
+    <region>NULL</region>
+    <longitude>-8.43749</longitude>
+    <woe-name>NULL</woe-name>
+    <latitude>31.3472</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Region</type>
+    <hc-middle-x>0.53</hc-middle-x>
+    <hc-middle-y>0.70</hc-middle-y>
+    <hc-key>ma-mk</hc-key>
+    <hc-a2>MK</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MA.DA" d="M345.6,195.9 L349.5,191.9 L351.1,186.9 L353.5,182.1 L353.7,177.1 L352.6,176.2 L354.5,170.3 L353.1,166.7 L353.9,165.2 L360.0,160.1 L364.7,154.5 L370.0,150.4 L374.7,144.1 L379.8,138.4 L380.1,136.2 L383.8,131.6 L387.0,131.8 L392.3,126.8 L395.4,124.9 L401.0,123.6 L404.8,121.8 L406.2,124.3 L406.7,128.2 L403.9,133.2 L400.6,136.4 L402.4,140.4 L403.4,148.7 L406.0,152.5 L403.5,154.8 L402.0,164.8 L399.8,167.3 L392.1,172.7 L387.3,176.9 L387.3,179.1 L389.7,183.4 L394.4,186.2 L394.6,190.4 L392.2,193.6 L387.4,204.1 L382.6,205.6 L377.8,204.8 L370.5,204.6 L365.9,203.0 L362.3,197.6 L357.0,196.6 L350.8,197.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>5</labelrank>
+    <hasc>MA.DA</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-56120051</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MO11</fips>
+    <postal-code>DA</postal-code>
+    <name>Doukkala - Abda</name>
+    <country>Morocco</country>
+    <type-en>Region</type-en>
+    <region>NULL</region>
+    <longitude>-8.7136</longitude>
+    <woe-name>NULL</woe-name>
+    <latitude>32.4059</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Region</type>
+    <hc-middle-x>0.49</hc-middle-x>
+    <hc-middle-y>0.62</hc-middle-y>
+    <hc-key>ma-da</hc-key>
+    <hc-a2>DA</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MA.GE" d="M477.3,309.8 L468.2,312.0 L462.3,312.8 L458.8,316.3 L451.3,313.3 L443.3,313.5 L438.6,315.6 L434.8,319.7 L423.3,319.6 L409.5,330.1 L404.3,334.8 L399.5,337.0 L390.9,343.3 L389.5,345.9 L379.6,352.1 L378.2,355.0 L378.3,403.7 L372.5,403.7 L374.4,413.5 L373.2,418.4 L375.3,426.6 L373.6,430.0 L364.6,431.5 L355.6,431.0 L346.7,431.5 L343.5,433.4 L332.7,442.5 L325.5,443.0 L319.7,440.0 L312.9,442.4 L310.2,442.3 L297.2,435.9 L288.3,434.4 L281.1,434.7 L266.2,439.3 L260.6,440.5 L261.8,444.9 L263.7,447.3 L262.7,452.7 L256.8,458.1 L249.3,468.9 L247.2,472.8 L245.6,478.1 L231.8,481.3 L230.6,483.0 L213.6,482.6 L211.6,471.0 L208.5,461.6 L209.2,456.0 L212.6,449.2 L220.4,441.5 L222.7,438.3 L227.7,428.3 L233.3,412.9 L238.1,406.4 L243.1,402.3 L249.3,398.7 L254.8,396.4 L254.5,394.2 L248.2,382.6 L245.0,375.8 L257.9,370.4 L259.3,369.4 L264.9,361.4 L267.5,359.6 L277.1,349.6 L289.3,343.6 L297.5,338.8 L302.8,334.0 L305.0,330.6 L307.8,332.1 L313.1,332.8 L315.8,334.9 L317.8,334.8 L321.0,331.9 L325.3,330.2 L327.5,330.6 L331.1,325.1 L333.8,324.1 L337.8,325.7 L342.9,323.2 L347.0,323.4 L356.6,321.5 L358.3,322.6 L361.3,318.2 L369.9,316.6 L375.7,319.2 L379.7,317.3 L377.6,310.4 L377.8,295.2 L379.7,292.0 L385.2,292.7 L391.4,292.4 L394.2,290.3 L400.3,289.8 L402.6,291.0 L406.0,288.8 L408.2,284.5 L416.9,283.7 L422.5,279.3 L426.2,278.7 L435.3,280.5 L439.6,272.5 L441.3,270.6 L447.3,271.7 L452.5,271.2 L455.3,267.5 L460.7,265.7 L466.3,269.0 L468.7,272.0 L466.9,277.2 L468.5,284.0 L469.7,285.7 L473.8,286.7 L470.9,292.7 L471.5,297.2 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>6</labelrank>
+    <hasc>MA.GE</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-56120055</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MO03</fips>
+    <postal-code>GE</postal-code>
+    <name>Guelmim - Es-Semara</name>
+    <country>Morocco</country>
+    <type-en>Region</type-en>
+    <region>NULL</region>
+    <longitude>-10.0502</longitude>
+    <woe-name>NULL</woe-name>
+    <latitude>28.1581</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Region</type>
+    <hc-middle-x>0.38</hc-middle-x>
+    <hc-middle-y>0.55</hc-middle-y>
+    <hc-key>ma-ge</hc-key>
+    <hc-a2>GE</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MA.LB" d="M230.6,483.0 L229.4,489.1 L225.2,500.2 L218.4,525.7 L216.0,532.5 L212.8,539.2 L209.6,542.0 L200.1,548.6 L189.4,554.7 L180.4,553.1 L173.1,553.8 L158.3,558.4 L154.6,558.5 L150.9,556.9 L139.9,553.9 L128.9,554.0 L116.1,556.6 L112.2,555.8 L107.7,550.4 L97.7,546.8 L102.6,542.4 L106.2,531.2 L106.8,525.6 L106.2,516.8 L109.7,505.6 L112.9,501.9 L117.5,489.6 L122.3,482.9 L124.4,475.0 L123.9,472.8 L127.8,466.8 L132.8,464.9 L138.2,459.2 L144.1,458.5 L149.6,455.9 L163.2,447.3 L165.9,444.4 L168.7,439.2 L172.0,430.0 L173.5,423.9 L178.2,416.9 L181.0,410.1 L184.4,399.6 L189.2,396.9 L191.9,393.2 L193.5,388.7 L199.2,386.2 L207.0,385.1 L213.3,385.4 L221.0,383.1 L232.9,381.4 L235.3,379.8 L245.0,375.8 L248.2,382.6 L254.5,394.2 L254.8,396.4 L249.3,398.7 L243.1,402.3 L238.1,406.4 L233.3,412.9 L227.7,428.3 L222.7,438.3 L220.4,441.5 L212.6,449.2 L209.2,456.0 L208.5,461.6 L211.6,471.0 L213.6,482.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>5</labelrank>
+    <hasc>MA.LB</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-56120089</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MO59</fips>
+    <postal-code>LB</postal-code>
+    <name>Laâyoune - Boujdour - Sakia El Hamra</name>
+    <country>Morocco</country>
+    <type-en>Region</type-en>
+    <region>NULL</region>
+    <longitude>-13.278</longitude>
+    <woe-name>NULL</woe-name>
+    <latitude>25.9492</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Region</type>
+    <hc-middle-x>0.40</hc-middle-x>
+    <hc-middle-y>0.71</hc-middle-y>
+    <hc-key>ma-lb</hc-key>
+    <hc-a2>LB</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MA.OD" d="M189.4,554.7 L184.2,559.3 L176.2,574.1 L172.5,579.3 L168.8,581.2 L151.6,587.9 L146.1,592.6 L141.8,600.8 L139.8,606.0 L135.7,621.0 L134.5,627.7 L131.9,637.4 L130.7,645.6 L130.5,652.4 L128.9,659.2 L124.6,664.9 L118.6,670.0 L109.6,680.4 L110.3,685.8 L107.3,693.0 L103.4,697.7 L99.3,700.0 L85.1,699.9 L71.0,698.9 L57.9,696.4 L44.7,695.3 L37.8,696.0 L20.0,695.1 L13.1,695.3 L0.0,697.1 L2.4,688.7 L3.0,679.5 L5.5,672.3 L10.8,662.8 L16.1,656.0 L19.5,656.3 L24.6,654.5 L27.3,651.6 L29.3,645.2 L32.7,641.8 L33.8,634.6 L36.1,629.8 L36.6,626.5 L38.9,626.1 L42.0,623.2 L42.9,617.9 L40.1,618.1 L44.2,613.0 L48.0,605.4 L51.8,600.6 L52.6,597.4 L55.6,592.8 L59.1,589.2 L61.9,584.4 L62.4,581.0 L58.1,581.8 L53.8,589.1 L51.0,590.3 L54.4,584.7 L59.2,578.6 L62.6,576.0 L69.3,573.1 L77.6,563.9 L84.4,558.2 L90.4,551.2 L95.0,549.8 L97.7,546.8 L107.7,550.4 L112.2,555.8 L116.1,556.6 L128.9,554.0 L139.9,553.9 L150.9,556.9 L154.6,558.5 L158.3,558.4 L173.1,553.8 L180.4,553.1 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>5</labelrank>
+    <hasc>MA.OD</hasc>
+    <alt-name>Ed Dakhla|Oued Eddahab</alt-name>
+    <woe-id>24549935</woe-id>
+    <subregion>NULL</subregion>
+    <fips>WI00</fips>
+    <postal-code>OD</postal-code>
+    <name>Oued el Dahab</name>
+    <country>Morocco</country>
+    <type-en>Region</type-en>
+    <region>NULL</region>
+    <longitude>-14.9815</longitude>
+    <woe-name>Oued el Dahab</woe-name>
+    <latitude>23.0116</latitude>
+    <woe-label>Oued Ed-Dahab, EH, Western Sahara</woe-label>
+    <type>Region</type>
+    <hc-middle-x>0.46</hc-middle-x>
+    <hc-middle-y>0.51</hc-middle-y>
+    <hc-key>ma-od</hc-key>
+    <hc-a2>OD</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MA.TO" d="M474.6,45.9 L476.2,39.9 L482.8,21.4 L485.7,9.6 L487.0,6.9 L492.0,7.0 L494.7,5.0 L499.2,5.2 L505.0,0.4 L506.9,0.0 L509.4,3.7 L510.3,10.1 L512.0,11.4 L513.5,16.3 L517.5,19.5 L521.1,24.1 L523.4,24.9 L527.5,28.9 L533.2,32.2 L544.3,34.7 L545.8,39.6 L541.4,45.4 L538.0,46.3 L533.3,50.4 L526.0,54.0 L519.7,55.8 L517.4,58.4 L511.1,58.7 L508.2,57.7 L504.3,53.9 L499.5,53.9 L493.4,48.8 L488.0,47.8 L480.0,45.4 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>5</labelrank>
+    <hasc>MA.TO</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-56120062</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MO57</fips>
+    <postal-code>TO</postal-code>
+    <name>Tanger - Tétouan</name>
+    <country>Morocco</country>
+    <type-en>Region</type-en>
+    <region>NULL</region>
+    <longitude>-5.35664</longitude>
+    <woe-name>NULL</woe-name>
+    <latitude>35.2884</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Region</type>
+    <hc-middle-x>0.52</hc-middle-x>
+    <hc-middle-y>0.63</hc-middle-y>
+    <hc-key>ma-to</hc-key>
+    <hc-a2>TO</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MA.TH" d="M544.3,34.7 L549.1,35.9 L553.3,34.1 L558.8,32.8 L567.1,29.4 L568.4,32.2 L571.1,32.1 L572.3,45.5 L575.7,48.2 L580.5,49.5 L581.2,51.6 L580.6,59.1 L585.2,61.3 L590.8,56.3 L594.3,52.0 L597.2,51.6 L606.0,54.5 L607.3,59.2 L604.1,60.1 L603.2,64.9 L599.3,68.6 L598.5,71.7 L602.3,76.7 L604.2,82.0 L602.8,86.3 L599.2,88.2 L599.7,92.1 L603.9,99.7 L594.0,97.7 L590.5,95.0 L587.5,94.6 L584.5,97.1 L576.0,108.1 L574.2,114.4 L572.7,112.7 L569.1,113.6 L565.0,112.1 L565.0,105.4 L559.7,97.8 L558.8,95.7 L555.9,96.6 L547.8,96.7 L544.4,94.5 L542.7,90.5 L537.6,88.2 L533.9,83.3 L531.0,82.0 L526.9,78.7 L522.3,79.0 L519.6,78.1 L514.5,80.0 L508.9,79.9 L506.0,75.7 L511.5,71.2 L512.5,69.3 L517.4,65.2 L518.1,62.5 L517.4,58.4 L519.7,55.8 L526.0,54.0 L533.3,50.4 L538.0,46.3 L541.4,45.4 L545.8,39.6 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>6</labelrank>
+    <hasc>MA.TH</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-56120063</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MO58</fips>
+    <postal-code>TH</postal-code>
+    <name>Taza - Al Hoceima - Taounate</name>
+    <country>Morocco</country>
+    <type-en>Region</type-en>
+    <region>NULL</region>
+    <longitude>-4.21989</longitude>
+    <woe-name>NULL</woe-name>
+    <latitude>34.5526</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Region</type>
+    <hc-middle-x>0.53</hc-middle-x>
+    <hc-middle-y>0.48</hc-middle-y>
+    <hc-key>ma-th</hc-key>
+    <hc-a2>TH</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MA.GB" d="M517.4,58.4 L518.1,62.5 L517.4,65.2 L512.5,69.3 L511.5,71.2 L506.0,75.7 L508.9,79.9 L507.9,84.9 L503.1,87.5 L497.8,87.0 L494.2,83.8 L490.5,88.5 L487.0,89.2 L483.0,88.7 L477.6,86.9 L471.1,86.5 L463.4,89.1 L456.5,86.2 L458.6,81.4 L462.9,74.6 L473.0,51.9 L474.6,45.9 L480.0,45.4 L488.0,47.8 L493.4,48.8 L499.5,53.9 L504.3,53.9 L508.2,57.7 L511.1,58.7 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>5</labelrank>
+    <hasc>MA.GB</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-56120053</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MO05</fips>
+    <postal-code>GB</postal-code>
+    <name>Gharb - Chrarda - Béni Hssen</name>
+    <country>Morocco</country>
+    <type-en>Region</type-en>
+    <region>NULL</region>
+    <longitude>-5.9502</longitude>
+    <woe-name>NULL</woe-name>
+    <latitude>34.5356</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Region</type>
+    <hc-middle-x>0.56</hc-middle-x>
+    <hc-middle-y>0.48</hc-middle-y>
+    <hc-key>ma-gb</hc-key>
+    <hc-a2>GB</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MA.CO" d="M404.8,121.8 L408.7,120.4 L409.9,119.7 L418.3,122.9 L422.0,122.6 L421.5,126.4 L428.7,121.2 L430.0,118.6 L429.6,114.8 L431.9,108.6 L436.4,105.1 L440.9,103.4 L443.4,105.8 L446.7,114.0 L454.6,116.9 L453.5,127.7 L454.1,130.0 L457.2,131.9 L464.4,134.4 L469.9,131.8 L470.6,133.9 L479.0,139.4 L481.9,142.5 L481.2,146.7 L485.2,148.0 L486.0,153.0 L484.0,155.3 L475.8,157.7 L464.0,157.1 L460.6,158.9 L452.6,158.8 L447.6,161.4 L444.1,172.7 L441.8,175.7 L439.0,175.3 L431.6,170.4 L423.2,169.5 L420.3,168.4 L416.0,162.5 L410.9,158.8 L406.0,152.5 L403.4,148.7 L402.4,140.4 L400.6,136.4 L403.9,133.2 L406.7,128.2 L406.2,124.3 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>5</labelrank>
+    <hasc>MA.CO</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-56120050</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MO06</fips>
+    <postal-code>CO</postal-code>
+    <name>Chaouia - Ouardigha</name>
+    <country>Morocco</country>
+    <type-en>Region</type-en>
+    <region>NULL</region>
+    <longitude>-7.0775</longitude>
+    <woe-name>NULL</woe-name>
+    <latitude>33.0977</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Region</type>
+    <hc-middle-x>0.43</hc-middle-x>
+    <hc-middle-y>0.52</hc-middle-y>
+    <hc-key>ma-co</hc-key>
+    <hc-a2>CO</hc-a2>
+  </desc>
+</path>
+
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="MA.GC" d="M409.9,119.7 L410.6,118.8 L421.3,114.7 L425.7,112.7 L429.3,108.9 L431.9,108.6 L429.6,114.8 L430.0,118.6 L428.7,121.2 L421.5,126.4 L422.0,122.6 L418.3,122.9 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <labelrank>9</labelrank>
+    <hasc>MA.GC</hasc>
+    <alt-name>NULL</alt-name>
+    <woe-id>-56120054</woe-id>
+    <subregion>NULL</subregion>
+    <fips>MO09</fips>
+    <postal-code>GC</postal-code>
+    <name>Grand Casablanca</name>
+    <country>Morocco</country>
+    <type-en>Region</type-en>
+    <region>NULL</region>
+    <longitude>-7.55595</longitude>
+    <woe-name>NULL</woe-name>
+    <latitude>33.545</latitude>
+    <woe-label>NULL</woe-label>
+    <type>Region</type>
+    <hc-middle-x>0.34</hc-middle-x>
+    <hc-middle-y>0.75</hc-middle-y>
+    <hc-key>ma-gc</hc-key>
+    <hc-a2>GC</hc-a2>
+  </desc>
+</path>
+</g>
+
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth</text>
+
+</svg>
