@@ -14,7 +14,7 @@ wget -r -np -nv -A js,svg,geo.json ${DOWNLOAD_URL}/${DOWNLOAD_URI}
 
 # keep only relevant files and/or folders
 mv ${BASE_DIR}/${DOWNLOAD_URL}/${DOWNLOAD_URI} ${SOURCE_DIR}
-rm -rf ${BASE_DIR}/${DOWNLOAD_URI}
+rm -rf ${BASE_DIR}/${DOWNLOAD_URL}
 
 # marshal files into their respective folders
 cd ${SOURCE_DIR}/custom
