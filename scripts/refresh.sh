@@ -10,7 +10,7 @@ BASE_DIR=${SCRIPT_DIR}/..
 SOURCE_DIR=${BASE_DIR}/${DOWNLOAD_URI}
 
 # download all map files
-wget -r -np -nv -A js,svg,geo.json ${DOWNLOAD_URL}/${DOWNLOAD_URI}
+wget -c -N -r -np -nv -A js,svg,geo.json ${DOWNLOAD_URL}/${DOWNLOAD_URI}
 
 # keep only relevant files and/or folders
 mv ${BASE_DIR}/${DOWNLOAD_URL}/${DOWNLOAD_URI} ${SOURCE_DIR}
