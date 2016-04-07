@@ -3,8 +3,8 @@
 
 <svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <desc>
-Map version: 1.1.1
-Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bureau
+Map version: 1.1.2
+Copyright (c) 2015 Highsoft AS, Based on data from The United States Census Bureau
 </desc>
 <title>Illinois</title>
 <g id="admin2">
@@ -38,23 +38,22 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
     <labelrank>2</labelrank>
     <country-abbrev>U.S.A.</country-abbrev>
     <subregion>Northern America</subregion>
-    <woe-id>23424977</woe-id>
     <region-wb>North America</region-wb>
     <iso-a3>USA</iso-a3>
     <iso-a2>US</iso-a2>
-    <region-un>Americas</region-un>
+    <woe-id>23424977</woe-id>
     <continent>North America</continent>
     <hc-key>us</hc-key>
     <hc-a2>US</hc-a2>
   </desc>
 </g>
 
-<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="US.IL.003" d="M191.7,654.9 L204.3,655.1 L215.6,655.2 L219.8,656.9 L220.2,661.0 L215.8,664.1 L213.5,674.6 L214.4,678.9 L212.8,681.4 L214.8,684.9 L220.5,686.7 L223.0,688.9 L222.8,696.1 L226.9,699.8 L220.9,700.0 L219.8,695.1 L214.1,689.3 L209.3,688.6 L209.9,691.7 L214.3,695.5 L210.8,698.4 L202.3,692.4 L202.2,685.4 L197.5,679.8 L193.9,672.0 L194.1,665.6 L191.3,665.4 L188.4,661.0 Z">
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="US.IL.003" d="M191.7,654.9 L204.3,655.1 L215.6,655.2 L219.8,656.9 L220.2,661.0 L215.8,664.1 L213.5,674.6 L214.4,678.9 L212.8,681.4 L214.8,684.9 L220.5,686.7 L223.0,688.9 L222.8,696.1 L226.9,699.8 L220.9,700.0 L219.8,695.1 L214.1,689.3 L209.3,688.6 L209.9,691.7 L214.3,695.5 L210.8,698.4 L208.7,696.2 L202.3,692.4 L202.2,685.4 L197.5,679.8 L193.9,672.0 L194.1,665.6 L191.3,665.4 L188.4,661.0 Z">
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>17003</fips>
     <name>Alexander</name>
-    <hc-middle-x>0.26</hc-middle-x>
-    <hc-middle-y>0.23</hc-middle-y>
+    <hc-middle-x>0.27</hc-middle-x>
+    <hc-middle-y>0.24</hc-middle-y>
     <hc-key>us-il-003</hc-key>
     <hc-a2>AL</hc-a2>
   </desc>
@@ -174,7 +173,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>17193</fips>
     <name>White</name>
-    <hc-middle-x>0.35</hc-middle-x>
+    <hc-middle-x>0.36</hc-middle-x>
     <hc-middle-y>0.49</hc-middle-y>
     <hc-key>us-il-193</hc-key>
     <hc-a2>WH</hc-a2>
@@ -362,7 +361,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
     <fips>17027</fips>
     <name>Clinton</name>
     <hc-middle-x>0.38</hc-middle-x>
-    <hc-middle-y>0.34</hc-middle-y>
+    <hc-middle-y>0.35</hc-middle-y>
     <hc-key>us-il-027</hc-key>
     <hc-a2>CL</hc-a2>
   </desc>
@@ -372,7 +371,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>17189</fips>
     <name>Washington</name>
-    <hc-middle-x>0.74</hc-middle-x>
+    <hc-middle-x>0.73</hc-middle-x>
     <hc-middle-y>0.50</hc-middle-y>
     <hc-key>us-il-189</hc-key>
     <hc-a2>WA</hc-a2>
@@ -416,7 +415,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>17123</fips>
     <name>Marshall</name>
-    <hc-middle-x>0.38</hc-middle-x>
+    <hc-middle-x>0.39</hc-middle-x>
     <hc-middle-y>0.51</hc-middle-y>
     <hc-key>us-il-123</hc-key>
     <hc-a2>MA</hc-a2>
@@ -427,7 +426,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>17143</fips>
     <name>Peoria</name>
-    <hc-middle-x>0.37</hc-middle-x>
+    <hc-middle-x>0.38</hc-middle-x>
     <hc-middle-y>0.39</hc-middle-y>
     <hc-key>us-il-143</hc-key>
     <hc-a2>PE</hc-a2>
@@ -460,7 +459,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>17029</fips>
     <name>Coles</name>
-    <hc-middle-x>0.22</hc-middle-x>
+    <hc-middle-x>0.23</hc-middle-x>
     <hc-middle-y>0.52</hc-middle-y>
     <hc-key>us-il-029</hc-key>
     <hc-a2>CO</hc-a2>
@@ -615,7 +614,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
     <fips>17149</fips>
     <name>Pike</name>
     <hc-middle-x>0.57</hc-middle-x>
-    <hc-middle-y>0.49</hc-middle-y>
+    <hc-middle-y>0.50</hc-middle-y>
     <hc-key>us-il-149</hc-key>
     <hc-a2>PI</hc-a2>
   </desc>
@@ -713,8 +712,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>17127</fips>
     <name>Massac</name>
-    <hc-middle-x>0.29</hc-middle-x>
-    <hc-middle-y>0.23</hc-middle-y>
+    <hc-middle-x>0.30</hc-middle-x>
+    <hc-middle-y>0.24</hc-middle-y>
     <hc-key>us-il-127</hc-key>
     <hc-a2>MA</hc-a2>
   </desc>
@@ -769,7 +768,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
     <fips>17021</fips>
     <name>Christian</name>
     <hc-middle-x>0.50</hc-middle-x>
-    <hc-middle-y>0.61</hc-middle-y>
+    <hc-middle-y>0.60</hc-middle-y>
     <hc-key>us-il-021</hc-key>
     <hc-a2>CH</hc-a2>
   </desc>
@@ -845,7 +844,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>17179</fips>
     <name>Tazewell</name>
-    <hc-middle-x>0.61</hc-middle-x>
+    <hc-middle-x>0.60</hc-middle-x>
     <hc-middle-y>0.50</hc-middle-y>
     <hc-key>us-il-179</hc-key>
     <hc-a2>TA</hc-a2>
@@ -889,7 +888,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>17067</fips>
     <name>Hancock</name>
-    <hc-middle-x>0.62</hc-middle-x>
+    <hc-middle-x>0.61</hc-middle-x>
     <hc-middle-y>0.49</hc-middle-y>
     <hc-key>us-il-067</hc-key>
     <hc-a2>HA</hc-a2>
@@ -933,7 +932,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>17091</fips>
     <name>Kankakee</name>
-    <hc-middle-x>0.60</hc-middle-x>
+    <hc-middle-x>0.59</hc-middle-x>
     <hc-middle-y>0.49</hc-middle-y>
     <hc-key>us-il-091</hc-key>
     <hc-a2>KA</hc-a2>
@@ -977,7 +976,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>17069</fips>
     <name>Hardin</name>
-    <hc-middle-x>0.31</hc-middle-x>
+    <hc-middle-x>0.32</hc-middle-x>
     <hc-middle-y>0.50</hc-middle-y>
     <hc-key>us-il-069</hc-key>
     <hc-a2>HA</hc-a2>
@@ -1021,14 +1020,14 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>17161</fips>
     <name>Rock Island</name>
-    <hc-middle-x>0.51</hc-middle-x>
-    <hc-middle-y>0.77</hc-middle-y>
+    <hc-middle-x>0.58</hc-middle-x>
+    <hc-middle-y>0.78</hc-middle-y>
     <hc-key>us-il-161</hc-key>
     <hc-a2>RI</hc-a2>
   </desc>
 </path>
 
-<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="US.IL.001" d="M12.5,344.9 L11.7,338.4 L6.2,334.2 L5.0,329.6 L7.8,325.0 L1.1,309.4 L1.7,306.8 L0.0,298.1 L0.9,288.7 L35.7,290.5 L58.3,291.5 L57.9,299.1 L57.8,302.7 L57.1,323.6 L56.5,335.4 L56.3,346.5 Z">
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="US.IL.001" d="M12.5,344.9 L11.7,338.4 L6.2,334.2 L5.0,329.6 L7.8,325.0 L6.5,321.2 L1.1,309.4 L1.7,306.8 L0.0,298.1 L0.9,288.7 L35.7,290.5 L58.3,291.5 L57.9,299.1 L57.8,302.7 L57.1,323.6 L56.5,335.4 L56.3,346.5 Z">
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>17001</fips>
     <name>Adams</name>
@@ -1076,8 +1075,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>17013</fips>
     <name>Calhoun</name>
-    <hc-middle-x>0.35</hc-middle-x>
-    <hc-middle-y>0.14</hc-middle-y>
+    <hc-middle-x>0.48</hc-middle-x>
+    <hc-middle-y>0.25</hc-middle-y>
     <hc-key>us-il-013</hc-key>
     <hc-a2>CA</hc-a2>
   </desc>
@@ -1120,7 +1119,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>17085</fips>
     <name>Jo Daviess</name>
-    <hc-middle-x>0.70</hc-middle-x>
+    <hc-middle-x>0.69</hc-middle-x>
     <hc-middle-y>0.51</hc-middle-y>
     <hc-key>us-il-085</hc-key>
     <hc-a2>JD</hc-a2>
@@ -1142,14 +1141,14 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>17033</fips>
     <name>Crawford</name>
-    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-x>0.35</hc-middle-x>
     <hc-middle-y>0.50</hc-middle-y>
     <hc-key>us-il-033</hc-key>
     <hc-a2>CR</hc-a2>
   </desc>
 </path>
 
-<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="US.IL.097" d="M320.3,4.6 L357.2,4.8 L356.5,18.3 L355.2,22.2 L355.6,31.7 L358.1,41.0 L361.6,47.7 L340.9,47.7 L320.3,47.6 L320.4,36.6 Z">
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="US.IL.097" d="M320.3,4.6 L331.1,4.5 L357.2,4.8 L356.5,18.3 L355.2,22.2 L355.6,31.7 L358.1,41.0 L361.6,47.7 L340.9,47.7 L320.3,47.6 L320.4,36.6 Z">
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>17097</fips>
     <name>Lake</name>
@@ -1172,6 +1171,6 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
 </path>
 </g>
 
-<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bureau</text>
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2015 Highsoft AS, Based on data from The United States Census Bureau</text>
 
 </svg>

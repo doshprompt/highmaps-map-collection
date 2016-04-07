@@ -3,8 +3,8 @@
 
 <svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <desc>
-Map version: 1.1.1
-Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bureau
+Map version: 1.1.2
+Copyright (c) 2015 Highsoft AS, Based on data from The United States Census Bureau
 </desc>
 <title>Wisconsin</title>
 <g id="admin2">
@@ -15,11 +15,10 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
     <labelrank>2</labelrank>
     <country-abbrev>U.S.A.</country-abbrev>
     <subregion>Northern America</subregion>
-    <woe-id>23424977</woe-id>
     <region-wb>North America</region-wb>
     <iso-a3>USA</iso-a3>
     <iso-a2>US</iso-a2>
-    <region-un>Americas</region-un>
+    <woe-id>23424977</woe-id>
     <continent>North America</continent>
     <hc-key>us</hc-key>
     <hc-a2>US</hc-a2>
@@ -76,7 +75,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
     <fips>55003</fips>
     <name>Ashland</name>
     <hc-middle-x>0.31</hc-middle-x>
-    <hc-middle-y>0.68</hc-middle-y>
+    <hc-middle-y>0.67</hc-middle-y>
     <hc-key>us-wi-003</hc-key>
     <hc-a2>AS</hc-a2>
   </desc>
@@ -251,8 +250,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>55047</fips>
     <name>Green Lake</name>
-    <hc-middle-x>0.50</hc-middle-x>
-    <hc-middle-y>0.63</hc-middle-y>
+    <hc-middle-x>0.49</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
     <hc-key>us-wi-047</hc-key>
     <hc-a2>GL</hc-a2>
   </desc>
@@ -317,7 +316,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>55093</fips>
     <name>Pierce</name>
-    <hc-middle-x>0.59</hc-middle-x>
+    <hc-middle-x>0.58</hc-middle-x>
     <hc-middle-y>0.50</hc-middle-y>
     <hc-key>us-wi-093</hc-key>
     <hc-a2>PI</hc-a2>
@@ -394,8 +393,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>55083</fips>
     <name>Oconto</name>
-    <hc-middle-x>0.48</hc-middle-x>
-    <hc-middle-y>0.56</hc-middle-y>
+    <hc-middle-x>0.33</hc-middle-x>
+    <hc-middle-y>0.37</hc-middle-y>
     <hc-key>us-wi-083</hc-key>
     <hc-a2>OC</hc-a2>
   </desc>
@@ -405,8 +404,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>55009</fips>
     <name>Brown</name>
-    <hc-middle-x>0.50</hc-middle-x>
-    <hc-middle-y>0.50</hc-middle-y>
+    <hc-middle-x>0.43</hc-middle-x>
+    <hc-middle-y>0.52</hc-middle-y>
     <hc-key>us-wi-009</hc-key>
     <hc-a2>BR</hc-a2>
   </desc>
@@ -417,7 +416,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
     <fips>55079</fips>
     <name>Milwaukee</name>
     <hc-middle-x>0.50</hc-middle-x>
-    <hc-middle-y>0.75</hc-middle-y>
+    <hc-middle-y>0.74</hc-middle-y>
     <hc-key>us-wi-079</hc-key>
     <hc-a2>MI</hc-a2>
   </desc>
@@ -450,7 +449,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
     <fips>55023</fips>
     <name>Crawford</name>
     <hc-middle-x>0.53</hc-middle-x>
-    <hc-middle-y>0.40</hc-middle-y>
+    <hc-middle-y>0.41</hc-middle-y>
     <hc-key>us-wi-023</hc-key>
     <hc-a2>CR</hc-a2>
   </desc>
@@ -471,8 +470,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>55057</fips>
     <name>Juneau</name>
-    <hc-middle-x>0.34</hc-middle-x>
-    <hc-middle-y>0.50</hc-middle-y>
+    <hc-middle-x>0.39</hc-middle-x>
+    <hc-middle-y>0.71</hc-middle-y>
     <hc-key>us-wi-057</hc-key>
     <hc-a2>JU</hc-a2>
   </desc>
@@ -482,7 +481,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>55123</fips>
     <name>Vernon</name>
-    <hc-middle-x>0.44</hc-middle-x>
+    <hc-middle-x>0.43</hc-middle-x>
     <hc-middle-y>0.50</hc-middle-y>
     <hc-key>us-wi-123</hc-key>
     <hc-a2>VE</hc-a2>
@@ -537,7 +536,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>55061</fips>
     <name>Kewaunee</name>
-    <hc-middle-x>0.34</hc-middle-x>
+    <hc-middle-x>0.35</hc-middle-x>
     <hc-middle-y>0.50</hc-middle-y>
     <hc-key>us-wi-061</hc-key>
     <hc-a2>KE</hc-a2>
@@ -603,7 +602,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>55121</fips>
     <name>Trempealeau</name>
-    <hc-middle-x>0.51</hc-middle-x>
+    <hc-middle-x>0.55</hc-middle-x>
     <hc-middle-y>0.50</hc-middle-y>
     <hc-key>us-wi-121</hc-key>
     <hc-a2>TR</hc-a2>
@@ -691,7 +690,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>55067</fips>
     <name>Langlade</name>
-    <hc-middle-x>0.34</hc-middle-x>
+    <hc-middle-x>0.35</hc-middle-x>
     <hc-middle-y>0.40</hc-middle-y>
     <hc-key>us-wi-067</hc-key>
     <hc-a2>LA</hc-a2>
@@ -768,7 +767,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>55011</fips>
     <name>Buffalo</name>
-    <hc-middle-x>0.61</hc-middle-x>
+    <hc-middle-x>0.60</hc-middle-x>
     <hc-middle-y>0.35</hc-middle-y>
     <hc-key>us-wi-011</hc-key>
     <hc-a2>BU</hc-a2>
@@ -801,8 +800,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>55075</fips>
     <name>Marinette</name>
-    <hc-middle-x>0.49</hc-middle-x>
-    <hc-middle-y>0.57</hc-middle-y>
+    <hc-middle-x>0.46</hc-middle-x>
+    <hc-middle-y>0.54</hc-middle-y>
     <hc-key>us-wi-075</hc-key>
     <hc-a2>MA</hc-a2>
   </desc>
@@ -842,6 +841,6 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
 </path>
 </g>
 
-<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bureau</text>
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2015 Highsoft AS, Based on data from The United States Census Bureau</text>
 
 </svg>

@@ -3,8 +3,8 @@
 
 <svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <desc>
-Map version: 1.1.1
-Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bureau
+Map version: 1.1.2
+Copyright (c) 2015 Highsoft AS, Based on data from The United States Census Bureau
 </desc>
 <title>New York</title>
 <g id="admin2">
@@ -38,11 +38,10 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
     <labelrank>2</labelrank>
     <country-abbrev>U.S.A.</country-abbrev>
     <subregion>Northern America</subregion>
-    <woe-id>23424977</woe-id>
     <region-wb>North America</region-wb>
     <iso-a3>USA</iso-a3>
     <iso-a2>US</iso-a2>
-    <region-un>Americas</region-un>
+    <woe-id>23424977</woe-id>
     <continent>North America</continent>
     <hc-key>us</hc-key>
     <hc-a2>US</hc-a2>
@@ -60,11 +59,11 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   </desc>
 </path>
 
-<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="US.NY.013" d="M65.2,281.5 L62.4,336.2 L61.7,345.1 L0.0,341.7 L1.9,309.7 L7.2,307.0 L14.1,302.2 L20.3,300.2 L28.4,294.9 L32.9,289.6 L38.0,285.7 L48.1,280.8 L50.1,278.4 L57.5,276.1 L62.2,278.2 L65.2,281.5 L65.2,281.5 L65.2,281.5 Z">
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="US.NY.013" d="M65.2,281.5 L62.4,336.2 L61.7,345.1 L25.5,343.2 L0.0,341.7 L1.9,309.7 L7.2,307.0 L14.1,302.2 L20.3,300.2 L28.4,294.9 L32.9,289.6 L38.0,285.7 L48.1,280.8 L50.1,278.4 L57.5,276.1 L62.2,278.2 L65.2,281.5 L65.2,281.5 L65.2,281.5 Z">
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>36013</fips>
     <name>Chautauqua</name>
-    <hc-middle-x>0.58</hc-middle-x>
+    <hc-middle-x>0.57</hc-middle-x>
     <hc-middle-y>0.56</hc-middle-y>
     <hc-key>us-ny-013</hc-key>
     <hc-a2>CH</hc-a2>
@@ -86,8 +85,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>36045</fips>
     <name>Jefferson</name>
-    <hc-middle-x>0.51</hc-middle-x>
-    <hc-middle-y>0.50</hc-middle-y>
+    <hc-middle-x>0.49</hc-middle-x>
+    <hc-middle-y>0.42</hc-middle-y>
     <hc-key>us-ny-045</hc-key>
     <hc-a2>JE</hc-a2>
   </desc>
@@ -141,7 +140,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>36089</fips>
     <name>St. Lawrence</name>
-    <hc-middle-x>0.62</hc-middle-x>
+    <hc-middle-x>0.61</hc-middle-x>
     <hc-middle-y>0.55</hc-middle-y>
     <hc-key>us-ny-089</hc-key>
     <hc-a2>SL</hc-a2>
@@ -152,7 +151,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>36059</fips>
     <name>Nassau</name>
-    <hc-middle-x>0.61</hc-middle-x>
+    <hc-middle-x>0.60</hc-middle-x>
     <hc-middle-y>0.53</hc-middle-y>
     <hc-key>us-ny-059</hc-key>
     <hc-a2>NA</hc-a2>
@@ -218,8 +217,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>36035</fips>
     <name>Fulton</name>
-    <hc-middle-x>0.43</hc-middle-x>
-    <hc-middle-y>0.52</hc-middle-y>
+    <hc-middle-x>0.52</hc-middle-x>
+    <hc-middle-y>0.58</hc-middle-y>
     <hc-key>us-ny-035</hc-key>
     <hc-a2>FU</hc-a2>
   </desc>
@@ -229,8 +228,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>36043</fips>
     <name>Herkimer</name>
-    <hc-middle-x>0.53</hc-middle-x>
-    <hc-middle-y>0.72</hc-middle-y>
+    <hc-middle-x>0.52</hc-middle-x>
+    <hc-middle-y>0.73</hc-middle-y>
     <hc-key>us-ny-043</hc-key>
     <hc-a2>HE</hc-a2>
   </desc>
@@ -240,8 +239,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>36087</fips>
     <name>Rockland</name>
-    <hc-middle-x>0.67</hc-middle-x>
-    <hc-middle-y>0.56</hc-middle-y>
+    <hc-middle-x>0.52</hc-middle-x>
+    <hc-middle-y>0.49</hc-middle-y>
     <hc-key>us-ny-087</hc-key>
     <hc-a2>RO</hc-a2>
   </desc>
@@ -258,12 +257,12 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   </desc>
 </path>
 
-<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="US.NY.071" d="M492.1,452.5 L487.5,457.0 L467.5,444.6 L446.4,431.7 L444.8,427.8 L441.1,423.7 L441.3,415.6 L465.9,414.4 L470.1,407.9 L475.5,404.1 L477.9,403.7 L484.7,399.1 L485.8,402.4 L496.9,405.0 L496.2,401.1 L500.1,403.1 L502.0,402.2 L503.3,405.2 L512.2,404.1 L508.4,412.0 L508.2,419.9 L509.8,421.9 L512.9,427.3 L509.9,435.4 L509.8,435.8 Z">
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="US.NY.071" d="M492.1,452.5 L487.5,457.0 L481.4,453.5 L467.5,444.6 L446.4,431.7 L444.8,427.8 L441.1,423.7 L441.3,415.6 L465.9,414.4 L470.1,407.9 L475.5,404.1 L477.9,403.7 L484.7,399.1 L485.8,402.4 L496.9,405.0 L496.2,401.1 L500.1,403.1 L502.0,402.2 L503.3,405.2 L512.2,404.1 L508.4,412.0 L508.2,419.9 L509.8,421.9 L512.9,427.3 L509.9,435.4 L509.8,435.8 Z">
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>36071</fips>
     <name>Orange</name>
     <hc-middle-x>0.61</hc-middle-x>
-    <hc-middle-y>0.44</hc-middle-y>
+    <hc-middle-y>0.45</hc-middle-y>
     <hc-key>us-ny-071</hc-key>
     <hc-a2>OR</hc-a2>
   </desc>
@@ -295,8 +294,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>36005</fips>
     <name>Bronx</name>
-    <hc-middle-x>0.18</hc-middle-x>
-    <hc-middle-y>0.11</hc-middle-y>
+    <hc-middle-x>0.12</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
     <hc-key>us-ny-005</hc-key>
     <hc-a2>BR</hc-a2>
   </desc>
@@ -317,8 +316,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>36047</fips>
     <name>Kings</name>
-    <hc-middle-x>0.35</hc-middle-x>
-    <hc-middle-y>0.80</hc-middle-y>
+    <hc-middle-x>0.54</hc-middle-x>
+    <hc-middle-y>0.59</hc-middle-y>
     <hc-key>us-ny-047</hc-key>
     <hc-a2>KI</hc-a2>
   </desc>
@@ -372,7 +371,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>36117</fips>
     <name>Wayne</name>
-    <hc-middle-x>0.52</hc-middle-x>
+    <hc-middle-x>0.51</hc-middle-x>
     <hc-middle-y>0.56</hc-middle-y>
     <hc-key>us-ny-117</hc-key>
     <hc-a2>WA</hc-a2>
@@ -439,7 +438,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
     <fips>36111</fips>
     <name>Ulster</name>
     <hc-middle-x>0.62</hc-middle-x>
-    <hc-middle-y>0.43</hc-middle-y>
+    <hc-middle-y>0.44</hc-middle-y>
     <hc-key>us-ny-111</hc-key>
     <hc-a2>UL</hc-a2>
   </desc>
@@ -526,8 +525,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>36075</fips>
     <name>Oswego</name>
-    <hc-middle-x>0.64</hc-middle-x>
-    <hc-middle-y>0.47</hc-middle-y>
+    <hc-middle-x>0.44</hc-middle-x>
+    <hc-middle-y>0.58</hc-middle-y>
     <hc-key>us-ny-075</hc-key>
     <hc-a2>OS</hc-a2>
   </desc>
@@ -560,7 +559,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
     <fips>36099</fips>
     <name>Seneca</name>
     <hc-middle-x>0.33</hc-middle-x>
-    <hc-middle-y>0.46</hc-middle-y>
+    <hc-middle-y>0.45</hc-middle-y>
     <hc-key>us-ny-099</hc-key>
     <hc-a2>SE</hc-a2>
   </desc>
@@ -593,7 +592,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
     <fips>36083</fips>
     <name>Rensselaer</name>
     <hc-middle-x>0.55</hc-middle-x>
-    <hc-middle-y>0.43</hc-middle-y>
+    <hc-middle-y>0.44</hc-middle-y>
     <hc-key>us-ny-083</hc-key>
     <hc-a2>RE</hc-a2>
   </desc>
@@ -610,7 +609,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   </desc>
 </path>
 
-<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="US.NY.027" d="M552.1,349.4 L552.8,355.2 L549.9,411.2 L514.0,416.1 L509.8,421.9 L508.2,419.9 L508.4,412.0 L512.2,404.1 L513.2,384.6 L512.2,382.7 L513.2,371.0 L511.2,367.3 L513.7,353.4 L514.0,346.3 L515.9,346.2 L533.3,354.8 L549.5,357.9 L549.9,349.4 Z">
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="US.NY.027" d="M552.1,349.4 L552.9,349.4 L552.8,355.2 L549.9,411.2 L514.0,416.1 L509.8,421.9 L508.2,419.9 L508.4,412.0 L512.2,404.1 L513.2,384.6 L512.2,382.7 L513.2,371.0 L511.2,367.3 L513.7,353.4 L514.0,346.3 L515.9,346.2 L533.3,354.8 L549.5,357.9 L549.9,349.4 Z">
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>36027</fips>
     <name>Dutchess</name>
@@ -669,7 +668,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>36007</fips>
     <name>Broome</name>
-    <hc-middle-x>0.35</hc-middle-x>
+    <hc-middle-x>0.36</hc-middle-x>
     <hc-middle-y>0.58</hc-middle-y>
     <hc-key>us-ny-007</hc-key>
     <hc-a2>BR</hc-a2>
@@ -732,6 +731,6 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
 </path>
 </g>
 
-<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bureau</text>
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2015 Highsoft AS, Based on data from The United States Census Bureau</text>
 
 </svg>

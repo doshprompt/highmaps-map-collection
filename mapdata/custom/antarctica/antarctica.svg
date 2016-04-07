@@ -3,8 +3,8 @@
 
 <svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <desc>
-Map version: 1.1.1
-Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
+Map version: 1.1.2
+Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth
 </desc>
 <title>Antarctica</title>
 <g id="admin1">
@@ -15,11 +15,10 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <labelrank>4</labelrank>
     <country-abbrev>Ant.</country-abbrev>
     <subregion>Antarctica</subregion>
-    <woe-id>28289409</woe-id>
     <region-wb>Antarctica</region-wb>
     <iso-a3>ATA</iso-a3>
     <iso-a2>AQ</iso-a2>
-    <region-un>Antarctica</region-un>
+    <woe-id>28289409</woe-id>
     <continent>Antarctica</continent>
     <hc-key>aq</hc-key>
     <hc-a2>AN</hc-a2>
@@ -77,6 +76,6 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
 </path>
 </g>
 
-<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth</text>
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth</text>
 
 </svg>

@@ -3,8 +3,8 @@
 
 <svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <desc>
-Map version: 1.1.1
-Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
+Map version: 1.1.2
+Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth
 </desc>
 <title>Bahrain</title>
 <g id="admin1">
@@ -15,11 +15,10 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <labelrank>4</labelrank>
     <country-abbrev>Bahr.</country-abbrev>
     <subregion>Western Asia</subregion>
-    <woe-id>23424753</woe-id>
     <region-wb>Middle East &amp; North Africa</region-wb>
     <iso-a3>BHR</iso-a3>
     <iso-a2>BH</iso-a2>
-    <region-un>Asia</region-un>
+    <woe-id>23424753</woe-id>
     <continent>Asia</continent>
     <hc-key>bh</hc-key>
     <hc-a2>BA</hc-a2>
@@ -119,7 +118,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <latitude>26.1373</latitude>
     <woe-label>Central, BH, Bahrain</woe-label>
     <type>Muhafazah</type>
-    <hc-middle-x>0.43</hc-middle-x>
+    <hc-middle-x>0.42</hc-middle-x>
     <hc-middle-y>0.49</hc-middle-y>
     <hc-key>bh-6452</hc-key>
     <hc-a2>AW</hc-a2>
@@ -144,7 +143,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <latitude>26.2204</latitude>
     <woe-label>Capital, BH, Bahrain</woe-label>
     <type>Muhafazah</type>
-    <hc-middle-x>0.62</hc-middle-x>
+    <hc-middle-x>0.63</hc-middle-x>
     <hc-middle-y>0.51</hc-middle-y>
     <hc-key>bh-6453</hc-key>
     <hc-a2>AM</hc-a2>
@@ -152,6 +151,6 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
 </path>
 </g>
 
-<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth</text>
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth</text>
 
 </svg>

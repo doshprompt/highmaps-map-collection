@@ -3,8 +3,8 @@
 
 <svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <desc>
-Map version: 1.1.1
-Copyright (c) 2014 Highsoft AS, Adapted from Statistics Canada, Boundary files, 2011 Census. This does not constitute an endorsement by Statistics Canada of this product.
+Map version: 1.1.2
+Copyright (c) 2015 Highsoft AS, Adapted from Statistics Canada, Boundary files, 2011 Census. This does not constitute an endorsement by Statistics Canada of this product.
 </desc>
 <title>Nova Scotia</title>
 <g id="admin2">
@@ -38,11 +38,10 @@ Copyright (c) 2014 Highsoft AS, Adapted from Statistics Canada, Boundary files, 
     <labelrank>2</labelrank>
     <country-abbrev>Can.</country-abbrev>
     <subregion>Northern America</subregion>
-    <woe-id>23424775</woe-id>
     <region-wb>North America</region-wb>
     <iso-a3>CAN</iso-a3>
     <iso-a2>CA</iso-a2>
-    <region-un>Americas</region-un>
+    <woe-id>23424775</woe-id>
     <continent>North America</continent>
     <hc-key>ca</hc-key>
     <hc-a2>CA</hc-a2>
@@ -54,7 +53,7 @@ Copyright (c) 2014 Highsoft AS, Adapted from Statistics Canada, Boundary files, 
     <name>Cape Breton</name>
     <type>CTY</type>
     <hc-middle-x>0.47</hc-middle-x>
-    <hc-middle-y>0.53</hc-middle-y>
+    <hc-middle-y>0.52</hc-middle-y>
     <hc-key>ca-ns-1217</hc-key>
     <hc-a2>CB</hc-a2>
   </desc>
@@ -64,7 +63,7 @@ Copyright (c) 2014 Highsoft AS, Adapted from Statistics Canada, Boundary files, 
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <name>Shelburne</name>
     <type>CTY</type>
-    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-x>0.49</hc-middle-x>
     <hc-middle-y>0.51</hc-middle-y>
     <hc-key>ca-ns-1201</hc-key>
     <hc-a2>SH</hc-a2>
@@ -86,8 +85,8 @@ Copyright (c) 2014 Highsoft AS, Adapted from Statistics Canada, Boundary files, 
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <name>Victoria</name>
     <type>CTY</type>
-    <hc-middle-x>0.44</hc-middle-x>
-    <hc-middle-y>0.62</hc-middle-y>
+    <hc-middle-x>0.47</hc-middle-x>
+    <hc-middle-y>0.59</hc-middle-y>
     <hc-key>ca-ns-1218</hc-key>
     <hc-a2>VI</hc-a2>
   </desc>
@@ -98,7 +97,7 @@ Copyright (c) 2014 Highsoft AS, Adapted from Statistics Canada, Boundary files, 
     <name>Digby</name>
     <type>CTY</type>
     <hc-middle-x>0.59</hc-middle-x>
-    <hc-middle-y>0.51</hc-middle-y>
+    <hc-middle-y>0.50</hc-middle-y>
     <hc-key>ca-ns-1203</hc-key>
     <hc-a2>DI</hc-a2>
   </desc>
@@ -108,18 +107,18 @@ Copyright (c) 2014 Highsoft AS, Adapted from Statistics Canada, Boundary files, 
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <name>Lunenburg</name>
     <type>CTY</type>
-    <hc-middle-x>0.42</hc-middle-x>
-    <hc-middle-y>0.44</hc-middle-y>
+    <hc-middle-x>0.46</hc-middle-x>
+    <hc-middle-y>0.41</hc-middle-y>
     <hc-key>ca-ns-1206</hc-key>
     <hc-a2>LU</hc-a2>
   </desc>
 </path>
 
-<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="CA.NS.1202" d="M37.1,517.6 L37.9,521.3 L36.0,521.5 L35.8,517.6 Z M47.9,499.5 L51.0,507.2 L47.1,503.6 L45.8,503.4 Z M47.5,507.5 L46.9,508.6 L44.6,502.7 L46.5,504.7 Z M104.6,437.3 L93.3,465.8 L86.4,482.1 L85.1,482.0 L75.9,507.2 L79.4,522.9 L67.3,528.2 L61.3,528.8 L62.7,523.5 L63.3,517.7 L61.7,513.7 L60.3,515.4 L59.1,521.9 L60.5,522.8 L60.1,528.1 L57.8,527.8 L58.2,523.4 L57.4,520.4 L57.5,511.5 L55.5,510.6 L55.5,503.5 L52.6,498.7 L52.7,505.5 L50.7,503.4 L49.2,499.2 L50.3,499.0 L47.5,493.4 L45.2,499.2 L42.5,496.8 L44.6,502.2 L43.2,501.3 L42.3,503.9 L39.9,498.7 L40.2,493.2 L41.9,491.2 L38.5,491.8 L38.0,497.6 L42.6,507.5 L40.7,513.6 L39.6,507.2 L37.2,512.3 L36.8,515.5 L35.1,513.5 L35.7,507.9 L34.3,506.0 L32.0,507.7 L32.7,511.9 L30.3,508.1 L30.9,503.8 L28.9,501.0 L26.6,503.8 L26.1,507.2 L24.2,499.8 L25.6,495.7 L23.3,493.1 L23.4,488.9 L21.6,489.6 L22.7,484.7 L22.1,481.4 L23.8,477.3 L22.2,472.3 L23.9,468.2 L52.5,449.3 Z">
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="CA.NS.1202" d="M37.1,517.6 L37.9,521.3 L36.0,521.5 L35.8,517.6 Z M47.9,499.5 L51.0,507.2 L47.1,503.6 L45.8,503.4 Z M47.5,507.5 L48.6,510.3 L46.9,508.6 L44.6,502.7 L46.5,504.7 Z M104.6,437.3 L93.3,465.8 L86.4,482.1 L85.1,482.0 L75.9,507.2 L79.4,522.9 L67.3,528.2 L61.3,528.8 L62.7,523.5 L63.3,517.7 L61.7,513.7 L60.3,515.4 L59.1,521.9 L60.5,522.8 L60.1,528.1 L57.8,527.8 L58.2,523.4 L57.4,520.4 L57.5,511.5 L55.5,510.6 L55.5,503.5 L52.6,498.7 L52.7,505.5 L50.7,503.4 L49.2,499.2 L50.3,499.0 L47.5,493.4 L45.2,499.2 L42.5,496.8 L44.6,502.2 L43.2,501.3 L42.3,503.9 L39.9,498.7 L40.2,493.2 L41.9,491.2 L38.5,491.8 L38.0,497.6 L42.6,507.5 L40.7,513.6 L39.6,507.2 L37.2,512.3 L36.8,515.5 L35.1,513.5 L35.7,507.9 L34.3,506.0 L32.0,507.7 L32.7,511.9 L30.3,508.1 L30.9,503.8 L28.9,501.0 L26.6,503.8 L26.1,507.2 L24.2,499.8 L25.6,495.7 L23.3,493.1 L23.4,488.9 L21.6,489.6 L22.7,484.7 L22.1,481.4 L23.8,477.3 L22.2,472.3 L23.9,468.2 L52.5,449.3 Z">
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <name>Yarmouth</name>
     <type>CTY</type>
-    <hc-middle-x>0.41</hc-middle-x>
+    <hc-middle-x>0.42</hc-middle-x>
     <hc-middle-y>0.39</hc-middle-y>
     <hc-key>ca-ns-1202</hc-key>
     <hc-a2>YA</hc-a2>
@@ -130,25 +129,25 @@ Copyright (c) 2014 Highsoft AS, Adapted from Statistics Canada, Boundary files, 
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <name>Pictou</name>
     <type>CTY</type>
-    <hc-middle-x>0.51</hc-middle-x>
+    <hc-middle-x>0.52</hc-middle-x>
     <hc-middle-y>0.60</hc-middle-y>
     <hc-key>ca-ns-1212</hc-key>
     <hc-a2>PI</hc-a2>
   </desc>
 </path>
 
-<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="CA.NS.1216" d="M566.2,250.8 L569.7,252.1 L567.2,253.2 L568.6,254.7 L566.0,256.5 L564.6,255.2 Z M546.2,247.2 L546.3,249.6 L542.2,249.8 L544.0,250.7 L541.4,251.7 L541.3,247.3 L545.4,246.5 Z M552.4,242.1 L558.1,240.1 L559.1,241.4 L566.1,240.0 L567.9,241.9 L571.9,242.0 L570.5,244.2 L566.1,245.2 L562.8,248.3 L562.9,250.8 L565.5,251.2 L563.9,254.1 L561.8,254.8 L561.3,257.9 L559.1,258.5 L557.2,256.6 L560.4,254.2 L560.5,251.9 L555.8,252.7 L551.2,251.7 L551.5,248.5 L546.5,244.6 Z M543.6,222.9 L549.6,225.6 L552.2,223.2 L557.0,220.7 L563.8,214.8 L569.7,214.6 L575.0,216.3 L579.3,219.1 L578.3,225.3 L577.3,227.2 L572.5,229.8 L576.0,231.4 L578.4,225.9 L581.6,225.8 L582.9,222.9 L585.9,225.1 L585.7,219.2 L582.2,216.9 L585.4,214.1 L585.5,210.5 L589.9,206.6 L592.3,205.9 L617.1,212.5 L638.7,218.6 L635.7,221.2 L631.7,221.6 L630.5,219.5 L627.2,223.7 L626.4,226.2 L619.6,230.8 L613.4,231.5 L612.0,228.8 L611.5,233.3 L606.9,233.3 L598.8,236.1 L598.4,237.6 L592.6,239.9 L591.6,241.7 L586.4,242.2 L587.2,240.1 L584.8,237.4 L573.3,235.8 L575.2,234.4 L572.8,230.9 L569.5,230.7 L570.8,233.3 L567.9,234.8 L562.6,233.3 L565.4,235.3 L562.8,236.5 L560.5,234.1 L558.0,238.8 L553.6,239.8 L551.4,241.5 L543.8,244.5 L540.7,244.5 L544.4,241.3 L542.3,239.2 L536.7,239.9 L531.6,244.4 L530.5,247.1 L526.6,245.0 L522.2,238.7 L524.1,238.9 L524.8,239.1 L534.2,230.7 L543.0,223.4 L543.4,223.5 L543.2,223.3 L543.2,223.3 L543.4,223.2 Z M543.4,223.2 L543.4,223.2 L543.5,223.1 Z M544.2,222.5 L543.9,222.9 L543.7,222.9 L544.0,222.7 Z">
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="CA.NS.1216" d="M566.2,250.8 L569.7,252.1 L567.2,253.2 L568.6,254.7 L566.0,256.5 L564.6,255.2 Z M546.2,247.2 L546.3,249.6 L542.2,249.8 L544.0,250.7 L541.4,251.7 L541.3,247.3 L545.4,246.5 Z M552.4,242.1 L558.1,240.1 L559.1,241.4 L566.1,240.0 L567.9,241.9 L571.9,242.0 L570.5,244.2 L566.1,245.2 L562.8,248.3 L562.9,250.8 L565.5,251.2 L563.9,254.1 L561.8,254.8 L561.3,257.9 L559.1,258.5 L557.2,256.6 L560.4,254.2 L560.5,251.9 L555.8,252.7 L551.2,251.7 L551.5,248.5 L546.5,244.6 Z M543.6,222.9 L549.6,225.6 L552.2,223.2 L557.0,220.7 L563.8,214.8 L569.7,214.6 L575.0,216.3 L579.3,219.1 L578.3,225.3 L577.3,227.2 L572.5,229.8 L576.0,231.4 L578.4,225.9 L581.6,225.8 L582.9,222.9 L585.9,225.1 L585.7,219.2 L582.2,216.9 L585.4,214.1 L585.5,210.5 L589.9,206.6 L592.3,205.9 L617.1,212.5 L638.7,218.6 L635.7,221.2 L631.7,221.6 L630.5,219.5 L627.2,223.7 L626.4,226.2 L619.6,230.8 L613.4,231.5 L612.0,228.8 L611.5,233.3 L606.9,233.3 L598.8,236.1 L598.4,237.6 L592.6,239.9 L591.6,241.7 L586.4,242.2 L587.2,240.1 L584.8,237.4 L573.3,235.8 L575.2,234.4 L572.8,230.9 L569.5,230.7 L570.8,233.3 L567.9,234.8 L562.6,233.3 L565.4,235.3 L562.8,236.5 L560.5,234.1 L558.0,238.8 L559.6,239.1 L553.6,239.8 L551.4,241.5 L543.8,244.5 L540.7,244.5 L544.4,241.3 L542.3,239.2 L536.7,239.9 L531.6,244.4 L530.5,247.1 L526.6,245.0 L522.2,238.7 L524.1,238.9 L524.8,239.1 L534.2,230.7 L543.0,223.4 L543.4,223.5 L543.2,223.3 L543.2,223.3 L543.4,223.2 Z M543.4,223.2 L543.4,223.2 L543.5,223.1 Z M544.2,222.5 L543.9,222.9 L543.7,222.9 L544.0,222.7 Z">
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <name>Richmond</name>
     <type>CTY</type>
-    <hc-middle-x>0.64</hc-middle-x>
+    <hc-middle-x>0.65</hc-middle-x>
     <hc-middle-y>0.30</hc-middle-y>
     <hc-key>ca-ns-1216</hc-key>
     <hc-a2>RI</hc-a2>
   </desc>
 </path>
 
-<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="CA.NS.1214" d="M433.7,223.5 L440.3,217.7 L445.6,214.2 L448.7,213.9 L450.8,211.0 L456.9,205.3 L460.9,200.4 L464.4,199.0 L468.3,201.2 L465.7,203.3 L465.3,205.6 L467.0,211.9 L466.5,214.5 L469.1,221.0 L466.5,228.7 L467.4,230.3 L465.3,234.0 L463.0,234.4 L463.1,236.3 L467.5,235.5 L467.7,232.4 L469.8,228.9 L474.4,229.6 L476.2,232.6 L479.7,234.3 L478.3,234.9 L477.1,240.4 L479.6,234.7 L483.0,233.5 L484.5,236.1 L488.6,234.9 L492.5,235.3 L495.8,237.3 L496.2,233.7 L498.9,233.1 L500.4,235.0 L500.7,232.1 L499.4,229.9 L501.9,226.9 L510.1,226.6 L512.3,228.3 L515.5,233.0 L506.4,238.3 L506.9,239.8 L500.7,244.7 L499.3,242.5 L484.8,251.4 L485.5,256.5 L464.1,270.1 L449.0,272.6 L436.5,232.4 Z">
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="CA.NS.1214" d="M433.7,223.5 L440.3,217.7 L445.6,214.2 L448.7,213.9 L450.8,211.0 L456.9,205.3 L460.9,200.4 L464.4,199.0 L468.3,201.2 L465.7,203.3 L465.3,205.6 L467.0,211.9 L466.5,214.5 L469.1,221.0 L466.5,228.7 L467.4,230.3 L465.3,234.0 L463.0,234.4 L463.1,236.3 L465.3,235.2 L467.5,235.5 L467.7,232.4 L469.8,228.9 L474.4,229.6 L476.2,232.6 L479.7,234.3 L478.3,234.9 L477.1,240.4 L479.6,234.7 L483.0,233.5 L484.5,236.1 L488.6,234.9 L492.5,235.3 L495.8,237.3 L496.2,233.7 L498.9,233.1 L500.4,235.0 L500.7,232.1 L499.4,229.9 L501.9,226.9 L510.1,226.6 L512.3,228.3 L515.5,233.0 L506.4,238.3 L506.9,239.8 L500.7,244.7 L499.3,242.5 L484.8,251.4 L485.5,256.5 L464.1,270.1 L449.0,272.6 L436.5,232.4 Z">
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <name>Antigonish</name>
     <type>CTY</type>
@@ -164,7 +163,7 @@ Copyright (c) 2014 Highsoft AS, Adapted from Statistics Canada, Boundary files, 
     <name>Colchester</name>
     <type>CTY</type>
     <hc-middle-x>0.63</hc-middle-x>
-    <hc-middle-y>0.49</hc-middle-y>
+    <hc-middle-y>0.50</hc-middle-y>
     <hc-key>ca-ns-1210</hc-key>
     <hc-a2>CO</hc-a2>
   </desc>
@@ -174,8 +173,8 @@ Copyright (c) 2014 Highsoft AS, Adapted from Statistics Canada, Boundary files, 
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <name>Guysborough</name>
     <type>CTY</type>
-    <hc-middle-x>0.54</hc-middle-x>
-    <hc-middle-y>0.50</hc-middle-y>
+    <hc-middle-x>0.52</hc-middle-x>
+    <hc-middle-y>0.53</hc-middle-y>
     <hc-key>ca-ns-1213</hc-key>
     <hc-a2>GU</hc-a2>
   </desc>
@@ -236,11 +235,11 @@ Copyright (c) 2014 Highsoft AS, Adapted from Statistics Canada, Boundary files, 
   </desc>
 </path>
 
-<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="CA.NS.1211" d="M316.2,218.5 L314.5,218.0 L308.7,227.0 L306.6,229.2 L309.4,237.4 L299.5,248.5 L286.8,254.1 L282.2,257.0 L280.1,257.2 L276.8,249.5 L239.6,248.3 L241.6,256.2 L240.3,264.4 L242.4,267.5 L241.2,269.6 L233.9,269.7 L229.7,270.6 L226.1,272.9 L219.0,270.8 L218.7,274.2 L214.2,272.8 L212.6,274.7 L207.2,272.0 L206.1,270.1 L200.8,270.3 L196.8,268.2 L193.6,268.2 L183.9,271.0 L180.7,273.6 L179.8,276.2 L179.8,281.1 L174.5,282.2 L173.1,284.6 L171.8,282.3 L173.1,278.5 L170.4,278.0 L165.6,275.1 L155.8,278.7 L159.2,264.0 L161.1,264.1 L164.4,259.4 L166.5,260.3 L171.4,257.3 L165.3,257.9 L171.4,253.7 L173.7,253.0 L183.2,247.8 L186.3,245.2 L186.8,242.6 L194.3,238.9 L203.5,229.4 L206.9,228.3 L209.3,223.2 L207.7,220.8 L209.4,218.5 L215.3,215.6 L214.8,211.9 L217.6,211.4 L219.9,208.5 L222.6,207.9 L223.6,210.6 L220.6,212.9 L218.8,216.0 L220.6,217.9 L222.8,216.2 L228.9,208.0 L225.8,205.4 L229.1,198.3 L230.7,197.6 L238.8,185.4 L249.3,186.0 L251.5,181.9 L253.8,183.5 L256.9,183.1 L263.6,185.5 L268.0,188.5 L267.3,192.4 L272.2,195.3 L273.2,198.4 L278.3,201.0 L281.5,201.5 L284.8,204.0 L287.8,204.9 L285.6,206.7 L287.9,207.9 L289.5,205.0 L288.0,205.0 L286.9,201.4 L290.3,201.8 L292.9,200.8 L299.0,201.5 L308.0,200.9 L313.4,203.5 L313.7,204.8 L306.4,204.9 L312.3,207.7 L312.0,209.2 L305.1,209.2 L310.5,212.0 L313.4,212.1 L311.8,210.2 L314.1,210.3 L317.6,212.6 L322.2,212.8 L326.7,210.9 L331.7,212.7 L326.2,215.2 L323.7,217.2 Z">
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="CA.NS.1211" d="M316.2,218.5 L314.5,218.0 L308.7,227.0 L306.6,229.2 L309.4,237.4 L299.5,248.5 L286.8,254.1 L282.2,257.0 L280.1,257.2 L276.8,249.5 L239.6,248.3 L241.6,256.2 L240.3,264.4 L242.4,267.5 L241.2,269.6 L233.9,269.7 L229.7,270.6 L226.1,272.9 L219.0,270.8 L218.7,274.2 L214.2,272.8 L212.6,274.7 L207.2,272.0 L206.1,270.1 L200.8,270.3 L196.8,268.2 L193.6,268.2 L183.9,271.0 L180.7,273.6 L179.8,276.2 L179.8,281.1 L174.5,282.2 L173.1,284.6 L171.8,282.3 L173.1,278.5 L170.4,278.0 L165.6,275.1 L155.8,278.7 L159.2,264.0 L161.1,264.1 L164.4,259.4 L166.5,260.3 L171.4,257.3 L165.3,257.9 L171.4,253.7 L173.7,253.0 L183.2,247.8 L186.3,245.2 L186.8,242.6 L194.3,238.9 L203.5,229.4 L206.9,228.3 L209.3,223.2 L207.7,220.8 L209.4,218.5 L215.3,215.6 L214.8,211.9 L217.6,211.4 L219.9,208.5 L222.6,207.9 L223.6,210.6 L220.6,212.9 L218.8,216.0 L220.6,217.9 L222.8,216.2 L228.9,208.0 L225.8,205.4 L229.1,198.3 L230.7,197.6 L238.8,185.4 L249.3,186.0 L249.7,183.6 L251.5,181.9 L253.8,183.5 L256.9,183.1 L263.6,185.5 L268.0,188.5 L267.3,192.4 L272.2,195.3 L273.2,198.4 L278.3,201.0 L281.5,201.5 L284.8,204.0 L287.8,204.9 L285.6,206.7 L287.9,207.9 L289.5,205.0 L288.0,205.0 L286.9,201.4 L290.3,201.8 L292.9,200.8 L299.0,201.5 L308.0,200.9 L313.4,203.5 L313.7,204.8 L306.4,204.9 L312.3,207.7 L312.0,209.2 L305.1,209.2 L308.4,210.3 L310.5,212.0 L313.4,212.1 L311.8,210.2 L314.1,210.3 L317.6,212.6 L322.2,212.8 L326.7,210.9 L331.7,212.7 L326.2,215.2 L323.7,217.2 Z">
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <name>Cumberland</name>
     <type>CTY</type>
-    <hc-middle-x>0.46</hc-middle-x>
+    <hc-middle-x>0.47</hc-middle-x>
     <hc-middle-y>0.49</hc-middle-y>
     <hc-key>ca-ns-1211</hc-key>
     <hc-a2>CU</hc-a2>
@@ -248,6 +247,6 @@ Copyright (c) 2014 Highsoft AS, Adapted from Statistics Canada, Boundary files, 
 </path>
 </g>
 
-<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2014 Highsoft AS, Adapted from Statistics Canada, Boundary files, 2011 Census. This does not constitute an endorsement by Statistics Canada of this product.</text>
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2015 Highsoft AS, Adapted from Statistics Canada, Boundary files, 2011 Census. This does not constitute an endorsement by Statistics Canada of this product.</text>
 
 </svg>

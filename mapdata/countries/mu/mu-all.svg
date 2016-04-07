@@ -3,8 +3,8 @@
 
 <svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <desc>
-Map version: 1.1.1
-Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
+Map version: 1.1.2
+Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth
 </desc>
 <title>Mauritius</title>
 <g id="admin1">
@@ -15,11 +15,10 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <labelrank>5</labelrank>
     <country-abbrev>Mus.</country-abbrev>
     <subregion>Eastern Africa</subregion>
-    <woe-id>23424894</woe-id>
     <region-wb>Sub-Saharan Africa</region-wb>
     <iso-a3>MUS</iso-a3>
     <iso-a2>MU</iso-a2>
-    <region-un>Africa</region-un>
+    <woe-id>23424894</woe-id>
     <continent>Seven seas (open ocean)</continent>
     <hc-key>mu</hc-key>
     <hc-a2>MA</hc-a2>
@@ -69,8 +68,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <latitude>-20.2492</latitude>
     <woe-label>Moka, MU, Mauritius</woe-label>
     <type>District</type>
-    <hc-middle-x>0.63</hc-middle-x>
-    <hc-middle-y>0.55</hc-middle-y>
+    <hc-middle-x>0.58</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
     <hc-key>mu-6682</hc-key>
     <hc-a2>MO</hc-a2>
   </desc>
@@ -219,7 +218,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <latitude>-20.1496</latitude>
     <woe-label>NULL</woe-label>
     <type>City</type>
-    <hc-middle-x>0.64</hc-middle-x>
+    <hc-middle-x>0.63</hc-middle-x>
     <hc-middle-y>0.62</hc-middle-y>
     <hc-key>mu-6689</hc-key>
     <hc-a2>PL</hc-a2>
@@ -244,7 +243,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <latitude>-20.2688</latitude>
     <woe-label>NULL</woe-label>
     <type>City</type>
-    <hc-middle-x>0.53</hc-middle-x>
+    <hc-middle-x>0.52</hc-middle-x>
     <hc-middle-y>0.41</hc-middle-y>
     <hc-key>mu-6692</hc-key>
     <hc-a2>QB</hc-a2>
@@ -294,8 +293,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <latitude>-20.3424</latitude>
     <woe-label>Black River, MU, Mauritius</woe-label>
     <type>District</type>
-    <hc-middle-x>0.58</hc-middle-x>
-    <hc-middle-y>0.62</hc-middle-y>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.66</hc-middle-y>
     <hc-key>mu-6686</hc-key>
     <hc-a2>RN</hc-a2>
   </desc>
@@ -370,13 +369,13 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <woe-label>Flacq, MU, Mauritius</woe-label>
     <type>District</type>
     <hc-middle-x>0.58</hc-middle-x>
-    <hc-middle-y>0.50</hc-middle-y>
+    <hc-middle-y>0.51</hc-middle-y>
     <hc-key>mu-6681</hc-key>
     <hc-a2>FL</hc-a2>
   </desc>
 </path>
 </g>
 
-<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth</text>
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth</text>
 
 </svg>

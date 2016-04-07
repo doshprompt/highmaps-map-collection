@@ -3,8 +3,8 @@
 
 <svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <desc>
-Map version: 1.1.1
-Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
+Map version: 1.1.2
+Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth
 </desc>
 <title>Fiji</title>
 <g id="admin1">
@@ -15,11 +15,10 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <labelrank>6</labelrank>
     <country-abbrev>Fiji</country-abbrev>
     <subregion>Melanesia</subregion>
-    <woe-id>23424813</woe-id>
     <region-wb>East Asia &amp; Pacific</region-wb>
     <iso-a3>FJI</iso-a3>
     <iso-a2>FJ</iso-a2>
-    <region-un>Oceania</region-un>
+    <woe-id>23424813</woe-id>
     <continent>Oceania</continent>
     <hc-key>fj</hc-key>
     <hc-a2>FI</hc-a2>
@@ -69,7 +68,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <latitude>-18.3823</latitude>
     <woe-label>Central, FJ, Fiji</woe-label>
     <type>Division</type>
-    <hc-middle-x>0.57</hc-middle-x>
+    <hc-middle-x>0.58</hc-middle-x>
     <hc-middle-y>0.36</hc-middle-y>
     <hc-key>fj-2561</hc-key>
     <hc-a2>CE</hc-a2>
@@ -152,6 +151,6 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
 </path>
 </g>
 
-<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth</text>
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth</text>
 
 </svg>

@@ -3,8 +3,8 @@
 
 <svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <desc>
-Map version: 1.1.1
-Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
+Map version: 1.1.2
+Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth
 </desc>
 <title>Samoa</title>
 <g id="admin1">
@@ -15,11 +15,10 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <labelrank>4</labelrank>
     <country-abbrev>Samoa</country-abbrev>
     <subregion>Polynesia</subregion>
-    <woe-id>23424992</woe-id>
     <region-wb>East Asia &amp; Pacific</region-wb>
     <iso-a3>WSM</iso-a3>
     <iso-a2>WS</iso-a2>
-    <region-un>Oceania</region-un>
+    <woe-id>23424992</woe-id>
     <continent>Oceania</continent>
     <hc-key>ws</hc-key>
     <hc-a2>SA</hc-a2>
@@ -44,8 +43,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <latitude>-13.9415</latitude>
     <woe-label>NULL</woe-label>
     <type>NULL</type>
-    <hc-middle-x>0.51</hc-middle-x>
-    <hc-middle-y>0.53</hc-middle-y>
+    <hc-middle-x>0.49</hc-middle-x>
+    <hc-middle-y>0.51</hc-middle-y>
     <hc-key>ws-3586</hc-key>
     <hc-a2>TU</hc-a2>
   </desc>
@@ -69,8 +68,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <latitude>-13.9005</latitude>
     <woe-label>NULL</woe-label>
     <type>NULL</type>
-    <hc-middle-x>0.59</hc-middle-x>
-    <hc-middle-y>0.46</hc-middle-y>
+    <hc-middle-x>0.60</hc-middle-x>
+    <hc-middle-y>0.45</hc-middle-y>
     <hc-key>ws-6500</hc-key>
     <hc-a2>A'</hc-a2>
   </desc>
@@ -94,8 +93,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <latitude>-13.8904</latitude>
     <woe-label>NULL</woe-label>
     <type>NULL</type>
-    <hc-middle-x>0.57</hc-middle-x>
-    <hc-middle-y>0.53</hc-middle-y>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.56</hc-middle-y>
     <hc-key>ws-6501</hc-key>
     <hc-a2>AI</hc-a2>
   </desc>
@@ -144,7 +143,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <latitude>-13.9633</latitude>
     <woe-label>NULL</woe-label>
     <type>NULL</type>
-    <hc-middle-x>0.46</hc-middle-x>
+    <hc-middle-x>0.47</hc-middle-x>
     <hc-middle-y>0.74</hc-middle-y>
     <hc-key>ws-6503</hc-key>
     <hc-a2>VO</hc-a2>
@@ -169,8 +168,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <latitude>-13.6516</latitude>
     <woe-label>NULL</woe-label>
     <type>NULL</type>
-    <hc-middle-x>0.48</hc-middle-x>
-    <hc-middle-y>0.41</hc-middle-y>
+    <hc-middle-x>0.52</hc-middle-x>
+    <hc-middle-y>0.43</hc-middle-y>
     <hc-key>ws-6504</hc-key>
     <hc-a2>FA</hc-a2>
   </desc>
@@ -194,8 +193,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <latitude>-13.9658</latitude>
     <woe-label>NULL</woe-label>
     <type>NULL</type>
-    <hc-middle-x>0.11</hc-middle-x>
-    <hc-middle-y>0.17</hc-middle-y>
+    <hc-middle-x>0.12</hc-middle-x>
+    <hc-middle-y>0.16</hc-middle-y>
     <hc-key>ws-6505</hc-key>
     <hc-a2>GA</hc-a2>
   </desc>
@@ -219,7 +218,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <latitude>-13.5461</latitude>
     <woe-label>NULL</woe-label>
     <type>NULL</type>
-    <hc-middle-x>0.51</hc-middle-x>
+    <hc-middle-x>0.50</hc-middle-x>
     <hc-middle-y>0.55</hc-middle-y>
     <hc-key>ws-6506</hc-key>
     <hc-a2>GA</hc-a2>
@@ -244,8 +243,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <latitude>-13.5561</latitude>
     <woe-label>NULL</woe-label>
     <type>NULL</type>
-    <hc-middle-x>0.43</hc-middle-x>
-    <hc-middle-y>0.38</hc-middle-y>
+    <hc-middle-x>0.44</hc-middle-x>
+    <hc-middle-y>0.40</hc-middle-y>
     <hc-key>ws-6507</hc-key>
     <hc-a2>VA</hc-a2>
   </desc>
@@ -269,8 +268,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <latitude>-13.6365</latitude>
     <woe-label>NULL</woe-label>
     <type>NULL</type>
-    <hc-middle-x>0.17</hc-middle-x>
-    <hc-middle-y>0.22</hc-middle-y>
+    <hc-middle-x>0.20</hc-middle-x>
+    <hc-middle-y>0.27</hc-middle-y>
     <hc-key>ws-6508</hc-key>
     <hc-a2>SA</hc-a2>
   </desc>
@@ -294,7 +293,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <latitude>-13.7195</latitude>
     <woe-label>NULL</woe-label>
     <type>NULL</type>
-    <hc-middle-x>0.31</hc-middle-x>
+    <hc-middle-x>0.33</hc-middle-x>
     <hc-middle-y>0.46</hc-middle-y>
     <hc-key>ws-6509</hc-key>
     <hc-a2>PA</hc-a2>
@@ -302,6 +301,6 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
 </path>
 </g>
 
-<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth</text>
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth</text>
 
 </svg>

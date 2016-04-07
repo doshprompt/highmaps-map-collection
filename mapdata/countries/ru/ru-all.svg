@@ -3,8 +3,8 @@
 
 <svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <desc>
-Map version: 1.1.1
-Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
+Map version: 1.1.2
+Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth
 </desc>
 <title>Russia</title>
 <g id="admin1">
@@ -15,11 +15,10 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <labelrank>2</labelrank>
     <country-abbrev>Rus.</country-abbrev>
     <subregion>Eastern Europe</subregion>
-    <woe-id>23424936</woe-id>
     <region-wb>Europe &amp; Central Asia</region-wb>
     <iso-a3>RUS</iso-a3>
     <iso-a2>RU</iso-a2>
-    <region-un>Europe</region-un>
+    <woe-id>23424936</woe-id>
     <continent>Europe</continent>
     <hc-key>ru</hc-key>
     <hc-a2>RU</hc-a2>
@@ -69,8 +68,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <latitude>66.7517</latitude>
     <woe-label>NULL</woe-label>
     <type>Avtonomnyy Okrug</type>
-    <hc-middle-x>0.45</hc-middle-x>
-    <hc-middle-y>0.57</hc-middle-y>
+    <hc-middle-x>0.44</hc-middle-x>
+    <hc-middle-y>0.58</hc-middle-y>
     <hc-key>ru-ck</hc-key>
     <hc-a2>CK</hc-a2>
   </desc>
@@ -119,8 +118,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <latitude>67.8271</latitude>
     <woe-label>NULL</woe-label>
     <type>Avtonomnyy Okrug</type>
-    <hc-middle-x>0.71</hc-middle-x>
-    <hc-middle-y>0.79</hc-middle-y>
+    <hc-middle-x>0.77</hc-middle-x>
+    <hc-middle-y>0.84</hc-middle-y>
     <hc-key>ru-nn</hc-key>
     <hc-a2>NN</hc-a2>
   </desc>
@@ -144,8 +143,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <latitude>65.4117</latitude>
     <woe-label>Yamalo-Nenetskiy Avtonomnyy Okrug, RU, Russia</woe-label>
     <type>Avtonomnyy Okrug</type>
-    <hc-middle-x>0.64</hc-middle-x>
-    <hc-middle-y>0.70</hc-middle-y>
+    <hc-middle-x>0.58</hc-middle-x>
+    <hc-middle-y>0.72</hc-middle-y>
     <hc-key>ru-yn</hc-key>
     <hc-a2>YN</hc-a2>
   </desc>
@@ -170,7 +169,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <woe-label>NULL</woe-label>
     <type>Kray</type>
     <hc-middle-x>0.55</hc-middle-x>
-    <hc-middle-y>0.55</hc-middle-y>
+    <hc-middle-y>0.56</hc-middle-y>
     <hc-key>ru-ky</hc-key>
     <hc-a2>KY</hc-a2>
   </desc>
@@ -194,8 +193,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <latitude>65.5964</latitude>
     <woe-label>Sakha, RU, Russia</woe-label>
     <type>Avtonomnyy Okrug</type>
-    <hc-middle-x>0.58</hc-middle-x>
-    <hc-middle-y>0.60</hc-middle-y>
+    <hc-middle-x>0.57</hc-middle-x>
+    <hc-middle-y>0.58</hc-middle-y>
     <hc-key>ru-sk</hc-key>
     <hc-a2>SK</hc-a2>
   </desc>
@@ -219,7 +218,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <latitude>57.0232</latitude>
     <woe-label>Khabarovskiy Kray, RU, Russia</woe-label>
     <type>Kray</type>
-    <hc-middle-x>0.69</hc-middle-x>
+    <hc-middle-x>0.67</hc-middle-x>
     <hc-middle-y>0.75</hc-middle-y>
     <hc-key>ru-kh</hc-key>
     <hc-a2>KH</hc-a2>
@@ -244,8 +243,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <latitude>47.3479</latitude>
     <woe-label>Sakhalinskaya Oblast, RU, Russia</woe-label>
     <type>Oblast</type>
-    <hc-middle-x>0.33</hc-middle-x>
-    <hc-middle-y>0.74</hc-middle-y>
+    <hc-middle-x>0.35</hc-middle-x>
+    <hc-middle-y>0.75</hc-middle-y>
     <hc-key>ru-sl</hc-key>
     <hc-a2>SL</hc-a2>
   </desc>
@@ -269,8 +268,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <latitude>56.5325</latitude>
     <woe-label>Kamchatskaya Oblast, RU, Russia</woe-label>
     <type>Oblast</type>
-    <hc-middle-x>0.67</hc-middle-x>
-    <hc-middle-y>0.75</hc-middle-y>
+    <hc-middle-x>0.66</hc-middle-x>
+    <hc-middle-y>0.73</hc-middle-y>
     <hc-key>ru-ka</hc-key>
     <hc-a2>KA</hc-a2>
   </desc>
@@ -294,8 +293,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <latitude>58.3882</latitude>
     <woe-label>Kostromskaya Oblast, RU, Russia</woe-label>
     <type>Oblast</type>
-    <hc-middle-x>0.61</hc-middle-x>
-    <hc-middle-y>0.64</hc-middle-y>
+    <hc-middle-x>0.44</hc-middle-x>
+    <hc-middle-y>0.41</hc-middle-y>
     <hc-key>ru-kt</hc-key>
     <hc-a2>KT</hc-a2>
   </desc>
@@ -369,8 +368,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <latitude>53.1783</latitude>
     <woe-label>Samarskaya Oblast, RU, Russia</woe-label>
     <type>Oblast</type>
-    <hc-middle-x>0.34</hc-middle-x>
-    <hc-middle-y>0.45</hc-middle-y>
+    <hc-middle-x>0.36</hc-middle-x>
+    <hc-middle-y>0.44</hc-middle-y>
     <hc-key>ru-sa</hc-key>
     <hc-a2>SA</hc-a2>
   </desc>
@@ -394,8 +393,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <latitude>53.9248</latitude>
     <woe-label>Ulryanovskaya Oblast, RU, Russia</woe-label>
     <type>Oblast</type>
-    <hc-middle-x>0.55</hc-middle-x>
-    <hc-middle-y>0.56</hc-middle-y>
+    <hc-middle-x>0.40</hc-middle-x>
+    <hc-middle-y>0.51</hc-middle-y>
     <hc-key>ru-ul</hc-key>
     <hc-a2>UL</hc-a2>
   </desc>
@@ -444,8 +443,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <latitude>55.3139</latitude>
     <woe-label>Novosibirskaya Oblast, RU, Russia</woe-label>
     <type>Oblast</type>
-    <hc-middle-x>0.42</hc-middle-x>
-    <hc-middle-y>0.55</hc-middle-y>
+    <hc-middle-x>0.46</hc-middle-x>
+    <hc-middle-y>0.52</hc-middle-y>
     <hc-key>ru-ns</hc-key>
     <hc-a2>NS</hc-a2>
   </desc>
@@ -469,7 +468,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <latitude>67.9609</latitude>
     <woe-label>Murmanskaya Oblast, RU, Russia</woe-label>
     <type>Oblast</type>
-    <hc-middle-x>0.65</hc-middle-x>
+    <hc-middle-x>0.63</hc-middle-x>
     <hc-middle-y>0.50</hc-middle-y>
     <hc-key>ru-mm</hc-key>
     <hc-a2>MM</hc-a2>
@@ -494,8 +493,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <latitude>59.9905</latitude>
     <woe-label>Leningradskaya Oblast, RU, Russia</woe-label>
     <type>Oblast</type>
-    <hc-middle-x>0.36</hc-middle-x>
-    <hc-middle-y>0.13</hc-middle-y>
+    <hc-middle-x>0.40</hc-middle-x>
+    <hc-middle-y>0.15</hc-middle-y>
     <hc-key>ru-ln</hc-key>
     <hc-a2>LN</hc-a2>
   </desc>
@@ -519,8 +518,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <latitude>59.8064</latitude>
     <woe-label>St. Peterburg, RU, Russia</woe-label>
     <type>Gorsovet</type>
-    <hc-middle-x>0.36</hc-middle-x>
-    <hc-middle-y>0.78</hc-middle-y>
+    <hc-middle-x>0.40</hc-middle-x>
+    <hc-middle-y>0.73</hc-middle-y>
     <hc-key>ru-sp</hc-key>
     <hc-a2>SP</hc-a2>
   </desc>
@@ -544,7 +543,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <latitude>63.5295</latitude>
     <woe-label>Kareliya, RU, Russia</woe-label>
     <type>Respublika</type>
-    <hc-middle-x>0.61</hc-middle-x>
+    <hc-middle-x>0.60</hc-middle-x>
     <hc-middle-y>0.46</hc-middle-y>
     <hc-key>ru-ki</hc-key>
     <hc-a2>KI</hc-a2>
@@ -569,8 +568,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <latitude>43.7073</latitude>
     <woe-label>Karachayevo-Cherkesiya, RU, Russia</woe-label>
     <type>Respublika</type>
-    <hc-middle-x>0.20</hc-middle-x>
-    <hc-middle-y>0.62</hc-middle-y>
+    <hc-middle-x>0.25</hc-middle-x>
+    <hc-middle-y>0.60</hc-middle-y>
     <hc-key>ru-kc</hc-key>
     <hc-a2>KC</hc-a2>
   </desc>
@@ -594,8 +593,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <latitude>43.3661</latitude>
     <woe-label>Ingushetiya, RU, Russia</woe-label>
     <type>Respublika</type>
-    <hc-middle-x>0.29</hc-middle-x>
-    <hc-middle-y>0.76</hc-middle-y>
+    <hc-middle-x>0.83</hc-middle-x>
+    <hc-middle-y>0.15</hc-middle-y>
     <hc-key>ru-in</hc-key>
     <hc-a2>IN</hc-a2>
   </desc>
@@ -619,8 +618,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <latitude>43.3757</latitude>
     <woe-label>Kabardino-Balkariya, RU, Russia</woe-label>
     <type>Respublika</type>
-    <hc-middle-x>0.22</hc-middle-x>
-    <hc-middle-y>0.28</hc-middle-y>
+    <hc-middle-x>0.46</hc-middle-x>
+    <hc-middle-y>0.56</hc-middle-y>
     <hc-key>ru-kb</hc-key>
     <hc-a2>KB</hc-a2>
   </desc>
@@ -644,7 +643,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <latitude>42.9969</latitude>
     <woe-label>NULL</woe-label>
     <type>Respublika</type>
-    <hc-middle-x>0.16</hc-middle-x>
+    <hc-middle-x>0.21</hc-middle-x>
     <hc-middle-y>0.55</hc-middle-y>
     <hc-key>ru-no</hc-key>
     <hc-a2>NO</hc-a2>
@@ -694,8 +693,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <latitude>54.6726</latitude>
     <woe-label>Smolenskaya Oblast, RU, Russia</woe-label>
     <type>Oblast</type>
-    <hc-middle-x>0.33</hc-middle-x>
-    <hc-middle-y>0.64</hc-middle-y>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.66</hc-middle-y>
     <hc-key>ru-sm</hc-key>
     <hc-a2>SM</hc-a2>
   </desc>
@@ -769,8 +768,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <latitude>59.6397</latitude>
     <woe-label>Vologodskaya Oblast, RU, Russia</woe-label>
     <type>Oblast</type>
-    <hc-middle-x>0.40</hc-middle-x>
-    <hc-middle-y>0.49</hc-middle-y>
+    <hc-middle-x>0.34</hc-middle-x>
+    <hc-middle-y>0.35</hc-middle-y>
     <hc-key>ru-vo</hc-key>
     <hc-a2>VO</hc-a2>
   </desc>
@@ -794,8 +793,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <latitude>57.1213</latitude>
     <woe-label>Ivanovskaya Oblast, RU, Russia</woe-label>
     <type>Oblast</type>
-    <hc-middle-x>0.81</hc-middle-x>
-    <hc-middle-y>0.53</hc-middle-y>
+    <hc-middle-x>0.49</hc-middle-x>
+    <hc-middle-y>0.49</hc-middle-y>
     <hc-key>ru-iv</hc-key>
     <hc-a2>IV</hc-a2>
   </desc>
@@ -819,8 +818,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <latitude>57.7329</latitude>
     <woe-label>Yaroslavskaya Oblast, RU, Russia</woe-label>
     <type>Oblast</type>
-    <hc-middle-x>0.44</hc-middle-x>
-    <hc-middle-y>0.51</hc-middle-y>
+    <hc-middle-x>0.61</hc-middle-x>
+    <hc-middle-y>0.45</hc-middle-y>
     <hc-key>ru-ys</hc-key>
     <hc-a2>YS</hc-a2>
   </desc>
@@ -869,8 +868,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <latitude>53.0868</latitude>
     <woe-label>Bryanskaya Oblast, RU, Russia</woe-label>
     <type>Oblast</type>
-    <hc-middle-x>0.25</hc-middle-x>
-    <hc-middle-y>0.37</hc-middle-y>
+    <hc-middle-x>0.62</hc-middle-x>
+    <hc-middle-y>0.63</hc-middle-y>
     <hc-key>ru-br</hc-key>
     <hc-a2>BR</hc-a2>
   </desc>
@@ -894,8 +893,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <latitude>51.7358</latitude>
     <woe-label>Kurskaya Oblast, RU, Russia</woe-label>
     <type>Oblast</type>
-    <hc-middle-x>0.20</hc-middle-x>
-    <hc-middle-y>0.41</hc-middle-y>
+    <hc-middle-x>0.15</hc-middle-x>
+    <hc-middle-y>0.28</hc-middle-y>
     <hc-key>ru-ks</hc-key>
     <hc-a2>KS</hc-a2>
   </desc>
@@ -944,8 +943,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <latitude>55.1508</latitude>
     <woe-label>Moskovskaya Oblast, RU, Russia</woe-label>
     <type>Oblast</type>
-    <hc-middle-x>0.52</hc-middle-x>
-    <hc-middle-y>0.35</hc-middle-y>
+    <hc-middle-x>0.56</hc-middle-x>
+    <hc-middle-y>0.76</hc-middle-y>
     <hc-key>ru-ms</hc-key>
     <hc-a2>MS</hc-a2>
   </desc>
@@ -969,8 +968,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <latitude>52.8778</latitude>
     <woe-label>Orlovskaya Oblast, RU, Russia</woe-label>
     <type>Oblast</type>
-    <hc-middle-x>0.82</hc-middle-x>
-    <hc-middle-y>0.39</hc-middle-y>
+    <hc-middle-x>0.55</hc-middle-x>
+    <hc-middle-y>0.48</hc-middle-y>
     <hc-key>ru-ol</hc-key>
     <hc-a2>OL</hc-a2>
   </desc>
@@ -994,8 +993,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <latitude>56.1384</latitude>
     <woe-label>Nizhegorodskaya Oblast, RU, Russia</woe-label>
     <type>Oblast</type>
-    <hc-middle-x>0.38</hc-middle-x>
-    <hc-middle-y>0.48</hc-middle-y>
+    <hc-middle-x>0.27</hc-middle-x>
+    <hc-middle-y>0.40</hc-middle-y>
     <hc-key>ru-nz</hc-key>
     <hc-a2>NZ</hc-a2>
   </desc>
@@ -1019,8 +1018,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <latitude>53.0562</latitude>
     <woe-label>Penzenskaya Oblast, RU, Russia</woe-label>
     <type>Oblast</type>
-    <hc-middle-x>0.63</hc-middle-x>
-    <hc-middle-y>0.64</hc-middle-y>
+    <hc-middle-x>0.61</hc-middle-x>
+    <hc-middle-y>0.63</hc-middle-y>
     <hc-key>ru-pz</hc-key>
     <hc-a2>PZ</hc-a2>
   </desc>
@@ -1044,8 +1043,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <latitude>55.8966</latitude>
     <woe-label>Vladimirskaya Oblast, RU, Russia</woe-label>
     <type>Oblast</type>
-    <hc-middle-x>0.62</hc-middle-x>
-    <hc-middle-y>0.46</hc-middle-y>
+    <hc-middle-x>0.49</hc-middle-x>
+    <hc-middle-y>0.70</hc-middle-y>
     <hc-key>ru-vl</hc-key>
     <hc-a2>VL</hc-a2>
   </desc>
@@ -1094,8 +1093,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <latitude>64.1194</latitude>
     <woe-label>Komi, RU, Russia</woe-label>
     <type>Respublika</type>
-    <hc-middle-x>0.47</hc-middle-x>
-    <hc-middle-y>0.53</hc-middle-y>
+    <hc-middle-x>0.46</hc-middle-x>
+    <hc-middle-y>0.52</hc-middle-y>
     <hc-key>ru-ko</hc-key>
     <hc-a2>KO</hc-a2>
   </desc>
@@ -1119,8 +1118,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <latitude>58.8952</latitude>
     <woe-label>Sverdlovskaya Oblast, RU, Russia</woe-label>
     <type>Oblast</type>
-    <hc-middle-x>0.59</hc-middle-x>
-    <hc-middle-y>0.57</hc-middle-y>
+    <hc-middle-x>0.64</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
     <hc-key>ru-sv</hc-key>
     <hc-a2>SV</hc-a2>
   </desc>
@@ -1144,7 +1143,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <latitude>54.2086</latitude>
     <woe-label>Bashkortostan, RU, Russia</woe-label>
     <type>Respublika</type>
-    <hc-middle-x>0.38</hc-middle-x>
+    <hc-middle-x>0.35</hc-middle-x>
     <hc-middle-y>0.50</hc-middle-y>
     <hc-key>ru-bk</hc-key>
     <hc-a2>BK</hc-a2>
@@ -1194,8 +1193,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <latitude>54.1154</latitude>
     <woe-label>Mordoviya, RU, Russia</woe-label>
     <type>Respublika</type>
-    <hc-middle-x>0.51</hc-middle-x>
-    <hc-middle-y>0.54</hc-middle-y>
+    <hc-middle-x>0.37</hc-middle-x>
+    <hc-middle-y>0.43</hc-middle-y>
     <hc-key>ru-mr</hc-key>
     <hc-a2>MR</hc-a2>
   </desc>
@@ -1244,8 +1243,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <latitude>54.1131</latitude>
     <woe-label>Chelyabinskaya Oblast, RU, Russia</woe-label>
     <type>Oblast</type>
-    <hc-middle-x>0.62</hc-middle-x>
-    <hc-middle-y>0.33</hc-middle-y>
+    <hc-middle-x>0.34</hc-middle-x>
+    <hc-middle-y>0.68</hc-middle-y>
     <hc-key>ru-cl</hc-key>
     <hc-a2>CL</hc-a2>
   </desc>
@@ -1269,8 +1268,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <latitude>51.5157</latitude>
     <woe-label>Orenburgskaya Oblast, RU, Russia</woe-label>
     <type>Oblast</type>
-    <hc-middle-x>0.38</hc-middle-x>
-    <hc-middle-y>0.41</hc-middle-y>
+    <hc-middle-x>0.34</hc-middle-x>
+    <hc-middle-y>0.35</hc-middle-y>
     <hc-key>ru-ob</hc-key>
     <hc-a2>OB</hc-a2>
   </desc>
@@ -1294,8 +1293,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <latitude>51.6742</latitude>
     <woe-label>Saratovskaya Oblast, RU, Russia</woe-label>
     <type>Oblast</type>
-    <hc-middle-x>0.55</hc-middle-x>
-    <hc-middle-y>0.59</hc-middle-y>
+    <hc-middle-x>0.59</hc-middle-x>
+    <hc-middle-y>0.66</hc-middle-y>
     <hc-key>ru-sr</hc-key>
     <hc-a2>SR</hc-a2>
   </desc>
@@ -1319,8 +1318,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <latitude>55.374</latitude>
     <woe-label>Tatarstan, RU, Russia</woe-label>
     <type>Respublika</type>
-    <hc-middle-x>0.46</hc-middle-x>
-    <hc-middle-y>0.27</hc-middle-y>
+    <hc-middle-x>0.48</hc-middle-x>
+    <hc-middle-y>0.29</hc-middle-y>
     <hc-key>ru-tt</hc-key>
     <hc-a2>TT</hc-a2>
   </desc>
@@ -1344,8 +1343,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <latitude>58.4467</latitude>
     <woe-label>Tomskaya Oblast, RU, Russia</woe-label>
     <type>Oblast</type>
-    <hc-middle-x>0.47</hc-middle-x>
-    <hc-middle-y>0.44</hc-middle-y>
+    <hc-middle-x>0.48</hc-middle-x>
+    <hc-middle-y>0.45</hc-middle-y>
     <hc-key>ru-to</hc-key>
     <hc-a2>TO</hc-a2>
   </desc>
@@ -1369,8 +1368,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <latitude>57.2639</latitude>
     <woe-label>Tyumenskaya Oblast, RU, Russia</woe-label>
     <type>Oblast</type>
-    <hc-middle-x>0.30</hc-middle-x>
-    <hc-middle-y>0.54</hc-middle-y>
+    <hc-middle-x>0.31</hc-middle-x>
+    <hc-middle-y>0.52</hc-middle-y>
     <hc-key>ru-ty</hc-key>
     <hc-a2>TY</hc-a2>
   </desc>
@@ -1419,8 +1418,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <latitude>53.3643</latitude>
     <woe-label>Khakasiya, RU, Russia</woe-label>
     <type>Respublika</type>
-    <hc-middle-x>0.56</hc-middle-x>
-    <hc-middle-y>0.41</hc-middle-y>
+    <hc-middle-x>0.59</hc-middle-x>
+    <hc-middle-y>0.48</hc-middle-y>
     <hc-key>ru-kk</hc-key>
     <hc-a2>KK</hc-a2>
   </desc>
@@ -1444,8 +1443,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <latitude>43.2153</latitude>
     <woe-label>NULL</woe-label>
     <type>Respublika</type>
-    <hc-middle-x>0.24</hc-middle-x>
-    <hc-middle-y>0.80</hc-middle-y>
+    <hc-middle-x>0.09</hc-middle-x>
+    <hc-middle-y>0.56</hc-middle-y>
     <hc-key>ru-cn</hc-key>
     <hc-a2>CN</hc-a2>
   </desc>
@@ -1470,7 +1469,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <woe-label>Kalmykiya, RU, Russia</woe-label>
     <type>Respublika</type>
     <hc-middle-x>0.64</hc-middle-x>
-    <hc-middle-y>0.50</hc-middle-y>
+    <hc-middle-y>0.51</hc-middle-y>
     <hc-key>ru-kl</hc-key>
     <hc-a2>KL</hc-a2>
   </desc>
@@ -1494,8 +1493,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <latitude>42.36</latitude>
     <woe-label>Dagestan, RU, Russia</woe-label>
     <type>Respublika</type>
-    <hc-middle-x>0.32</hc-middle-x>
-    <hc-middle-y>0.73</hc-middle-y>
+    <hc-middle-x>0.41</hc-middle-x>
+    <hc-middle-y>0.70</hc-middle-y>
     <hc-key>ru-da</hc-key>
     <hc-a2>DA</hc-a2>
   </desc>
@@ -1519,8 +1518,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <latitude>47.9913</latitude>
     <woe-label>Rostovskaya Oblast, RU, Russia</woe-label>
     <type>Oblast</type>
-    <hc-middle-x>0.47</hc-middle-x>
-    <hc-middle-y>0.35</hc-middle-y>
+    <hc-middle-x>0.49</hc-middle-x>
+    <hc-middle-y>0.47</hc-middle-y>
     <hc-key>ru-ro</hc-key>
     <hc-a2>RO</hc-a2>
   </desc>
@@ -1544,8 +1543,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <latitude>50.8757</latitude>
     <woe-label>Belgorodskaya Oblast, RU, Russia</woe-label>
     <type>Oblast</type>
-    <hc-middle-x>0.56</hc-middle-x>
-    <hc-middle-y>0.46</hc-middle-y>
+    <hc-middle-x>0.43</hc-middle-x>
+    <hc-middle-y>0.65</hc-middle-y>
     <hc-key>ru-bl</hc-key>
     <hc-a2>BL</hc-a2>
   </desc>
@@ -1569,7 +1568,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <latitude>51.6051</latitude>
     <woe-label>Tyva, RU, Russia</woe-label>
     <type>Respublika</type>
-    <hc-middle-x>0.74</hc-middle-x>
+    <hc-middle-x>0.72</hc-middle-x>
     <hc-middle-y>0.48</hc-middle-y>
     <hc-key>ru-tu</hc-key>
     <hc-a2>TU</hc-a2>
@@ -1594,8 +1593,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <latitude>56.8255</latitude>
     <woe-label>Irkutskaya Oblast, RU, Russia</woe-label>
     <type>Oblast</type>
-    <hc-middle-x>0.43</hc-middle-x>
-    <hc-middle-y>0.59</hc-middle-y>
+    <hc-middle-x>0.46</hc-middle-x>
+    <hc-middle-y>0.61</hc-middle-y>
     <hc-key>ru-ir</hc-key>
     <hc-a2>IR</hc-a2>
   </desc>
@@ -1619,7 +1618,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <latitude>52.159</latitude>
     <woe-label>Chitinskaya Oblast, RU, Russia</woe-label>
     <type>Oblast</type>
-    <hc-middle-x>0.73</hc-middle-x>
+    <hc-middle-x>0.72</hc-middle-x>
     <hc-middle-y>0.45</hc-middle-y>
     <hc-key>ru-ct</hc-key>
     <hc-a2>CT</hc-a2>
@@ -1644,8 +1643,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <latitude>48.64</latitude>
     <woe-label>Yevreyskaya Avtonomnaya Oblast, RU, Russia</woe-label>
     <type>Avtonomnaya Oblast</type>
-    <hc-middle-x>0.56</hc-middle-x>
-    <hc-middle-y>0.68</hc-middle-y>
+    <hc-middle-x>0.32</hc-middle-x>
+    <hc-middle-y>0.70</hc-middle-y>
     <hc-key>ru-yv</hc-key>
     <hc-a2>YV</hc-a2>
   </desc>
@@ -1670,7 +1669,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <woe-label>Amurskaya Oblast, RU, Russia</woe-label>
     <type>Oblast</type>
     <hc-middle-x>0.63</hc-middle-x>
-    <hc-middle-y>0.54</hc-middle-y>
+    <hc-middle-y>0.55</hc-middle-y>
     <hc-key>ru-am</hc-key>
     <hc-a2>AM</hc-a2>
   </desc>
@@ -1719,8 +1718,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <latitude>54.0668</latitude>
     <woe-label>Tulrskaya Oblast, RU, Russia</woe-label>
     <type>Oblast</type>
-    <hc-middle-x>0.52</hc-middle-x>
-    <hc-middle-y>0.45</hc-middle-y>
+    <hc-middle-x>0.58</hc-middle-x>
+    <hc-middle-y>0.66</hc-middle-y>
     <hc-key>ru-tl</hc-key>
     <hc-a2>TL</hc-a2>
   </desc>
@@ -1744,8 +1743,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <latitude>58.4228</latitude>
     <woe-label>Novgorodskaya Oblast, RU, Russia</woe-label>
     <type>Oblast</type>
-    <hc-middle-x>0.44</hc-middle-x>
-    <hc-middle-y>0.38</hc-middle-y>
+    <hc-middle-x>0.47</hc-middle-x>
+    <hc-middle-y>0.39</hc-middle-y>
     <hc-key>ru-ng</hc-key>
     <hc-a2>NG</hc-a2>
   </desc>
@@ -1769,8 +1768,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <latitude>49.5014</latitude>
     <woe-label>Volgogradskaya Oblast, RU, Russia</woe-label>
     <type>Oblast</type>
-    <hc-middle-x>0.48</hc-middle-x>
-    <hc-middle-y>0.44</hc-middle-y>
+    <hc-middle-x>0.55</hc-middle-x>
+    <hc-middle-y>0.39</hc-middle-y>
     <hc-key>ru-vg</hc-key>
     <hc-a2>VG</hc-a2>
   </desc>
@@ -1794,8 +1793,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <latitude>58.1926</latitude>
     <woe-label>Kirovskaya Oblast, RU, Russia</woe-label>
     <type>Oblast</type>
-    <hc-middle-x>0.37</hc-middle-x>
-    <hc-middle-y>0.52</hc-middle-y>
+    <hc-middle-x>0.38</hc-middle-x>
+    <hc-middle-y>0.54</hc-middle-y>
     <hc-key>ru-kv</hc-key>
     <hc-a2>KV</hc-a2>
   </desc>
@@ -1819,8 +1818,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <latitude>56.5407</latitude>
     <woe-label>Mariy-El, RU, Russia</woe-label>
     <type>Respublika</type>
-    <hc-middle-x>0.46</hc-middle-x>
-    <hc-middle-y>0.57</hc-middle-y>
+    <hc-middle-x>0.63</hc-middle-x>
+    <hc-middle-y>0.68</hc-middle-y>
     <hc-key>ru-me</hc-key>
     <hc-a2>ME</hc-a2>
   </desc>
@@ -1844,8 +1843,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <latitude>54.6462</latitude>
     <woe-label>Kemerovskaya Oblast, RU, Russia</woe-label>
     <type>Oblast</type>
-    <hc-middle-x>0.55</hc-middle-x>
-    <hc-middle-y>0.41</hc-middle-y>
+    <hc-middle-x>0.56</hc-middle-x>
+    <hc-middle-y>0.43</hc-middle-y>
     <hc-key>ru-ke</hc-key>
     <hc-a2>KE</hc-a2>
   </desc>
@@ -1869,8 +1868,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <latitude>47.0334</latitude>
     <woe-label>Astrakhanskaya Oblast, RU, Russia</woe-label>
     <type>Oblast</type>
-    <hc-middle-x>0.78</hc-middle-x>
-    <hc-middle-y>0.68</hc-middle-y>
+    <hc-middle-x>0.49</hc-middle-x>
+    <hc-middle-y>0.78</hc-middle-y>
     <hc-key>ru-as</hc-key>
     <hc-a2>AS</hc-a2>
   </desc>
@@ -1895,7 +1894,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <woe-label>Primorskiy Kray, RU, Russia</woe-label>
     <type>Kray</type>
     <hc-middle-x>0.59</hc-middle-x>
-    <hc-middle-y>0.48</hc-middle-y>
+    <hc-middle-y>0.49</hc-middle-y>
     <hc-key>ru-pr</hc-key>
     <hc-a2>PR</hc-a2>
   </desc>
@@ -1919,8 +1918,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <latitude>62.6257</latitude>
     <woe-label>Magadanskaya Oblast, RU, Russia</woe-label>
     <type>Oblast</type>
-    <hc-middle-x>0.45</hc-middle-x>
-    <hc-middle-y>0.45</hc-middle-y>
+    <hc-middle-x>0.46</hc-middle-x>
+    <hc-middle-y>0.46</hc-middle-y>
     <hc-key>ru-mg</hc-key>
     <hc-a2>MG</hc-a2>
   </desc>
@@ -1944,8 +1943,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <latitude>52.9061</latitude>
     <woe-label>Buryatiya, RU, Russia</woe-label>
     <type>Respublika</type>
-    <hc-middle-x>0.75</hc-middle-x>
-    <hc-middle-y>0.45</hc-middle-y>
+    <hc-middle-x>0.71</hc-middle-x>
+    <hc-middle-y>0.46</hc-middle-y>
     <hc-key>ru-bu</hc-key>
     <hc-a2>BU</hc-a2>
   </desc>
@@ -1969,8 +1968,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <latitude>54.6636</latitude>
     <woe-label>Kaliningradskaya Oblast, RU, Russia</woe-label>
     <type>Oblast</type>
-    <hc-middle-x>0.69</hc-middle-x>
-    <hc-middle-y>0.71</hc-middle-y>
+    <hc-middle-x>0.67</hc-middle-x>
+    <hc-middle-y>0.67</hc-middle-y>
     <hc-key>ru-kn</hc-key>
     <hc-a2>KN</hc-a2>
   </desc>
@@ -1994,8 +1993,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <latitude>45.8397</latitude>
     <woe-label>Krasnodarskiy Kray, RU, Russia</woe-label>
     <type>Kray</type>
-    <hc-middle-x>0.50</hc-middle-x>
-    <hc-middle-y>0.38</hc-middle-y>
+    <hc-middle-x>0.65</hc-middle-x>
+    <hc-middle-y>0.39</hc-middle-y>
     <hc-key>ru-kd</hc-key>
     <hc-a2>KD</hc-a2>
   </desc>
@@ -2019,8 +2018,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <latitude>55.4316</latitude>
     <woe-label>Kurganskaya Oblast, RU, Russia</woe-label>
     <type>Oblast</type>
-    <hc-middle-x>0.50</hc-middle-x>
-    <hc-middle-y>0.71</hc-middle-y>
+    <hc-middle-x>0.33</hc-middle-x>
+    <hc-middle-y>0.46</hc-middle-y>
     <hc-key>ru-ku</hc-key>
     <hc-a2>KU</hc-a2>
   </desc>
@@ -2044,8 +2043,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <latitude>52.4268</latitude>
     <woe-label>Altayskiy Kray, RU, Russia</woe-label>
     <type>Kray</type>
-    <hc-middle-x>0.41</hc-middle-x>
-    <hc-middle-y>0.49</hc-middle-y>
+    <hc-middle-x>0.57</hc-middle-x>
+    <hc-middle-y>0.47</hc-middle-y>
     <hc-key>ru-al</hc-key>
     <hc-a2>AL</hc-a2>
   </desc>
@@ -2069,8 +2068,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <latitude>61.4315</latitude>
     <woe-label>Khanty-Mansiyskiy Avtonomnyy Okrug, RU, Russia</woe-label>
     <type>Avtonomnyy Okrug</type>
-    <hc-middle-x>0.33</hc-middle-x>
-    <hc-middle-y>0.53</hc-middle-y>
+    <hc-middle-x>0.32</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
     <hc-key>ru-km</hc-key>
     <hc-a2>KM</hc-a2>
   </desc>
@@ -2094,8 +2093,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <latitude>58.8735</latitude>
     <woe-label>Permskiy Kray, RU, Russia</woe-label>
     <type>Kray</type>
-    <hc-middle-x>0.52</hc-middle-x>
-    <hc-middle-y>0.47</hc-middle-y>
+    <hc-middle-x>0.51</hc-middle-x>
+    <hc-middle-y>0.48</hc-middle-y>
     <hc-key>ru-pe</hc-key>
     <hc-a2>PE</hc-a2>
   </desc>
@@ -2119,14 +2118,14 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <latitude>44.4658</latitude>
     <woe-label>Adygeya, RU, Russia</woe-label>
     <type>Respublika</type>
-    <hc-middle-x>0.02</hc-middle-x>
-    <hc-middle-y>0.77</hc-middle-y>
+    <hc-middle-x>0.10</hc-middle-x>
+    <hc-middle-y>0.73</hc-middle-y>
     <hc-key>ru-ad</hc-key>
     <hc-a2>AD</hc-a2>
   </desc>
 </path>
 </g>
 
-<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth</text>
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth</text>
 
 </svg>

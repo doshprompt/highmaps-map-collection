@@ -3,8 +3,8 @@
 
 <svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <desc>
-Map version: 1.1.1
-Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bureau
+Map version: 1.1.2
+Copyright (c) 2015 Highsoft AS, Based on data from The United States Census Bureau
 </desc>
 <title>Massachusetts</title>
 <g id="admin2">
@@ -38,11 +38,10 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
     <labelrank>2</labelrank>
     <country-abbrev>U.S.A.</country-abbrev>
     <subregion>Northern America</subregion>
-    <woe-id>23424977</woe-id>
     <region-wb>North America</region-wb>
     <iso-a3>USA</iso-a3>
     <iso-a2>US</iso-a2>
-    <region-un>Americas</region-un>
+    <woe-id>23424977</woe-id>
     <continent>North America</continent>
     <hc-key>us</hc-key>
     <hc-a2>US</hc-a2>
@@ -54,7 +53,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
     <fips>25007</fips>
     <name>Dukes</name>
     <hc-middle-x>0.63</hc-middle-x>
-    <hc-middle-y>0.38</hc-middle-y>
+    <hc-middle-y>0.44</hc-middle-y>
     <hc-key>us-ma-007</hc-key>
     <hc-a2>DU</hc-a2>
   </desc>
@@ -64,8 +63,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>25019</fips>
     <name>Nantucket</name>
-    <hc-middle-x>0.80</hc-middle-x>
-    <hc-middle-y>0.74</hc-middle-y>
+    <hc-middle-x>0.74</hc-middle-x>
+    <hc-middle-y>0.79</hc-middle-y>
     <hc-key>us-ma-019</hc-key>
     <hc-a2>NA</hc-a2>
   </desc>
@@ -97,8 +96,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>25015</fips>
     <name>Hampshire</name>
-    <hc-middle-x>0.42</hc-middle-x>
-    <hc-middle-y>0.54</hc-middle-y>
+    <hc-middle-x>0.41</hc-middle-x>
+    <hc-middle-y>0.55</hc-middle-y>
     <hc-key>us-ma-015</hc-key>
     <hc-a2>HA</hc-a2>
   </desc>
@@ -108,8 +107,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>25021</fips>
     <name>Norfolk</name>
-    <hc-middle-x>0.44</hc-middle-x>
-    <hc-middle-y>0.48</hc-middle-y>
+    <hc-middle-x>0.42</hc-middle-x>
+    <hc-middle-y>0.54</hc-middle-y>
     <hc-key>us-ma-021</hc-key>
     <hc-a2>NO</hc-a2>
   </desc>
@@ -119,8 +118,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>25005</fips>
     <name>Bristol</name>
-    <hc-middle-x>0.50</hc-middle-x>
-    <hc-middle-y>0.44</hc-middle-y>
+    <hc-middle-x>0.51</hc-middle-x>
+    <hc-middle-y>0.45</hc-middle-y>
     <hc-key>us-ma-005</hc-key>
     <hc-a2>BR</hc-a2>
   </desc>
@@ -130,8 +129,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>25023</fips>
     <name>Plymouth</name>
-    <hc-middle-x>0.48</hc-middle-x>
-    <hc-middle-y>0.54</hc-middle-y>
+    <hc-middle-x>0.49</hc-middle-x>
+    <hc-middle-y>0.53</hc-middle-y>
     <hc-key>us-ma-023</hc-key>
     <hc-a2>PL</hc-a2>
   </desc>
@@ -141,7 +140,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>25013</fips>
     <name>Hampden</name>
-    <hc-middle-x>0.57</hc-middle-x>
+    <hc-middle-x>0.58</hc-middle-x>
     <hc-middle-y>0.63</hc-middle-y>
     <hc-key>us-ma-013</hc-key>
     <hc-a2>HA</hc-a2>
@@ -152,8 +151,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>25025</fips>
     <name>Suffolk</name>
-    <hc-middle-x>0.41</hc-middle-x>
-    <hc-middle-y>0.66</hc-middle-y>
+    <hc-middle-x>0.45</hc-middle-x>
+    <hc-middle-y>0.62</hc-middle-y>
     <hc-key>us-ma-025</hc-key>
     <hc-a2>SU</hc-a2>
   </desc>
@@ -174,8 +173,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>25017</fips>
     <name>Middlesex</name>
-    <hc-middle-x>0.62</hc-middle-x>
-    <hc-middle-y>0.46</hc-middle-y>
+    <hc-middle-x>0.61</hc-middle-x>
+    <hc-middle-y>0.45</hc-middle-y>
     <hc-key>us-ma-017</hc-key>
     <hc-a2>MI</hc-a2>
   </desc>
@@ -185,7 +184,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>25003</fips>
     <name>Berkshire</name>
-    <hc-middle-x>0.54</hc-middle-x>
+    <hc-middle-x>0.55</hc-middle-x>
     <hc-middle-y>0.50</hc-middle-y>
     <hc-key>us-ma-003</hc-key>
     <hc-a2>BE</hc-a2>
@@ -196,7 +195,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>25011</fips>
     <name>Franklin</name>
-    <hc-middle-x>0.54</hc-middle-x>
+    <hc-middle-x>0.53</hc-middle-x>
     <hc-middle-y>0.38</hc-middle-y>
     <hc-key>us-ma-011</hc-key>
     <hc-a2>FR</hc-a2>
@@ -204,6 +203,6 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
 </path>
 </g>
 
-<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bureau</text>
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2015 Highsoft AS, Based on data from The United States Census Bureau</text>
 
 </svg>

@@ -3,8 +3,8 @@
 
 <svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <desc>
-Map version: 1.1.1
-Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
+Map version: 1.1.2
+Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth
 </desc>
 <title>Kuwait</title>
 <g id="admin1">
@@ -15,11 +15,10 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <labelrank>6</labelrank>
     <country-abbrev>Kwt.</country-abbrev>
     <subregion>Western Asia</subregion>
-    <woe-id>23424870</woe-id>
     <region-wb>Middle East &amp; North Africa</region-wb>
     <iso-a3>KWT</iso-a3>
     <iso-a2>KW</iso-a2>
-    <region-un>Asia</region-un>
+    <woe-id>23424870</woe-id>
     <continent>Asia</continent>
     <hc-key>kw</hc-key>
     <hc-a2>KU</hc-a2>
@@ -44,14 +43,14 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <latitude>29.7843</latitude>
     <woe-label>Al Jahra´, KW, Kuwait</woe-label>
     <type>Muhafazah</type>
-    <hc-middle-x>0.48</hc-middle-x>
-    <hc-middle-y>0.50</hc-middle-y>
+    <hc-middle-x>0.49</hc-middle-x>
+    <hc-middle-y>0.49</hc-middle-y>
     <hc-key>kw-ja</hc-key>
     <hc-a2>JA</hc-a2>
   </desc>
 </path>
 
-<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="KW.KU" d="M670.4,269.3 L673.4,273.0 L677.5,284.2 L676.9,288.4 L667.9,286.0 L654.1,275.3 L647.1,272.8 L637.5,271.6 L629.8,272.2 L629.7,261.3 L633.6,254.9 L639.9,253.9 L660.2,259.8 L667.4,265.6 Z M481.4,320.4 L496.1,315.0 L498.1,305.0 L503.5,302.5 L510.5,304.6 L517.7,299.0 L521.3,292.8 L527.0,289.9 L535.5,299.9 L525.3,307.6 L529.9,316.2 L499.9,320.9 L483.9,325.8 L481.9,321.8 Z">
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="KW.KU" d="M670.4,269.3 L673.4,273.0 L677.5,284.2 L676.9,288.4 L667.9,286.0 L664.4,283.8 L654.1,275.3 L647.1,272.8 L637.5,271.6 L629.8,272.2 L629.7,261.3 L633.6,254.9 L639.9,253.9 L654.5,257.7 L660.2,259.8 L667.4,265.6 Z M481.4,320.4 L496.1,315.0 L498.1,305.0 L503.5,302.5 L510.5,304.6 L517.7,299.0 L521.3,292.8 L527.0,289.9 L529.7,292.3 L535.5,299.9 L525.3,307.6 L529.9,316.2 L499.9,320.9 L483.9,325.8 L481.9,321.8 Z">
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <labelrank>8</labelrank>
     <hasc>KW.KU</hasc>
@@ -101,7 +100,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
   </desc>
 </path>
 
-<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="KW.AH" d="M572.8,363.7 L576.1,372.0 L581.4,379.9 L583.6,388.3 L594.1,444.7 L600.9,458.4 L619.8,485.2 L625.5,490.3 L639.7,494.5 L640.9,500.8 L639.4,517.4 L642.6,525.5 L653.0,539.3 L659.3,549.9 L668.0,553.3 L683.2,556.1 L679.8,562.6 L678.5,570.0 L679.1,577.6 L681.5,584.6 L673.8,579.1 L673.9,584.5 L679.1,587.7 L674.8,592.4 L669.2,590.6 L669.1,599.3 L672.6,601.3 L677.5,598.6 L681.8,593.3 L682.9,597.6 L685.0,617.5 L689.6,628.1 L700.0,640.0 L419.5,650.1 L416.2,639.1 L409.2,632.1 L400.7,626.4 L392.7,619.4 L386.9,610.1 L381.7,597.9 L377.9,585.3 L376.0,563.0 L374.1,552.5 L352.6,497.5 L334.4,467.9 L344.5,461.5 L362.0,448.7 L443.4,435.3 L451.8,432.3 L453.1,426.7 L455.5,370.7 L475.9,344.2 L483.2,351.2 L488.8,360.0 L489.7,377.6 L546.8,366.3 L569.6,364.2 Z">
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="KW.AH" d="M572.8,363.7 L576.1,372.0 L581.4,379.9 L583.6,388.3 L594.1,444.7 L600.9,458.4 L619.8,485.2 L625.5,490.3 L639.7,494.5 L640.9,500.8 L639.6,509.0 L639.4,517.4 L642.6,525.5 L653.0,539.3 L659.3,549.9 L668.0,553.3 L683.2,556.1 L679.8,562.6 L678.5,570.0 L679.1,577.6 L681.5,584.6 L673.8,579.1 L673.9,584.5 L679.1,587.7 L674.8,592.4 L669.2,590.6 L669.1,599.3 L672.6,601.3 L677.5,598.6 L681.8,593.3 L682.9,597.6 L685.0,617.5 L689.6,628.1 L700.0,640.0 L419.5,650.1 L416.2,639.1 L409.2,632.1 L400.7,626.4 L392.7,619.4 L386.9,610.1 L381.7,597.9 L377.9,585.3 L376.0,563.0 L374.1,552.5 L352.6,497.5 L334.4,467.9 L344.5,461.5 L362.0,448.7 L443.4,435.3 L451.8,432.3 L453.1,426.7 L455.5,370.7 L475.9,344.2 L483.2,351.2 L488.8,360.0 L489.7,377.6 L546.8,366.3 L569.6,364.2 Z">
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <labelrank>7</labelrank>
     <hasc>KW.AH</hasc>
@@ -177,6 +176,6 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
 </path>
 </g>
 
-<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth</text>
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth</text>
 
 </svg>

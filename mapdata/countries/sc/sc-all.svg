@@ -3,8 +3,8 @@
 
 <svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <desc>
-Map version: 1.1.1
-Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
+Map version: 1.1.2
+Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth
 </desc>
 <title>Seychelles</title>
 <g id="admin1">
@@ -15,11 +15,10 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <labelrank>6</labelrank>
     <country-abbrev>Syc.</country-abbrev>
     <subregion>Eastern Africa</subregion>
-    <woe-id>23424941</woe-id>
     <region-wb>Sub-Saharan Africa</region-wb>
     <iso-a3>SYC</iso-a3>
     <iso-a2>SC</iso-a2>
-    <region-un>Africa</region-un>
+    <woe-id>23424941</woe-id>
     <continent>Seven seas (open ocean)</continent>
     <hc-key>sc</hc-key>
     <hc-a2>SE</hc-a2>
@@ -44,8 +43,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <latitude>-4.32918</latitude>
     <woe-label>NULL</woe-label>
     <type>NULL</type>
-    <hc-middle-x>0.87</hc-middle-x>
-    <hc-middle-y>0.64</hc-middle-y>
+    <hc-middle-x>0.73</hc-middle-x>
+    <hc-middle-y>0.68</hc-middle-y>
     <hc-key>sc-6700</hc-key>
     <hc-a2>BS</hc-a2>
   </desc>
@@ -145,7 +144,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <woe-label>NULL</woe-label>
     <type>NULL</type>
     <hc-middle-x>0.70</hc-middle-x>
-    <hc-middle-y>0.63</hc-middle-y>
+    <hc-middle-y>0.62</hc-middle-y>
     <hc-key>sc-6714</hc-key>
     <hc-a2>PG</hc-a2>
   </desc>
@@ -219,7 +218,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <latitude>-4.66702</latitude>
     <woe-label>NULL</woe-label>
     <type>NULL</type>
-    <hc-middle-x>0.89</hc-middle-x>
+    <hc-middle-x>0.87</hc-middle-x>
     <hc-middle-y>0.43</hc-middle-y>
     <hc-key>sc-6704</hc-key>
     <hc-a2>CA</hc-a2>
@@ -245,7 +244,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <woe-label>NULL</woe-label>
     <type>NULL</type>
     <hc-middle-x>0.21</hc-middle-x>
-    <hc-middle-y>0.13</hc-middle-y>
+    <hc-middle-y>0.14</hc-middle-y>
     <hc-key>sc-6705</hc-key>
     <hc-a2>GL</hc-a2>
   </desc>
@@ -469,8 +468,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <latitude>-4.6495</latitude>
     <woe-label>NULL</woe-label>
     <type>NULL</type>
-    <hc-middle-x>0.91</hc-middle-x>
-    <hc-middle-y>0.80</hc-middle-y>
+    <hc-middle-x>0.90</hc-middle-x>
+    <hc-middle-y>0.79</hc-middle-y>
     <hc-key>sc-6718</hc-key>
     <hc-a2>RC</hc-a2>
   </desc>
@@ -494,8 +493,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <latitude>-4.68304</latitude>
     <woe-label>NULL</woe-label>
     <type>NULL</type>
-    <hc-middle-x>0.89</hc-middle-x>
-    <hc-middle-y>0.57</hc-middle-y>
+    <hc-middle-x>0.88</hc-middle-x>
+    <hc-middle-y>0.56</hc-middle-y>
     <hc-key>sc-6694</hc-key>
     <hc-a2>AA</hc-a2>
   </desc>
@@ -544,8 +543,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <latitude>-4.58794</latitude>
     <woe-label>NULL</woe-label>
     <type>NULL</type>
-    <hc-middle-x>0.83</hc-middle-x>
-    <hc-middle-y>0.44</hc-middle-y>
+    <hc-middle-x>0.82</hc-middle-x>
+    <hc-middle-y>0.45</hc-middle-y>
     <hc-key>sc-6696</hc-key>
     <hc-a2>AE</hc-a2>
   </desc>
@@ -594,8 +593,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <latitude>-4.7456</latitude>
     <woe-label>NULL</woe-label>
     <type>NULL</type>
-    <hc-middle-x>0.92</hc-middle-x>
-    <hc-middle-y>0.33</hc-middle-y>
+    <hc-middle-x>0.91</hc-middle-x>
+    <hc-middle-y>0.34</hc-middle-y>
     <hc-key>sc-6698</hc-key>
     <hc-a2>AR</hc-a2>
   </desc>
@@ -644,14 +643,14 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <latitude>-4.60295</latitude>
     <woe-label>NULL</woe-label>
     <type>NULL</type>
-    <hc-middle-x>0.40</hc-middle-x>
-    <hc-middle-y>0.32</hc-middle-y>
+    <hc-middle-x>0.41</hc-middle-x>
+    <hc-middle-y>0.33</hc-middle-y>
     <hc-key>sc-6701</hc-key>
     <hc-a2>BV</hc-a2>
   </desc>
 </path>
 </g>
 
-<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth</text>
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth</text>
 
 </svg>

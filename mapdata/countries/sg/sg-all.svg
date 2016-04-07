@@ -3,8 +3,8 @@
 
 <svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <desc>
-Map version: 1.1.1
-Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
+Map version: 1.1.2
+Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth
 </desc>
 <title>Singapore</title>
 <g id="admin1">
@@ -15,11 +15,10 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <labelrank>6</labelrank>
     <country-abbrev>Sing.</country-abbrev>
     <subregion>South-Eastern Asia</subregion>
-    <woe-id>23424948</woe-id>
     <region-wb>East Asia &amp; Pacific</region-wb>
     <iso-a3>SGP</iso-a3>
     <iso-a2>SG</iso-a2>
-    <region-un>Asia</region-un>
+    <woe-id>23424948</woe-id>
     <continent>Asia</continent>
     <hc-key>sg</hc-key>
     <hc-a2>SI</hc-a2>
@@ -44,8 +43,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <latitude>1.31704</latitude>
     <woe-label>Central Singapore, SG, Singapore</woe-label>
     <type>NULL</type>
-    <hc-middle-x>0.39</hc-middle-x>
-    <hc-middle-y>0.62</hc-middle-y>
+    <hc-middle-x>0.38</hc-middle-x>
+    <hc-middle-y>0.61</hc-middle-y>
     <hc-key>sg-3595</hc-key>
     <hc-a2>CS</hc-a2>
   </desc>
@@ -69,8 +68,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <latitude>1.33718</latitude>
     <woe-label>South West, SG, Singapore</woe-label>
     <type>NULL</type>
-    <hc-middle-x>0.40</hc-middle-x>
-    <hc-middle-y>0.43</hc-middle-y>
+    <hc-middle-x>0.41</hc-middle-x>
+    <hc-middle-y>0.42</hc-middle-y>
     <hc-key>sg-6400</hc-key>
     <hc-a2>SW</hc-a2>
   </desc>
@@ -95,7 +94,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <woe-label>North West, SG, Singapore</woe-label>
     <type>NULL</type>
     <hc-middle-x>0.31</hc-middle-x>
-    <hc-middle-y>0.42</hc-middle-y>
+    <hc-middle-y>0.40</hc-middle-y>
     <hc-key>sg-6401</hc-key>
     <hc-a2>NW</hc-a2>
   </desc>
@@ -119,8 +118,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <latitude>1.38379</latitude>
     <woe-label>North East, SG, Singapore</woe-label>
     <type>NULL</type>
-    <hc-middle-x>0.31</hc-middle-x>
-    <hc-middle-y>0.44</hc-middle-y>
+    <hc-middle-x>0.30</hc-middle-x>
+    <hc-middle-y>0.45</hc-middle-y>
     <hc-key>sg-6402</hc-key>
     <hc-a2>NE</hc-a2>
   </desc>
@@ -144,14 +143,14 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <latitude>1.33524</latitude>
     <woe-label>South East, SG, Singapore</woe-label>
     <type>NULL</type>
-    <hc-middle-x>0.66</hc-middle-x>
-    <hc-middle-y>0.47</hc-middle-y>
+    <hc-middle-x>0.42</hc-middle-x>
+    <hc-middle-y>0.68</hc-middle-y>
     <hc-key>sg-6403</hc-key>
     <hc-a2>SE</hc-a2>
   </desc>
 </path>
 </g>
 
-<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth</text>
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth</text>
 
 </svg>

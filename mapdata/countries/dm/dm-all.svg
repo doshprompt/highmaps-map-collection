@@ -3,8 +3,8 @@
 
 <svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <desc>
-Map version: 1.1.1
-Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
+Map version: 1.1.2
+Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth
 </desc>
 <title>Dominica</title>
 <g id="admin1">
@@ -15,11 +15,10 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <labelrank>6</labelrank>
     <country-abbrev>D'inca</country-abbrev>
     <subregion>Caribbean</subregion>
-    <woe-id>23424798</woe-id>
     <region-wb>Latin America &amp; Caribbean</region-wb>
     <iso-a3>DMA</iso-a3>
     <iso-a2>DM</iso-a2>
-    <region-un>Americas</region-un>
+    <woe-id>23424798</woe-id>
     <continent>North America</continent>
     <hc-key>dm</hc-key>
     <hc-a2>DO</hc-a2>
@@ -70,7 +69,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <woe-label>Saint Mark, DM, Dominica</woe-label>
     <type>Parish</type>
     <hc-middle-x>0.44</hc-middle-x>
-    <hc-middle-y>0.63</hc-middle-y>
+    <hc-middle-y>0.62</hc-middle-y>
     <hc-key>dm-ma</hc-key>
     <hc-a2>MA</hc-a2>
   </desc>
@@ -119,7 +118,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <latitude>15.3956</latitude>
     <woe-label>Saint David, DM, Dominica</woe-label>
     <type>Parish</type>
-    <hc-middle-x>0.51</hc-middle-x>
+    <hc-middle-x>0.50</hc-middle-x>
     <hc-middle-y>0.58</hc-middle-y>
     <hc-key>dm-da</hc-key>
     <hc-a2>DA</hc-a2>
@@ -144,7 +143,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <latitude>15.3529</latitude>
     <woe-label>Saint Paul, DM, Dominica</woe-label>
     <type>Parish</type>
-    <hc-middle-x>0.60</hc-middle-x>
+    <hc-middle-x>0.59</hc-middle-x>
     <hc-middle-y>0.45</hc-middle-y>
     <hc-key>dm-pl</hc-key>
     <hc-a2>PL</hc-a2>
@@ -244,7 +243,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <latitude>15.5767</latitude>
     <woe-label>NULL</woe-label>
     <type>Parish</type>
-    <hc-middle-x>0.53</hc-middle-x>
+    <hc-middle-x>0.54</hc-middle-x>
     <hc-middle-y>0.58</hc-middle-y>
     <hc-key>dm-jn</hc-key>
     <hc-a2>JN</hc-a2>
@@ -269,14 +268,14 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <latitude>15.4355</latitude>
     <woe-label>Saint Joseph, DM, Dominica</woe-label>
     <type>Parish</type>
-    <hc-middle-x>0.54</hc-middle-x>
-    <hc-middle-y>0.53</hc-middle-y>
+    <hc-middle-x>0.53</hc-middle-x>
+    <hc-middle-y>0.54</hc-middle-y>
     <hc-key>dm-jh</hc-key>
     <hc-a2>JH</hc-a2>
   </desc>
 </path>
 </g>
 
-<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth</text>
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth</text>
 
 </svg>

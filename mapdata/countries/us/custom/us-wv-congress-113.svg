@@ -3,8 +3,8 @@
 
 <svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <desc>
-Map version: 1.1.1
-Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bureau
+Map version: 1.1.2
+Copyright (c) 2015 Highsoft AS, Based on data from The United States Census Bureau
 </desc>
 <title>West Virginia congressional districts</title>
 <g id="special">
@@ -38,11 +38,10 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
     <labelrank>2</labelrank>
     <country-abbrev>U.S.A.</country-abbrev>
     <subregion>Northern America</subregion>
-    <woe-id>23424977</woe-id>
     <region-wb>North America</region-wb>
     <iso-a3>USA</iso-a3>
     <iso-a2>US</iso-a2>
-    <region-un>Americas</region-un>
+    <woe-id>23424977</woe-id>
     <continent>North America</continent>
     <hc-key>us</hc-key>
     <hc-a2>US</hc-a2>
@@ -65,7 +64,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
     <geoid>5403</geoid>
     <name>Congressional District 3</name>
     <hc-middle-x>0.47</hc-middle-x>
-    <hc-middle-y>0.68</hc-middle-y>
+    <hc-middle-y>0.69</hc-middle-y>
     <hc-key>us-wv-03</hc-key>
     <hc-a2>CD</hc-a2>
   </desc>
@@ -76,13 +75,13 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
     <geoid>5402</geoid>
     <name>Congressional District 2</name>
     <hc-middle-x>0.15</hc-middle-x>
-    <hc-middle-y>0.64</hc-middle-y>
+    <hc-middle-y>0.66</hc-middle-y>
     <hc-key>us-wv-02</hc-key>
     <hc-a2>CD</hc-a2>
   </desc>
 </path>
 </g>
 
-<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bureau</text>
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2015 Highsoft AS, Based on data from The United States Census Bureau</text>
 
 </svg>

@@ -3,8 +3,8 @@
 
 <svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <desc>
-Map version: 1.1.1
-Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bureau
+Map version: 1.1.2
+Copyright (c) 2015 Highsoft AS, Based on data from The United States Census Bureau
 </desc>
 <title>New Hampshire</title>
 <g id="admin2">
@@ -38,11 +38,10 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
     <labelrank>2</labelrank>
     <country-abbrev>U.S.A.</country-abbrev>
     <subregion>Northern America</subregion>
-    <woe-id>23424977</woe-id>
     <region-wb>North America</region-wb>
     <iso-a3>USA</iso-a3>
     <iso-a2>US</iso-a2>
-    <region-un>Americas</region-un>
+    <woe-id>23424977</woe-id>
     <continent>North America</continent>
     <hc-key>us</hc-key>
     <hc-a2>US</hc-a2>
@@ -53,8 +52,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>33015</fips>
     <name>Rockingham</name>
-    <hc-middle-x>0.31</hc-middle-x>
-    <hc-middle-y>0.64</hc-middle-y>
+    <hc-middle-x>0.33</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
     <hc-key>us-nh-015</hc-key>
     <hc-a2>RO</hc-a2>
   </desc>
@@ -76,7 +75,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
     <fips>33003</fips>
     <name>Carroll</name>
     <hc-middle-x>0.55</hc-middle-x>
-    <hc-middle-y>0.48</hc-middle-y>
+    <hc-middle-y>0.49</hc-middle-y>
     <hc-key>us-nh-003</hc-key>
     <hc-a2>CA</hc-a2>
   </desc>
@@ -104,7 +103,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   </desc>
 </path>
 
-<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="US.NH.005" d="M120.8,675.5 L123.9,696.0 L53.9,693.1 L19.2,691.4 L12.7,679.0 L8.5,681.4 L0.0,657.2 L1.0,648.8 L6.7,640.1 L5.2,630.1 L16.8,625.5 L19.7,617.9 L18.3,603.6 L24.8,595.7 L21.5,574.8 L25.5,581.8 L37.2,582.8 L36.4,575.9 L79.6,569.8 L75.2,583.1 L102.8,584.1 L98.7,613.6 L97.8,633.5 L108.9,633.8 L115.0,675.3 Z">
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="US.NH.005" d="M120.8,675.5 L123.9,696.0 L85.2,694.4 L53.9,693.1 L19.2,691.4 L12.7,679.0 L8.5,681.4 L0.0,657.2 L1.0,648.8 L6.7,640.1 L5.2,630.1 L16.8,625.5 L19.7,617.9 L18.3,603.6 L24.8,595.7 L21.5,574.8 L25.5,581.8 L37.2,582.8 L36.4,575.9 L79.6,569.8 L75.2,583.1 L102.8,584.1 L98.7,613.6 L97.8,633.5 L108.9,633.8 L115.0,675.3 Z">
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>33005</fips>
     <name>Cheshire</name>
@@ -160,6 +159,6 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
 </path>
 </g>
 
-<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bureau</text>
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2015 Highsoft AS, Based on data from The United States Census Bureau</text>
 
 </svg>

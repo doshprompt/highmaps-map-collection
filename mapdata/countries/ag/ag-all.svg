@@ -3,8 +3,8 @@
 
 <svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <desc>
-Map version: 1.1.1
-Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
+Map version: 1.1.2
+Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth
 </desc>
 <title>Antigua and Barbuda</title>
 <g id="admin1">
@@ -15,11 +15,10 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <labelrank>6</labelrank>
     <country-abbrev>Ant.B.</country-abbrev>
     <subregion>Caribbean</subregion>
-    <woe-id>23424737</woe-id>
     <region-wb>Latin America &amp; Caribbean</region-wb>
     <iso-a3>ATG</iso-a3>
     <iso-a2>AG</iso-a2>
-    <region-un>Americas</region-un>
+    <woe-id>23424737</woe-id>
     <continent>North America</continent>
     <hc-key>ag</hc-key>
     <hc-a2>AA</hc-a2>
@@ -194,8 +193,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <latitude>17.0368</latitude>
     <woe-label>Saint Mary, AG, Antigua and Barbuda</woe-label>
     <type>Parish</type>
-    <hc-middle-x>0.60</hc-middle-x>
-    <hc-middle-y>0.61</hc-middle-y>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.58</hc-middle-y>
     <hc-key>ag-6603</hc-key>
     <hc-a2>SM</hc-a2>
   </desc>
@@ -220,13 +219,13 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <woe-label>Saint John, AG, Antigua and Barbuda</woe-label>
     <type>Parish</type>
     <hc-middle-x>0.60</hc-middle-x>
-    <hc-middle-y>0.47</hc-middle-y>
+    <hc-middle-y>0.46</hc-middle-y>
     <hc-key>ag-6604</hc-key>
     <hc-a2>SJ</hc-a2>
   </desc>
 </path>
 </g>
 
-<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth</text>
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth</text>
 
 </svg>

@@ -3,8 +3,8 @@
 
 <svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <desc>
-Map version: 1.1.1
-Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
+Map version: 1.1.2
+Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth
 </desc>
 <title>Qatar</title>
 <g id="admin1">
@@ -15,18 +15,17 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <labelrank>5</labelrank>
     <country-abbrev>Qatar</country-abbrev>
     <subregion>Western Asia</subregion>
-    <woe-id>23424930</woe-id>
     <region-wb>Middle East &amp; North Africa</region-wb>
     <iso-a3>QAT</iso-a3>
     <iso-a2>QA</iso-a2>
-    <region-un>Asia</region-un>
+    <woe-id>23424930</woe-id>
     <continent>Asia</continent>
     <hc-key>qa</hc-key>
     <hc-a2>QA</hc-a2>
   </desc>
 </g>
 
-<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="QA.MS" d="M87.6,146.8 L87.0,144.4 L84.3,147.4 L78.5,141.2 L79.2,131.9 L89.5,106.8 L91.1,98.4 L92.2,78.5 L100.3,84.7 L109.2,58.5 L117.1,47.1 L128.4,42.3 L134.3,40.9 L150.9,34.3 L154.4,31.8 L156.5,25.1 L165.7,15.6 L167.8,9.1 L175.0,11.7 L183.1,9.1 L197.5,0.0 L228.9,16.9 L235.3,24.0 L236.0,32.4 L235.2,43.3 L235.6,52.8 L239.7,56.8 L247.2,59.8 L249.6,67.1 L250.0,76.1 L252.0,84.2 L258.2,89.8 L263.1,90.7 L263.5,144.2 L235.5,144.6 L235.3,127.8 L216.2,127.9 L216.1,114.0 L195.2,114.0 L195.2,101.4 L139.6,101.5 L139.7,147.1 Z">
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="QA.MS" d="M87.6,146.8 L87.0,144.4 L84.3,147.4 L78.5,141.2 L79.2,131.9 L89.5,106.8 L91.1,98.4 L92.2,78.5 L96.7,82.2 L97.9,84.7 L100.3,84.7 L109.2,58.5 L117.1,47.1 L128.4,42.3 L134.3,40.9 L150.9,34.3 L154.4,31.8 L156.5,25.1 L165.7,15.6 L167.8,9.1 L175.0,11.7 L183.1,9.1 L197.5,0.0 L228.9,16.9 L235.3,24.0 L236.0,32.4 L235.2,43.3 L235.6,52.8 L239.7,56.8 L247.2,59.8 L249.6,67.1 L250.0,76.1 L252.0,84.2 L258.2,89.8 L263.1,90.7 L263.5,144.2 L235.5,144.6 L235.3,127.8 L216.2,127.9 L216.1,114.0 L195.2,114.0 L195.2,101.4 L139.6,101.5 L139.7,147.1 Z">
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <labelrank>9</labelrank>
     <hasc>QA.MS</hasc>
@@ -76,7 +75,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
   </desc>
 </path>
 
-<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="QA.DY" d="M275.8,349.7 L261.1,320.8 L259.9,290.0 L257.7,266.2 L259.6,240.0 L278.1,219.4 L300.9,228.4 L311.2,234.6 L304.4,236.3 L299.0,239.2 L293.5,236.5 L294.6,259.4 L293.7,266.7 L286.1,278.9 L287.0,283.0 L301.7,308.2 L304.1,314.3 L304.9,320.4 L303.8,339.4 Z">
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="QA.DY" d="M275.8,349.7 L261.1,320.8 L259.9,290.0 L257.7,266.2 L259.6,240.0 L278.1,219.4 L300.9,228.4 L311.2,234.6 L304.4,236.3 L299.0,239.2 L293.5,236.5 L294.6,259.4 L293.7,266.7 L288.3,274.7 L286.1,278.9 L287.0,283.0 L301.7,308.2 L304.1,314.3 L304.9,320.4 L303.8,339.4 Z">
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <labelrank>9</labelrank>
     <hasc>QA.DY</hasc>
@@ -144,7 +143,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <latitude>25.1648</latitude>
     <woe-label>Al Rayyan, QA, Qatar</woe-label>
     <type>Baladiyah</type>
-    <hc-middle-x>0.45</hc-middle-x>
+    <hc-middle-x>0.46</hc-middle-x>
     <hc-middle-y>0.52</hc-middle-y>
     <hc-key>qa-ra</hc-key>
     <hc-a2>RA</hc-a2>
@@ -176,7 +175,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
   </desc>
 </path>
 
-<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="QA.KH" d="M212.8,259.9 L196.8,236.7 L186.2,210.1 L183.3,187.1 L140.1,187.2 L140.1,168.5 L78.6,168.6 L84.2,164.8 L87.9,158.9 L89.0,151.7 L87.6,146.8 L139.7,147.1 L139.6,101.5 L195.2,101.4 L195.2,114.0 L216.1,114.0 L216.2,127.9 L235.3,127.8 L235.5,144.6 L263.5,144.2 L263.1,90.7 L266.2,91.2 L283.3,89.7 L293.0,90.6 L300.9,93.1 L307.8,96.9 L314.4,101.8 L319.7,107.1 L324.1,113.8 L327.0,121.5 L334.1,169.1 L332.9,180.1 L329.7,182.3 L327.4,180.9 L325.1,174.6 L321.7,173.1 L318.6,175.0 L315.8,179.3 L314.3,184.3 L314.9,188.4 L318.5,191.6 L321.9,191.2 L326.0,185.3 L332.4,195.3 L327.2,205.5 L319.3,208.7 L317.7,197.3 L312.3,198.9 L298.8,206.4 L304.6,208.7 L310.7,212.4 L315.5,216.8 L317.8,221.2 L316.6,230.7 L311.2,234.6 L300.9,228.4 L278.1,219.4 L259.6,240.0 L257.7,266.2 L218.6,266.2 Z">
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="QA.KH" d="M212.8,259.9 L196.8,236.7 L186.2,210.1 L183.3,187.1 L140.1,187.2 L140.1,168.5 L78.6,168.6 L84.2,164.8 L87.9,158.9 L89.0,151.7 L87.6,146.8 L139.7,147.1 L139.6,101.5 L195.2,101.4 L195.2,114.0 L216.1,114.0 L216.2,127.9 L235.3,127.8 L235.5,144.6 L263.5,144.2 L263.1,90.7 L266.2,91.2 L283.3,89.7 L293.0,90.6 L300.9,93.1 L307.8,96.9 L314.4,101.8 L319.7,107.1 L324.1,113.8 L327.0,121.5 L334.1,169.1 L334.0,175.1 L332.9,180.1 L329.7,182.3 L327.4,180.9 L325.1,174.6 L321.7,173.1 L318.6,175.0 L315.8,179.3 L314.3,184.3 L314.9,188.4 L318.5,191.6 L321.9,191.2 L326.0,185.3 L332.4,195.3 L327.2,205.5 L319.3,208.7 L317.7,197.3 L312.3,198.9 L298.8,206.4 L304.6,208.7 L310.7,212.4 L315.5,216.8 L317.8,221.2 L316.6,230.7 L311.2,234.6 L300.9,228.4 L278.1,219.4 L259.6,240.0 L257.7,266.2 L218.6,266.2 Z">
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <labelrank>9</labelrank>
     <hasc>QA.KH</hasc>
@@ -202,6 +201,6 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
 </path>
 </g>
 
-<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth</text>
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth</text>
 
 </svg>

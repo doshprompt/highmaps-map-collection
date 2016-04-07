@@ -3,8 +3,8 @@
 
 <svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <desc>
-Map version: 1.1.1
-Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
+Map version: 1.1.2
+Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth
 </desc>
 <title>World continents</title>
 <g id="admin0">
@@ -14,7 +14,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <abbrev-a3>EUR</abbrev-a3>
     <iso-a2>EU</iso-a2>
     <name>Europe</name>
-    <hc-middle-x>0.68</hc-middle-x>
+    <hc-middle-x>0.65</hc-middle-x>
     <hc-middle-y>0.63</hc-middle-y>
     <hc-key>eu</hc-key>
     <hc-a2>EU</hc-a2>
@@ -26,8 +26,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <abbrev-a3>OCA</abbrev-a3>
     <iso-a2>OC</iso-a2>
     <name>Oceania</name>
-    <hc-middle-x>0.33</hc-middle-x>
-    <hc-middle-y>0.47</hc-middle-y>
+    <hc-middle-x>0.34</hc-middle-x>
+    <hc-middle-y>0.46</hc-middle-y>
     <hc-key>oc</hc-key>
     <hc-a2>OC</hc-a2>
   </desc>
@@ -38,8 +38,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <abbrev-a3>AFR</abbrev-a3>
     <iso-a2>AF</iso-a2>
     <name>Africa</name>
-    <hc-middle-x>0.40</hc-middle-x>
-    <hc-middle-y>0.23</hc-middle-y>
+    <hc-middle-x>0.66</hc-middle-x>
+    <hc-middle-y>0.54</hc-middle-y>
     <hc-key>af</hc-key>
     <hc-a2>AF</hc-a2>
   </desc>
@@ -50,8 +50,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <abbrev-a3>ASA</abbrev-a3>
     <iso-a2>AS</iso-a2>
     <name>Asia</name>
-    <hc-middle-x>0.45</hc-middle-x>
-    <hc-middle-y>0.47</hc-middle-y>
+    <hc-middle-x>0.44</hc-middle-x>
+    <hc-middle-y>0.46</hc-middle-y>
     <hc-key>as</hc-key>
     <hc-a2>AS</hc-a2>
   </desc>
@@ -63,7 +63,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <iso-a2>NA</iso-a2>
     <name>North America</name>
     <hc-middle-x>0.43</hc-middle-x>
-    <hc-middle-y>0.52</hc-middle-y>
+    <hc-middle-y>0.51</hc-middle-y>
     <hc-key>na</hc-key>
     <hc-a2>NA</hc-a2>
   </desc>
@@ -74,14 +74,14 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <abbrev-a3>SAM</abbrev-a3>
     <iso-a2>SA</iso-a2>
     <name>South America</name>
-    <hc-middle-x>0.60</hc-middle-x>
-    <hc-middle-y>0.33</hc-middle-y>
+    <hc-middle-x>0.59</hc-middle-x>
+    <hc-middle-y>0.35</hc-middle-y>
     <hc-key>sa</hc-key>
     <hc-a2>SA</hc-a2>
   </desc>
 </path>
 </g>
 
-<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth</text>
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth</text>
 
 </svg>

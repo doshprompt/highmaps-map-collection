@@ -3,8 +3,8 @@
 
 <svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <desc>
-Map version: 1.1.1
-Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bureau
+Map version: 1.1.2
+Copyright (c) 2015 Highsoft AS, Based on data from The United States Census Bureau
 </desc>
 <title>Rhode Island congressional districts</title>
 <g id="special">
@@ -38,18 +38,17 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
     <labelrank>2</labelrank>
     <country-abbrev>U.S.A.</country-abbrev>
     <subregion>Northern America</subregion>
-    <woe-id>23424977</woe-id>
     <region-wb>North America</region-wb>
     <iso-a3>USA</iso-a3>
     <iso-a2>US</iso-a2>
-    <region-un>Americas</region-un>
+    <woe-id>23424977</woe-id>
     <continent>North America</continent>
     <hc-key>us</hc-key>
     <hc-a2>US</hc-a2>
   </desc>
 </g>
 
-<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="US.RI.02" d="M182.2,697.3 L165.1,700.0 L156.7,692.2 L157.6,682.3 L160.8,671.8 L167.4,666.3 L171.4,658.6 L176.8,653.4 L179.4,636.1 L183.5,633.6 L194.7,645.4 L190.8,656.2 L186.6,662.0 L190.1,670.1 L194.8,676.7 L199.0,687.2 L196.0,695.9 Z M303.2,188.6 L303.3,209.2 L305.2,222.9 L309.0,228.5 L314.4,232.8 L319.1,238.4 L321.0,247.9 L319.1,254.7 L310.5,270.5 L307.8,278.0 L303.8,270.9 L299.7,265.3 L294.7,261.9 L287.6,261.0 L280.5,263.7 L273.5,269.1 L270.2,274.6 L284.2,282.3 L289.6,294.7 L291.3,310.9 L289.5,327.1 L282.3,341.8 L273.8,349.2 L270.3,357.3 L277.9,373.8 L280.5,386.4 L280.0,428.7 L278.0,442.9 L259.2,492.8 L249.8,504.5 L240.9,513.4 L238.0,520.9 L232.2,524.2 L226.1,522.5 L212.6,515.4 L197.1,516.3 L170.8,521.4 L75.9,547.9 L29.9,557.7 L3.7,568.5 L0.0,561.1 L11.7,553.7 L12.7,554.1 L30.3,537.2 L24.4,482.0 L51.4,477.9 L64.0,285.4 L64.8,63.7 L66.0,1.5 L86.0,0.8 L182.1,0.9 L197.1,126.2 L244.4,119.3 L258.3,145.3 L274.4,132.3 L295.0,151.0 L276.8,168.8 L281.0,187.1 Z">
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="US.RI.02" d="M182.2,697.3 L165.1,700.0 L156.7,692.2 L157.6,682.3 L160.8,671.8 L167.4,666.3 L171.4,658.6 L176.8,653.4 L178.4,644.8 L179.4,636.1 L183.5,633.6 L194.7,645.4 L190.8,656.2 L186.6,662.0 L190.1,670.1 L194.8,676.7 L199.0,687.2 L196.0,695.9 Z M303.2,188.6 L303.3,209.2 L305.2,222.9 L309.0,228.5 L314.4,232.8 L319.1,238.4 L321.0,247.9 L319.1,254.7 L310.5,270.5 L307.8,278.0 L303.8,270.9 L299.7,265.3 L294.7,261.9 L287.6,261.0 L280.5,263.7 L273.5,269.1 L270.2,274.6 L284.2,282.3 L289.6,294.7 L291.3,310.9 L289.5,327.1 L282.3,341.8 L273.8,349.2 L270.3,357.3 L277.9,373.8 L280.5,386.4 L280.0,428.7 L278.0,442.9 L259.2,492.8 L249.8,504.5 L240.9,513.4 L238.0,520.9 L232.2,524.2 L226.1,522.5 L212.6,515.4 L197.1,516.3 L170.8,521.4 L75.9,547.9 L29.9,557.7 L3.7,568.5 L0.0,561.1 L11.7,553.7 L12.7,554.1 L30.3,537.2 L24.4,482.0 L51.4,477.9 L64.0,285.4 L64.8,63.7 L66.0,1.5 L86.0,0.8 L182.1,0.9 L197.1,126.2 L244.4,119.3 L258.3,145.3 L274.4,132.3 L295.0,151.0 L276.8,168.8 L281.0,187.1 Z">
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <geoid>4402</geoid>
     <name>Congressional District 2</name>
@@ -72,6 +71,6 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
 </path>
 </g>
 
-<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bureau</text>
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2015 Highsoft AS, Based on data from The United States Census Bureau</text>
 
 </svg>

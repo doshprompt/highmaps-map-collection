@@ -3,8 +3,8 @@
 
 <svg xmlns="http://www.w3.org/2000/svg" height="700pt" version="1.1" width="700pt" xmlns:xlink="http://www.w3.org/1999/xlink">
 <desc>
-Map version: 1.1.1
-Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
+Map version: 1.1.2
+Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth
 </desc>
 <title>Palau</title>
 <g id="admin1">
@@ -15,11 +15,10 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <labelrank>6</labelrank>
     <country-abbrev>Palau</country-abbrev>
     <subregion>Micronesia</subregion>
-    <woe-id>23424927</woe-id>
     <region-wb>East Asia &amp; Pacific</region-wb>
     <iso-a3>PLW</iso-a3>
     <iso-a2>PW</iso-a2>
-    <region-un>Oceania</region-un>
+    <woe-id>23424927</woe-id>
     <continent>Oceania</continent>
     <hc-key>pw</hc-key>
     <hc-a2>PA</hc-a2>
@@ -145,7 +144,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <woe-label>NULL</woe-label>
     <type>NULL</type>
     <hc-middle-x>0.55</hc-middle-x>
-    <hc-middle-y>0.52</hc-middle-y>
+    <hc-middle-y>0.51</hc-middle-y>
     <hc-key>pw-6743</hc-key>
     <hc-a2>AI</hc-a2>
   </desc>
@@ -194,8 +193,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <latitude>7.51682</latitude>
     <woe-label>NULL</woe-label>
     <type>NULL</type>
-    <hc-middle-x>0.88</hc-middle-x>
-    <hc-middle-y>0.60</hc-middle-y>
+    <hc-middle-x>0.72</hc-middle-x>
+    <hc-middle-y>0.42</hc-middle-y>
     <hc-key>pw-6749</hc-key>
     <hc-a2>ME</hc-a2>
   </desc>
@@ -220,7 +219,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <woe-label>NULL</woe-label>
     <type>NULL</type>
     <hc-middle-x>0.46</hc-middle-x>
-    <hc-middle-y>0.73</hc-middle-y>
+    <hc-middle-y>0.72</hc-middle-y>
     <hc-key>pw-6751</hc-key>
     <hc-a2>NG</hc-a2>
   </desc>
@@ -344,8 +343,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <latitude>7.53794</latitude>
     <woe-label>Ngeremlengui, PW, Palau</woe-label>
     <type>NULL</type>
-    <hc-middle-x>0.58</hc-middle-x>
-    <hc-middle-y>0.41</hc-middle-y>
+    <hc-middle-x>0.54</hc-middle-x>
+    <hc-middle-y>0.33</hc-middle-y>
     <hc-key>pw-6745</hc-key>
     <hc-a2>NG</hc-a2>
   </desc>
@@ -369,7 +368,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <latitude>7.57313</latitude>
     <woe-label>Ngiwal, PW, Palau</woe-label>
     <type>NULL</type>
-    <hc-middle-x>0.76</hc-middle-x>
+    <hc-middle-x>0.75</hc-middle-x>
     <hc-middle-y>0.41</hc-middle-y>
     <hc-key>pw-6750</hc-key>
     <hc-a2>NG</hc-a2>
@@ -381,11 +380,10 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <labelrank>6</labelrank>
     <country-abbrev>Palau</country-abbrev>
     <subregion>Micronesia</subregion>
-    <woe-id>23424927</woe-id>
     <region-wb>East Asia &amp; Pacific</region-wb>
     <iso-a3>PLW</iso-a3>
     <iso-a2>PW</iso-a2>
-    <region-un>Oceania</region-un>
+    <woe-id>23424927</woe-id>
     <continent>Oceania</continent>
     <hc-key>pw</hc-key>
     <hc-a2>PA</hc-a2>
@@ -410,8 +408,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <latitude>5.28876</latitude>
     <woe-label>NULL</woe-label>
     <type>NULL</type>
-    <hc-middle-x>0.51</hc-middle-x>
-    <hc-middle-y>0.38</hc-middle-y>
+    <hc-middle-x>0.49</hc-middle-x>
+    <hc-middle-y>0.37</hc-middle-y>
     <hc-key>pw-6739</hc-key>
     <hc-a2>SO</hc-a2>
   </desc>
@@ -422,11 +420,10 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <labelrank>6</labelrank>
     <country-abbrev>Palau</country-abbrev>
     <subregion>Micronesia</subregion>
-    <woe-id>23424927</woe-id>
     <region-wb>East Asia &amp; Pacific</region-wb>
     <iso-a3>PLW</iso-a3>
     <iso-a2>PW</iso-a2>
-    <region-un>Oceania</region-un>
+    <woe-id>23424927</woe-id>
     <continent>Oceania</continent>
     <hc-key>pw</hc-key>
     <hc-a2>PA</hc-a2>
@@ -459,6 +456,6 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
 </path>
 </g>
 
-<text font-family="Verdana" font-size="8" stroke-opacity="0.6" text-anchor="middle" x="350" y="714">Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth</text>
+<text font-family="Verdana" font-size="8" stroke-opacity="0.6" text-anchor="middle" x="350" y="714">Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth</text>
 
 <g id="__separator_lines__"><path d="M106,12 L106,161 L0,161 M5,99 L101,99" fill="none" stroke="#551111" stroke-width="0.4" /></g></svg>

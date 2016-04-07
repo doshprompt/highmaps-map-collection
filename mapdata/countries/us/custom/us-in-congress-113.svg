@@ -3,8 +3,8 @@
 
 <svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <desc>
-Map version: 1.1.1
-Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bureau
+Map version: 1.1.2
+Copyright (c) 2015 Highsoft AS, Based on data from The United States Census Bureau
 </desc>
 <title>Indiana congressional districts</title>
 <g id="special">
@@ -15,11 +15,10 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
     <labelrank>2</labelrank>
     <country-abbrev>U.S.A.</country-abbrev>
     <subregion>Northern America</subregion>
-    <woe-id>23424977</woe-id>
     <region-wb>North America</region-wb>
     <iso-a3>USA</iso-a3>
     <iso-a2>US</iso-a2>
-    <region-un>Americas</region-un>
+    <woe-id>23424977</woe-id>
     <continent>North America</continent>
     <hc-key>us</hc-key>
     <hc-a2>US</hc-a2>
@@ -93,7 +92,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   </desc>
 </path>
 
-<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="US.IN.03" d="M389.7,242.8 L391.4,242.7 L391.1,225.2 L366.8,225.7 L369.2,223.1 L369.0,217.9 L366.5,218.0 L366.3,210.4 L358.8,210.5 L358.2,195.4 L333.0,195.9 L331.3,134.8 L326.1,135.0 L325.9,127.1 L311.1,127.9 L310.4,104.6 L296.0,105.1 L295.3,89.9 L299.1,89.8 L298.7,77.1 L301.4,74.7 L329.1,73.8 L328.7,51.2 L327.2,2.5 L365.2,1.7 L439.0,0.0 L440.4,48.8 L444.5,197.6 L445.7,253.6 L390.1,255.4 Z">
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="US.IN.03" d="M389.7,242.8 L391.4,242.7 L391.1,225.2 L366.8,225.7 L369.2,223.1 L369.0,217.9 L366.5,218.0 L366.3,210.4 L358.8,210.5 L358.2,195.4 L333.0,195.9 L331.3,134.8 L326.1,135.0 L325.9,127.1 L311.1,127.9 L310.4,104.6 L296.0,105.1 L295.3,89.9 L299.1,89.8 L298.7,77.1 L301.4,74.7 L329.1,73.8 L328.7,51.2 L327.2,2.5 L365.2,1.7 L439.0,0.0 L440.4,48.8 L444.5,197.6 L445.2,237.3 L445.7,253.6 L390.1,255.4 Z">
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <geoid>1803</geoid>
     <name>Congressional District 3</name>
@@ -130,7 +129,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <geoid>1804</geoid>
     <name>Congressional District 4</name>
-    <hc-middle-x>0.38</hc-middle-x>
+    <hc-middle-x>0.39</hc-middle-x>
     <hc-middle-y>0.50</hc-middle-y>
     <hc-key>us-in-04</hc-key>
     <hc-a2>CD</hc-a2>
@@ -149,6 +148,6 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
 </path>
 </g>
 
-<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bureau</text>
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2015 Highsoft AS, Based on data from The United States Census Bureau</text>
 
 </svg>

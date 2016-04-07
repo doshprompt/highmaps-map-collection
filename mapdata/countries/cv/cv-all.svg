@@ -3,8 +3,8 @@
 
 <svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <desc>
-Map version: 1.1.1
-Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
+Map version: 1.1.2
+Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth
 </desc>
 <title>Cape Verde</title>
 <g id="admin1">
@@ -15,11 +15,10 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <labelrank>4</labelrank>
     <country-abbrev>C.Vd.</country-abbrev>
     <subregion>Western Africa</subregion>
-    <woe-id>23424794</woe-id>
     <region-wb>Sub-Saharan Africa</region-wb>
     <iso-a3>CPV</iso-a3>
     <iso-a2>CV</iso-a2>
-    <region-un>Africa</region-un>
+    <woe-id>23424794</woe-id>
     <continent>Africa</continent>
     <hc-key>cv</hc-key>
     <hc-a2>CV</hc-a2>
@@ -76,7 +75,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
   </desc>
 </path>
 
-<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="CV.6566" d="M651.4,266.7 L657.4,267.4 L660.0,264.9 L662.0,260.8 L666.6,260.0 L682.1,263.8 L684.9,264.9 L687.5,266.7 L688.6,268.6 L690.2,273.8 L691.3,274.8 L695.7,276.7 L696.7,281.2 L695.9,291.5 L696.9,292.0 L698.9,294.5 L700.0,297.4 L697.7,300.0 L696.6,305.1 L692.3,307.9 L678.1,319.4 L668.6,324.5 L663.8,326.1 L648.8,327.1 L646.2,326.7 L643.6,325.5 L639.9,322.3 L636.9,321.4 L627.4,317.2 L624.2,314.2 L622.6,308.5 L622.8,303.3 L624.2,298.5 L626.8,295.0 L630.7,293.5 L635.6,288.6 L632.7,265.1 L634.9,256.7 L637.1,260.1 L640.3,262.4 L644.8,264.5 Z">
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="CV.6566" d="M651.4,266.7 L657.4,267.4 L660.0,264.9 L662.0,260.8 L666.6,260.0 L682.1,263.8 L684.9,264.9 L687.5,266.7 L688.6,268.6 L690.2,273.8 L691.3,274.8 L695.7,276.7 L696.7,281.2 L695.9,291.5 L696.9,292.0 L698.9,294.5 L700.0,297.4 L697.7,300.0 L697.3,302.5 L696.6,305.1 L692.3,307.9 L678.1,319.4 L668.6,324.5 L663.8,326.1 L648.8,327.1 L646.2,326.7 L643.6,325.5 L639.9,322.3 L636.9,321.4 L627.4,317.2 L624.2,314.2 L622.6,308.5 L622.8,303.3 L624.2,298.5 L626.8,295.0 L630.7,293.5 L635.6,288.6 L632.7,265.1 L634.9,256.7 L636.0,258.7 L637.1,260.1 L640.3,262.4 L644.8,264.5 Z">
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <labelrank>20</labelrank>
     <hasc>CV.BV</hasc>
@@ -101,7 +100,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
   </desc>
 </path>
 
-<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="CV.6567" d="M639.0,131.1 L642.4,134.2 L643.2,135.8 L642.9,138.8 L641.9,144.1 L641.6,146.9 L641.1,148.4 L638.7,150.1 L638.0,151.5 L638.1,152.9 L639.3,156.6 L639.7,157.0 L638.0,159.2 L633.9,161.0 L630.9,162.6 L627.6,142.1 L623.7,134.1 L618.2,136.9 L617.1,133.0 L616.7,127.7 L617.5,122.9 L619.9,120.2 L619.9,118.3 L616.8,117.4 L615.1,114.8 L614.5,111.2 L614.6,102.8 L620.0,98.5 L632.3,90.7 L633.7,92.6 L638.4,97.0 L639.4,99.0 L639.1,100.1 L637.5,103.3 L635.7,106.0 L637.7,108.2 L637.1,124.2 L637.8,129.3 Z">
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="CV.6567" d="M639.0,131.1 L642.4,134.2 L643.2,135.8 L642.9,138.8 L641.9,144.1 L641.6,146.9 L641.1,148.4 L638.7,150.1 L638.0,151.5 L638.1,152.9 L639.3,156.6 L639.7,157.0 L638.0,159.2 L636.2,160.2 L633.9,161.0 L630.9,162.6 L627.6,142.1 L623.7,134.1 L618.2,136.9 L617.1,133.0 L616.7,127.7 L617.5,122.9 L619.9,120.2 L619.9,118.3 L616.8,117.4 L615.1,114.8 L614.5,111.2 L614.6,102.8 L620.0,98.5 L632.3,90.7 L633.7,92.6 L638.4,97.0 L639.4,99.0 L639.1,100.1 L637.5,103.3 L635.7,106.0 L637.7,108.2 L637.1,124.2 L637.8,129.3 Z">
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <labelrank>20</labelrank>
     <hasc>CV.SL</hasc>
@@ -194,8 +193,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <latitude>15.0008</latitude>
     <woe-label>Mosteiros, CV, Cape Verde</woe-label>
     <type>NULL</type>
-    <hc-middle-x>0.45</hc-middle-x>
-    <hc-middle-y>0.32</hc-middle-y>
+    <hc-middle-x>0.46</hc-middle-x>
+    <hc-middle-y>0.33</hc-middle-y>
     <hc-key>cv-mo</hc-key>
     <hc-a2>MO</hc-a2>
   </desc>
@@ -251,7 +250,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
   </desc>
 </path>
 
-<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="CV.CA" d="M427.3,601.1 L423.2,596.4 L423.2,587.6 L420.2,585.5 L416.0,584.1 L412.3,582.3 L410.4,575.2 L407.6,571.6 L407.0,569.5 L407.7,567.3 L411.4,560.7 L412.3,558.3 L412.1,554.7 L408.7,545.6 L411.2,544.8 L412.8,543.0 L416.9,543.2 L424.7,544.1 L434.9,542.9 L434.6,547.6 L439.5,552.4 L444.2,555.7 L444.7,559.8 L446.8,560.4 L450.4,557.1 L452.0,559.2 L452.6,564.0 L446.4,569.0 L444.8,570.5 L445.8,575.5 L447.7,579.3 L449.7,581.9 L447.1,584.9 L446.5,588.8 L444.5,590.0 L439.0,590.6 L436.7,594.2 L431.8,596.3 Z">
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="CV.CA" d="M427.3,601.1 L423.2,596.4 L423.2,587.6 L420.2,585.5 L416.0,584.1 L412.3,582.3 L412.2,581.3 L410.4,575.2 L407.6,571.6 L407.0,569.5 L407.7,567.3 L411.4,560.7 L412.3,558.3 L412.1,554.7 L408.7,545.6 L411.2,544.8 L412.8,543.0 L416.9,543.2 L424.7,544.1 L434.9,542.9 L434.6,547.6 L439.5,552.4 L444.2,555.7 L444.7,559.8 L446.8,560.4 L450.4,557.1 L452.0,559.2 L452.6,564.0 L446.4,569.0 L444.8,570.5 L445.8,575.5 L447.7,579.3 L449.7,581.9 L447.1,584.9 L446.5,588.8 L444.5,590.0 L439.0,590.6 L436.7,594.2 L431.8,596.3 Z">
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <labelrank>20</labelrank>
     <hasc>CV.CA</hasc>
@@ -294,14 +293,14 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <latitude>15.178</latitude>
     <woe-label>São Miguel, CV, Cape Verde</woe-label>
     <type>NULL</type>
-    <hc-middle-x>0.63</hc-middle-x>
-    <hc-middle-y>0.34</hc-middle-y>
+    <hc-middle-x>0.62</hc-middle-x>
+    <hc-middle-y>0.35</hc-middle-y>
     <hc-key>cv-sm</hc-key>
     <hc-a2>SM</hc-a2>
   </desc>
 </path>
 
-<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="CV.CR" d="M452.6,564.0 L452.0,559.2 L450.4,557.1 L452.0,555.7 L459.5,546.6 L461.5,548.7 L465.9,551.5 L469.8,551.0 L471.7,553.9 L476.4,558.1 L479.8,558.0 L480.7,559.0 L480.6,562.0 L487.6,575.2 L485.9,578.6 L482.5,580.1 L479.8,578.3 L476.7,576.5 L470.6,571.2 L466.8,572.4 L462.6,570.5 L463.0,568.8 L462.4,566.1 Z">
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="CV.CR" d="M452.6,564.0 L452.0,559.2 L450.4,557.1 L452.0,555.7 L459.5,546.6 L461.5,548.7 L465.9,551.5 L469.8,551.0 L471.7,553.9 L473.2,554.7 L472.9,555.0 L476.4,558.1 L477.5,558.3 L479.8,558.0 L480.7,559.0 L480.6,562.0 L487.6,575.2 L485.9,578.6 L482.5,580.1 L479.8,578.3 L476.7,576.5 L470.6,571.2 L466.8,572.4 L462.6,570.5 L463.0,568.8 L462.4,566.1 Z">
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <labelrank>20</labelrank>
     <hasc>CV.CR</hasc>
@@ -344,8 +343,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <latitude>15.0678</latitude>
     <woe-label>NULL</woe-label>
     <type>NULL</type>
-    <hc-middle-x>0.82</hc-middle-x>
-    <hc-middle-y>0.26</hc-middle-y>
+    <hc-middle-x>0.55</hc-middle-x>
+    <hc-middle-y>0.46</hc-middle-y>
     <hc-key>cv-ss</hc-key>
     <hc-a2>SS</hc-a2>
   </desc>
@@ -369,8 +368,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <latitude>15.0439</latitude>
     <woe-label>NULL</woe-label>
     <type>NULL</type>
-    <hc-middle-x>0.18</hc-middle-x>
-    <hc-middle-y>0.61</hc-middle-y>
+    <hc-middle-x>0.41</hc-middle-x>
+    <hc-middle-y>0.41</hc-middle-y>
     <hc-key>cv-so</hc-key>
     <hc-a2>SO</hc-a2>
   </desc>
@@ -420,7 +419,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <woe-label>Ribeira Grande, CV, Cape Verde</woe-label>
     <type>NULL</type>
     <hc-middle-x>0.42</hc-middle-x>
-    <hc-middle-y>0.55</hc-middle-y>
+    <hc-middle-y>0.56</hc-middle-y>
     <hc-key>cv-rs</hc-key>
     <hc-a2>RS</hc-a2>
   </desc>
@@ -445,7 +444,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <woe-label>Praia, CV, Cape Verde</woe-label>
     <type>NULL</type>
     <hc-middle-x>0.66</hc-middle-x>
-    <hc-middle-y>0.77</hc-middle-y>
+    <hc-middle-y>0.76</hc-middle-y>
     <hc-key>cv-pr</hc-key>
     <hc-a2>PR</hc-a2>
   </desc>
@@ -494,8 +493,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <latitude>16.6006</latitude>
     <woe-label>Tarrafal de São Nicolau, CV, Cape Verde</woe-label>
     <type>NULL</type>
-    <hc-middle-x>0.15</hc-middle-x>
-    <hc-middle-y>0.24</hc-middle-y>
+    <hc-middle-x>0.17</hc-middle-x>
+    <hc-middle-y>0.25</hc-middle-y>
     <hc-key>cv-6569</hc-key>
     <hc-a2>TD</hc-a2>
   </desc>
@@ -569,7 +568,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <latitude>17.1179</latitude>
     <woe-label>Paul, CV, Cape Verde</woe-label>
     <type>NULL</type>
-    <hc-middle-x>0.76</hc-middle-x>
+    <hc-middle-x>0.75</hc-middle-x>
     <hc-middle-y>0.56</hc-middle-y>
     <hc-key>cv-6573</hc-key>
     <hc-a2>PA</hc-a2>
@@ -577,6 +576,6 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
 </path>
 </g>
 
-<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth</text>
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth</text>
 
 </svg>

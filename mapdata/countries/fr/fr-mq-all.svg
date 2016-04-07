@@ -3,8 +3,8 @@
 
 <svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <desc>
-Map version: 1.1.1
-Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
+Map version: 1.1.2
+Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth
 </desc>
 <title>Martinique</title>
 <g id="admin2">
@@ -23,11 +23,10 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <labelrank>2</labelrank>
     <country-abbrev>Fr.</country-abbrev>
     <subregion>Western Europe</subregion>
-    <woe-id>-90</woe-id>
     <region-wb>Europe &amp; Central Asia</region-wb>
     <iso-a3>FRA</iso-a3>
     <iso-a2>FR</iso-a2>
-    <region-un>Europe</region-un>
+    <woe-id>-90</woe-id>
     <continent>Europe</continent>
     <hc-key>fr</hc-key>
     <hc-a2>FR</hc-a2>
@@ -57,6 +56,6 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
 </path>
 </g>
 
-<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth</text>
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth</text>
 
 </svg>

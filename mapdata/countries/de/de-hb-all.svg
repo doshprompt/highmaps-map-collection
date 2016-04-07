@@ -3,8 +3,8 @@
 
 <svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <desc>
-Map version: 1.1.1
-Copyright (c) 2014 Highsoft AS, Based on data from GeoBasis-DE / BKG 2014
+Map version: 1.1.2
+Copyright (c) 2015 Highsoft AS, Based on data from GeoBasis-DE / BKG 2014
 </desc>
 <title>Bremen</title>
 <g id="admin2">
@@ -38,11 +38,10 @@ Copyright (c) 2014 Highsoft AS, Based on data from GeoBasis-DE / BKG 2014
     <labelrank>2</labelrank>
     <country-abbrev>Ger.</country-abbrev>
     <subregion>Western Europe</subregion>
-    <woe-id>23424829</woe-id>
     <region-wb>Europe &amp; Central Asia</region-wb>
     <iso-a3>DEU</iso-a3>
     <iso-a2>DE</iso-a2>
-    <region-un>Europe</region-un>
+    <woe-id>23424829</woe-id>
     <continent>Europe</continent>
     <hc-key>de</hc-key>
     <hc-a2>GE</hc-a2>
@@ -54,13 +53,13 @@ Copyright (c) 2014 Highsoft AS, Based on data from GeoBasis-DE / BKG 2014
     <name>Bremerhaven</name>
     <bundesland>DE.HB</bundesland>
     <hc-middle-x>0.67</hc-middle-x>
-    <hc-middle-y>0.56</hc-middle-y>
+    <hc-middle-y>0.55</hc-middle-y>
     <hc-key>de-hb-04012000</hc-key>
     <hc-a2>BR</hc-a2>
   </desc>
 </path>
 </g>
 
-<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2014 Highsoft AS, Based on data from GeoBasis-DE / BKG 2014</text>
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2015 Highsoft AS, Based on data from GeoBasis-DE / BKG 2014</text>
 
 </svg>

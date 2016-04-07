@@ -3,8 +3,8 @@
 
 <svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <desc>
-Map version: 1.1.1
-Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
+Map version: 1.1.2
+Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth
 </desc>
 <title>Brunei</title>
 <g id="admin1">
@@ -15,18 +15,17 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <labelrank>6</labelrank>
     <country-abbrev>Brunei</country-abbrev>
     <subregion>South-Eastern Asia</subregion>
-    <woe-id>23424773</woe-id>
     <region-wb>East Asia &amp; Pacific</region-wb>
     <iso-a3>BRN</iso-a3>
     <iso-a2>BN</iso-a2>
-    <region-un>Asia</region-un>
+    <woe-id>23424773</woe-id>
     <continent>Asia</continent>
     <hc-key>bn</hc-key>
     <hc-a2>BR</hc-a2>
   </desc>
 </g>
 
-<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="BN.TE" d="M529.2,121.2 L538.6,130.8 L548.0,124.7 L558.1,113.4 L569.6,107.3 L580.7,104.9 L581.0,98.9 L576.6,90.9 L573.5,82.4 L574.6,78.5 L578.0,76.5 L588.8,76.0 L589.1,87.7 L593.9,92.5 L600.7,95.7 L607.4,100.1 L620.3,118.3 L654.2,214.8 L656.5,227.0 L655.7,235.8 L651.6,256.1 L651.4,276.2 L654.4,297.8 L661.2,317.9 L673.1,333.6 L691.2,350.4 L698.7,361.3 L700.0,371.9 L692.6,380.0 L681.3,379.6 L669.4,374.5 L660.1,368.4 L655.6,366.7 L645.7,367.1 L640.3,364.9 L632.3,358.2 L628.0,356.7 L612.7,358.3 L601.9,356.0 L572.6,345.3 L565.8,340.8 L561.7,333.6 L555.4,283.2 L549.3,263.0 L532.4,223.2 L527.9,203.4 L525.7,161.8 Z">
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="BN.TE" d="M529.2,121.2 L538.6,130.8 L548.0,124.7 L558.1,113.4 L569.6,107.3 L580.7,104.9 L581.0,98.9 L576.6,90.9 L573.5,82.4 L574.6,78.5 L578.0,76.5 L582.8,75.8 L588.8,76.0 L589.1,87.7 L593.9,92.5 L600.7,95.7 L607.4,100.1 L620.3,118.3 L654.2,214.8 L656.5,227.0 L655.7,235.8 L651.6,256.1 L651.4,276.2 L654.4,297.8 L661.2,317.9 L673.1,333.6 L691.2,350.4 L698.7,361.3 L700.0,371.9 L692.6,380.0 L681.3,379.6 L669.4,374.5 L660.1,368.4 L655.6,366.7 L645.7,367.1 L640.3,364.9 L632.3,358.2 L628.0,356.7 L612.7,358.3 L601.9,356.0 L572.6,345.3 L565.8,340.8 L561.7,333.6 L555.4,283.2 L549.3,263.0 L532.4,223.2 L527.9,203.4 L525.7,161.8 Z">
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <labelrank>9</labelrank>
     <hasc>BN.TE</hasc>
@@ -127,6 +126,6 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
 </path>
 </g>
 
-<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth</text>
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth</text>
 
 </svg>

@@ -3,8 +3,8 @@
 
 <svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <desc>
-Map version: 1.1.1
-Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
+Map version: 1.1.2
+Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth
 </desc>
 <title>San Marino</title>
 <g id="admin1">
@@ -15,11 +15,10 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <labelrank>6</labelrank>
     <country-abbrev>S.M.</country-abbrev>
     <subregion>Southern Europe</subregion>
-    <woe-id>23424947</woe-id>
     <region-wb>Europe &amp; Central Asia</region-wb>
     <iso-a3>SMR</iso-a3>
     <iso-a2>SM</iso-a2>
-    <region-un>Europe</region-un>
+    <woe-id>23424947</woe-id>
     <continent>Europe</continent>
     <hc-key>sm</hc-key>
     <hc-a2>SM</hc-a2>
@@ -219,8 +218,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <latitude>43.9466</latitude>
     <woe-label>Domagnano, SM, San Marino</woe-label>
     <type>NULL</type>
-    <hc-middle-x>0.51</hc-middle-x>
-    <hc-middle-y>0.51</hc-middle-y>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.54</hc-middle-y>
     <hc-key>sm-6413</hc-key>
     <hc-a2>DO</hc-a2>
   </desc>
@@ -252,6 +251,6 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
 </path>
 </g>
 
-<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth</text>
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth</text>
 
 </svg>

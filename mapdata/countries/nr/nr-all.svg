@@ -3,8 +3,8 @@
 
 <svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <desc>
-Map version: 1.1.1
-Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
+Map version: 1.1.2
+Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth
 </desc>
 <title>Nauru</title>
 <g id="admin1">
@@ -15,11 +15,10 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <labelrank>6</labelrank>
     <country-abbrev>Nauru</country-abbrev>
     <subregion>Micronesia</subregion>
-    <woe-id>23424912</woe-id>
     <region-wb>East Asia &amp; Pacific</region-wb>
     <iso-a3>NRU</iso-a3>
     <iso-a2>NR</iso-a2>
-    <region-un>Oceania</region-un>
+    <woe-id>23424912</woe-id>
     <continent>Oceania</continent>
     <hc-key>nr</hc-key>
     <hc-a2>NA</hc-a2>
@@ -44,8 +43,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <latitude>-0.494702</latitude>
     <woe-label>NULL</woe-label>
     <type>NULL</type>
-    <hc-middle-x>0.61</hc-middle-x>
-    <hc-middle-y>0.40</hc-middle-y>
+    <hc-middle-x>0.58</hc-middle-x>
+    <hc-middle-y>0.36</hc-middle-y>
     <hc-key>nr-6494</hc-key>
     <hc-a2>AN</hc-a2>
   </desc>
@@ -69,8 +68,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <latitude>-0.497511</latitude>
     <woe-label>NULL</woe-label>
     <type>NULL</type>
-    <hc-middle-x>0.30</hc-middle-x>
-    <hc-middle-y>0.52</hc-middle-y>
+    <hc-middle-x>0.27</hc-middle-x>
+    <hc-middle-y>0.51</hc-middle-y>
     <hc-key>nr-6495</hc-key>
     <hc-a2>AN</hc-a2>
   </desc>
@@ -170,7 +169,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <woe-label>NULL</woe-label>
     <type>NULL</type>
     <hc-middle-x>0.45</hc-middle-x>
-    <hc-middle-y>0.59</hc-middle-y>
+    <hc-middle-y>0.58</hc-middle-y>
     <hc-key>nr-6499</hc-key>
     <hc-a2>YA</hc-a2>
   </desc>
@@ -194,7 +193,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <latitude>-0.538594</latitude>
     <woe-label>NULL</woe-label>
     <type>NULL</type>
-    <hc-middle-x>0.55</hc-middle-x>
+    <hc-middle-x>0.54</hc-middle-x>
     <hc-middle-y>0.30</hc-middle-y>
     <hc-key>nr-6487</hc-key>
     <hc-a2>BO</hc-a2>
@@ -244,8 +243,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <latitude>-0.529816</latitude>
     <woe-label>NULL</woe-label>
     <type>NULL</type>
-    <hc-middle-x>0.53</hc-middle-x>
-    <hc-middle-y>0.45</hc-middle-y>
+    <hc-middle-x>0.54</hc-middle-x>
+    <hc-middle-y>0.46</hc-middle-y>
     <hc-key>nr-6488</hc-key>
     <hc-a2>AI</hc-a2>
   </desc>
@@ -269,8 +268,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <latitude>-0.520335</latitude>
     <woe-label>NULL</woe-label>
     <type>NULL</type>
-    <hc-middle-x>0.46</hc-middle-x>
-    <hc-middle-y>0.62</hc-middle-y>
+    <hc-middle-x>0.48</hc-middle-x>
+    <hc-middle-y>0.58</hc-middle-y>
     <hc-key>nr-6489</hc-key>
     <hc-a2>DE</hc-a2>
   </desc>
@@ -294,7 +293,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <latitude>-0.512961</latitude>
     <woe-label>NULL</woe-label>
     <type>NULL</type>
-    <hc-middle-x>0.41</hc-middle-x>
+    <hc-middle-x>0.42</hc-middle-x>
     <hc-middle-y>0.56</hc-middle-y>
     <hc-key>nr-6490</hc-key>
     <hc-a2>NI</hc-a2>
@@ -369,7 +368,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <latitude>-0.502076</latitude>
     <woe-label>NULL</woe-label>
     <type>NULL</type>
-    <hc-middle-x>0.57</hc-middle-x>
+    <hc-middle-x>0.58</hc-middle-x>
     <hc-middle-y>0.40</hc-middle-y>
     <hc-key>nr-6493</hc-key>
     <hc-a2>EW</hc-a2>
@@ -377,6 +376,6 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
 </path>
 </g>
 
-<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth</text>
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth</text>
 
 </svg>

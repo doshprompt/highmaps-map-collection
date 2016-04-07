@@ -3,8 +3,8 @@
 
 <svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <desc>
-Map version: 1.1.1
-Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
+Map version: 1.1.2
+Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth
 </desc>
 <title>Saint Vincent and the Grenadines</title>
 <g id="admin1">
@@ -15,11 +15,10 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <labelrank>6</labelrank>
     <country-abbrev>St.V.G.</country-abbrev>
     <subregion>Caribbean</subregion>
-    <woe-id>23424981</woe-id>
     <region-wb>Latin America &amp; Caribbean</region-wb>
     <iso-a3>VCT</iso-a3>
     <iso-a2>VC</iso-a2>
-    <region-un>Americas</region-un>
+    <woe-id>23424981</woe-id>
     <continent>North America</continent>
     <hc-key>vc</hc-key>
     <hc-a2>SV</hc-a2>
@@ -44,7 +43,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <latitude>13.0161</latitude>
     <woe-label>Grenadines, VC, Saint Vincent and the Grenadines</woe-label>
     <type>Parish</type>
-    <hc-middle-x>0.69</hc-middle-x>
+    <hc-middle-x>0.70</hc-middle-x>
     <hc-middle-y>0.09</hc-middle-y>
     <hc-key>vc-gt</hc-key>
     <hc-a2>GT</hc-a2>
@@ -119,8 +118,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <latitude>13.3142</latitude>
     <woe-label>Saint David, VC, Saint Vincent and the Grenadines</woe-label>
     <type>Parish</type>
-    <hc-middle-x>0.63</hc-middle-x>
-    <hc-middle-y>0.47</hc-middle-y>
+    <hc-middle-x>0.65</hc-middle-x>
+    <hc-middle-y>0.51</hc-middle-y>
     <hc-key>vc-da</hc-key>
     <hc-a2>DA</hc-a2>
   </desc>
@@ -144,7 +143,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <latitude>13.1695</latitude>
     <woe-label>Saint George, VC, Saint Vincent and the Grenadines</woe-label>
     <type>Parish</type>
-    <hc-middle-x>0.47</hc-middle-x>
+    <hc-middle-x>0.48</hc-middle-x>
     <hc-middle-y>0.52</hc-middle-y>
     <hc-key>vc-ge</hc-key>
     <hc-a2>GE</hc-a2>
@@ -177,6 +176,6 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
 </path>
 </g>
 
-<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth</text>
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth</text>
 
 </svg>

@@ -3,8 +3,8 @@
 
 <svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <desc>
-Map version: 1.1.1
-Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
+Map version: 1.1.2
+Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth
 </desc>
 <title>Saint Lucia</title>
 <g id="admin1">
@@ -15,11 +15,10 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <labelrank>6</labelrank>
     <country-abbrev>S.L.</country-abbrev>
     <subregion>Caribbean</subregion>
-    <woe-id>23424951</woe-id>
     <region-wb>Latin America &amp; Caribbean</region-wb>
     <iso-a3>LCA</iso-a3>
     <iso-a2>LC</iso-a2>
-    <region-un>Americas</region-un>
+    <woe-id>23424951</woe-id>
     <continent>North America</continent>
     <hc-key>lc</hc-key>
     <hc-a2>SL</hc-a2>
@@ -44,8 +43,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <latitude>13.7912</latitude>
     <woe-label>Choiseul, LC, St. Lucia</woe-label>
     <type>Quarter</type>
-    <hc-middle-x>0.42</hc-middle-x>
-    <hc-middle-y>0.59</hc-middle-y>
+    <hc-middle-x>0.48</hc-middle-x>
+    <hc-middle-y>0.56</hc-middle-y>
     <hc-key>lc-6591</hc-key>
     <hc-a2>CH</hc-a2>
   </desc>
@@ -69,8 +68,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <latitude>14.0176</latitude>
     <woe-label>Dauphin, LC, St. Lucia</woe-label>
     <type>Quarter</type>
-    <hc-middle-x>0.47</hc-middle-x>
-    <hc-middle-y>0.54</hc-middle-y>
+    <hc-middle-x>0.52</hc-middle-x>
+    <hc-middle-y>0.55</hc-middle-y>
     <hc-key>lc-6585</hc-key>
     <hc-a2>DA</hc-a2>
   </desc>
@@ -144,8 +143,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <latitude>13.7676</latitude>
     <woe-label>Laborie, LC, St. Lucia</woe-label>
     <type>Quarter</type>
-    <hc-middle-x>0.56</hc-middle-x>
-    <hc-middle-y>0.56</hc-middle-y>
+    <hc-middle-x>0.57</hc-middle-x>
+    <hc-middle-y>0.55</hc-middle-y>
     <hc-key>lc-6590</hc-key>
     <hc-a2>LA</hc-a2>
   </desc>
@@ -302,6 +301,6 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
 </path>
 </g>
 
-<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth</text>
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth</text>
 
 </svg>

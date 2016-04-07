@@ -3,8 +3,8 @@
 
 <svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <desc>
-Map version: 1.1.1
-Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bureau
+Map version: 1.1.2
+Copyright (c) 2015 Highsoft AS, Based on data from The United States Census Bureau
 </desc>
 <title>Maine</title>
 <g id="admin2">
@@ -38,11 +38,10 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
     <labelrank>2</labelrank>
     <country-abbrev>U.S.A.</country-abbrev>
     <subregion>Northern America</subregion>
-    <woe-id>23424977</woe-id>
     <region-wb>North America</region-wb>
     <iso-a3>USA</iso-a3>
     <iso-a2>US</iso-a2>
-    <region-un>Americas</region-un>
+    <woe-id>23424977</woe-id>
     <continent>North America</continent>
     <hc-key>us</hc-key>
     <hc-a2>US</hc-a2>
@@ -54,7 +53,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
     <fips>23009</fips>
     <name>Hancock</name>
     <hc-middle-x>0.53</hc-middle-x>
-    <hc-middle-y>0.54</hc-middle-y>
+    <hc-middle-y>0.52</hc-middle-y>
     <hc-key>us-me-009</hc-key>
     <hc-a2>HA</hc-a2>
   </desc>
@@ -75,8 +74,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>23013</fips>
     <name>Knox</name>
-    <hc-middle-x>0.30</hc-middle-x>
-    <hc-middle-y>0.44</hc-middle-y>
+    <hc-middle-x>0.27</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
     <hc-key>us-me-013</hc-key>
     <hc-a2>KN</hc-a2>
   </desc>
@@ -108,7 +107,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>23019</fips>
     <name>Penobscot</name>
-    <hc-middle-x>0.57</hc-middle-x>
+    <hc-middle-x>0.58</hc-middle-x>
     <hc-middle-y>0.63</hc-middle-y>
     <hc-key>us-me-019</hc-key>
     <hc-a2>PE</hc-a2>
@@ -142,7 +141,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
     <fips>23025</fips>
     <name>Somerset</name>
     <hc-middle-x>0.35</hc-middle-x>
-    <hc-middle-y>0.47</hc-middle-y>
+    <hc-middle-y>0.48</hc-middle-y>
     <hc-key>us-me-025</hc-key>
     <hc-a2>SO</hc-a2>
   </desc>
@@ -186,7 +185,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
     <fips>23007</fips>
     <name>Franklin</name>
     <hc-middle-x>0.42</hc-middle-x>
-    <hc-middle-y>0.58</hc-middle-y>
+    <hc-middle-y>0.55</hc-middle-y>
     <hc-key>us-me-007</hc-key>
     <hc-a2>FR</hc-a2>
   </desc>
@@ -197,7 +196,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
     <fips>23003</fips>
     <name>Aroostook</name>
     <hc-middle-x>0.58</hc-middle-x>
-    <hc-middle-y>0.27</hc-middle-y>
+    <hc-middle-y>0.28</hc-middle-y>
     <hc-key>us-me-003</hc-key>
     <hc-a2>AR</hc-a2>
   </desc>
@@ -226,6 +225,6 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
 </path>
 </g>
 
-<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bureau</text>
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2015 Highsoft AS, Based on data from The United States Census Bureau</text>
 
 </svg>

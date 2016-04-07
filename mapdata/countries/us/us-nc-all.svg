@@ -3,8 +3,8 @@
 
 <svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <desc>
-Map version: 1.1.1
-Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bureau
+Map version: 1.1.2
+Copyright (c) 2015 Highsoft AS, Based on data from The United States Census Bureau
 </desc>
 <title>North Carolina</title>
 <g id="admin2">
@@ -15,11 +15,10 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
     <labelrank>2</labelrank>
     <country-abbrev>U.S.A.</country-abbrev>
     <subregion>Northern America</subregion>
-    <woe-id>23424977</woe-id>
     <region-wb>North America</region-wb>
     <iso-a3>USA</iso-a3>
     <iso-a2>US</iso-a2>
-    <region-un>Americas</region-un>
+    <woe-id>23424977</woe-id>
     <continent>North America</continent>
     <hc-key>us</hc-key>
     <hc-a2>US</hc-a2>
@@ -53,8 +52,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>37031</fips>
     <name>Carteret</name>
-    <hc-middle-x>0.53</hc-middle-x>
-    <hc-middle-y>0.46</hc-middle-y>
+    <hc-middle-x>0.57</hc-middle-x>
+    <hc-middle-y>0.47</hc-middle-y>
     <hc-key>us-nc-031</hc-key>
     <hc-a2>CA</hc-a2>
   </desc>
@@ -64,7 +63,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>37187</fips>
     <name>Washington</name>
-    <hc-middle-x>0.62</hc-middle-x>
+    <hc-middle-x>0.56</hc-middle-x>
     <hc-middle-y>0.50</hc-middle-y>
     <hc-key>us-nc-187</hc-key>
     <hc-a2>WA</hc-a2>
@@ -75,8 +74,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>37095</fips>
     <name>Hyde</name>
-    <hc-middle-x>0.56</hc-middle-x>
-    <hc-middle-y>0.28</hc-middle-y>
+    <hc-middle-x>0.41</hc-middle-x>
+    <hc-middle-y>0.34</hc-middle-y>
     <hc-key>us-nc-095</hc-key>
     <hc-a2>HY</hc-a2>
   </desc>
@@ -86,8 +85,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>37129</fips>
     <name>New Hanover</name>
-    <hc-middle-x>0.58</hc-middle-x>
-    <hc-middle-y>0.37</hc-middle-y>
+    <hc-middle-x>0.54</hc-middle-x>
+    <hc-middle-y>0.22</hc-middle-y>
     <hc-key>us-nc-129</hc-key>
     <hc-a2>NH</hc-a2>
   </desc>
@@ -97,8 +96,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>37183</fips>
     <name>Wake</name>
-    <hc-middle-x>0.40</hc-middle-x>
-    <hc-middle-y>0.52</hc-middle-y>
+    <hc-middle-x>0.44</hc-middle-x>
+    <hc-middle-y>0.49</hc-middle-y>
     <hc-key>us-nc-183</hc-key>
     <hc-a2>WA</hc-a2>
   </desc>
@@ -108,8 +107,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>37077</fips>
     <name>Granville</name>
-    <hc-middle-x>0.49</hc-middle-x>
-    <hc-middle-y>0.50</hc-middle-y>
+    <hc-middle-x>0.45</hc-middle-x>
+    <hc-middle-y>0.45</hc-middle-y>
     <hc-key>us-nc-077</hc-key>
     <hc-a2>GR</hc-a2>
   </desc>
@@ -119,8 +118,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>37121</fips>
     <name>Mitchell</name>
-    <hc-middle-x>0.60</hc-middle-x>
-    <hc-middle-y>0.29</hc-middle-y>
+    <hc-middle-x>0.64</hc-middle-x>
+    <hc-middle-y>0.42</hc-middle-y>
     <hc-key>us-nc-121</hc-key>
     <hc-a2>MI</hc-a2>
   </desc>
@@ -130,8 +129,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>37011</fips>
     <name>Avery</name>
-    <hc-middle-x>0.39</hc-middle-x>
-    <hc-middle-y>0.55</hc-middle-y>
+    <hc-middle-x>0.42</hc-middle-x>
+    <hc-middle-y>0.51</hc-middle-y>
     <hc-key>us-nc-011</hc-key>
     <hc-a2>AV</hc-a2>
   </desc>
@@ -141,8 +140,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>37091</fips>
     <name>Hertford</name>
-    <hc-middle-x>0.38</hc-middle-x>
-    <hc-middle-y>0.66</hc-middle-y>
+    <hc-middle-x>0.43</hc-middle-x>
+    <hc-middle-y>0.62</hc-middle-y>
     <hc-key>us-nc-091</hc-key>
     <hc-a2>HE</hc-a2>
   </desc>
@@ -163,8 +162,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>37001</fips>
     <name>Alamance</name>
-    <hc-middle-x>0.50</hc-middle-x>
-    <hc-middle-y>0.50</hc-middle-y>
+    <hc-middle-x>0.47</hc-middle-x>
+    <hc-middle-y>0.48</hc-middle-y>
     <hc-key>us-nc-001</hc-key>
     <hc-a2>AL</hc-a2>
   </desc>
@@ -174,8 +173,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>37019</fips>
     <name>Brunswick</name>
-    <hc-middle-x>0.65</hc-middle-x>
-    <hc-middle-y>0.50</hc-middle-y>
+    <hc-middle-x>0.61</hc-middle-x>
+    <hc-middle-y>0.54</hc-middle-y>
     <hc-key>us-nc-019</hc-key>
     <hc-a2>BR</hc-a2>
   </desc>
@@ -185,7 +184,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>37087</fips>
     <name>Haywood</name>
-    <hc-middle-x>0.53</hc-middle-x>
+    <hc-middle-x>0.54</hc-middle-x>
     <hc-middle-y>0.48</hc-middle-y>
     <hc-key>us-nc-087</hc-key>
     <hc-a2>HA</hc-a2>
@@ -196,8 +195,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>37175</fips>
     <name>Transylvania</name>
-    <hc-middle-x>0.59</hc-middle-x>
-    <hc-middle-y>0.58</hc-middle-y>
+    <hc-middle-x>0.60</hc-middle-x>
+    <hc-middle-y>0.57</hc-middle-y>
     <hc-key>us-nc-175</hc-key>
     <hc-a2>TR</hc-a2>
   </desc>
@@ -207,8 +206,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>37153</fips>
     <name>Richmond</name>
-    <hc-middle-x>0.54</hc-middle-x>
-    <hc-middle-y>0.39</hc-middle-y>
+    <hc-middle-x>0.56</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
     <hc-key>us-nc-153</hc-key>
     <hc-a2>RI</hc-a2>
   </desc>
@@ -218,8 +217,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>37107</fips>
     <name>Lenoir</name>
-    <hc-middle-x>0.51</hc-middle-x>
-    <hc-middle-y>0.42</hc-middle-y>
+    <hc-middle-x>0.49</hc-middle-x>
+    <hc-middle-y>0.40</hc-middle-y>
     <hc-key>us-nc-107</hc-key>
     <hc-a2>LE</hc-a2>
   </desc>
@@ -229,8 +228,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>37191</fips>
     <name>Wayne</name>
-    <hc-middle-x>0.63</hc-middle-x>
-    <hc-middle-y>0.49</hc-middle-y>
+    <hc-middle-x>0.66</hc-middle-x>
+    <hc-middle-y>0.47</hc-middle-y>
     <hc-key>us-nc-191</hc-key>
     <hc-a2>WA</hc-a2>
   </desc>
@@ -240,8 +239,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>37079</fips>
     <name>Greene</name>
-    <hc-middle-x>0.39</hc-middle-x>
-    <hc-middle-y>0.52</hc-middle-y>
+    <hc-middle-x>0.43</hc-middle-x>
+    <hc-middle-y>0.60</hc-middle-y>
     <hc-key>us-nc-079</hc-key>
     <hc-a2>GR</hc-a2>
   </desc>
@@ -251,8 +250,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>37161</fips>
     <name>Rutherford</name>
-    <hc-middle-x>0.59</hc-middle-x>
-    <hc-middle-y>0.48</hc-middle-y>
+    <hc-middle-x>0.61</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
     <hc-key>us-nc-161</hc-key>
     <hc-a2>RU</hc-a2>
   </desc>
@@ -262,8 +261,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>37101</fips>
     <name>Johnston</name>
-    <hc-middle-x>0.56</hc-middle-x>
-    <hc-middle-y>0.55</hc-middle-y>
+    <hc-middle-x>0.55</hc-middle-x>
+    <hc-middle-y>0.56</hc-middle-y>
     <hc-key>us-nc-101</hc-key>
     <hc-a2>JO</hc-a2>
   </desc>
@@ -273,8 +272,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>37127</fips>
     <name>Nash</name>
-    <hc-middle-x>0.50</hc-middle-x>
-    <hc-middle-y>0.53</hc-middle-y>
+    <hc-middle-x>0.51</hc-middle-x>
+    <hc-middle-y>0.54</hc-middle-y>
     <hc-key>us-nc-127</hc-key>
     <hc-a2>NA</hc-a2>
   </desc>
@@ -306,8 +305,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>37013</fips>
     <name>Beaufort</name>
-    <hc-middle-x>0.58</hc-middle-x>
-    <hc-middle-y>0.28</hc-middle-y>
+    <hc-middle-x>0.57</hc-middle-x>
+    <hc-middle-y>0.33</hc-middle-y>
     <hc-key>us-nc-013</hc-key>
     <hc-a2>BE</hc-a2>
   </desc>
@@ -317,7 +316,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>37137</fips>
     <name>Pamlico</name>
-    <hc-middle-x>0.34</hc-middle-x>
+    <hc-middle-x>0.44</hc-middle-x>
     <hc-middle-y>0.61</hc-middle-y>
     <hc-key>us-nc-137</hc-key>
     <hc-a2>PA</hc-a2>
@@ -328,7 +327,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>37103</fips>
     <name>Jones</name>
-    <hc-middle-x>0.62</hc-middle-x>
+    <hc-middle-x>0.54</hc-middle-x>
     <hc-middle-y>0.44</hc-middle-y>
     <hc-key>us-nc-103</hc-key>
     <hc-a2>JO</hc-a2>
@@ -339,8 +338,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>37049</fips>
     <name>Craven</name>
-    <hc-middle-x>0.31</hc-middle-x>
-    <hc-middle-y>0.27</hc-middle-y>
+    <hc-middle-x>0.35</hc-middle-x>
+    <hc-middle-y>0.28</hc-middle-y>
     <hc-key>us-nc-049</hc-key>
     <hc-a2>CR</hc-a2>
   </desc>
@@ -351,7 +350,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
     <fips>37063</fips>
     <name>Durham</name>
     <hc-middle-x>0.53</hc-middle-x>
-    <hc-middle-y>0.65</hc-middle-y>
+    <hc-middle-y>0.64</hc-middle-y>
     <hc-key>us-nc-063</hc-key>
     <hc-a2>DU</hc-a2>
   </desc>
@@ -361,8 +360,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>37037</fips>
     <name>Chatham</name>
-    <hc-middle-x>0.41</hc-middle-x>
-    <hc-middle-y>0.50</hc-middle-y>
+    <hc-middle-x>0.31</hc-middle-x>
+    <hc-middle-y>0.55</hc-middle-y>
     <hc-key>us-nc-037</hc-key>
     <hc-a2>CH</hc-a2>
   </desc>
@@ -373,7 +372,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
     <fips>37185</fips>
     <name>Warren</name>
     <hc-middle-x>0.51</hc-middle-x>
-    <hc-middle-y>0.50</hc-middle-y>
+    <hc-middle-y>0.43</hc-middle-y>
     <hc-key>us-nc-185</hc-key>
     <hc-a2>WA</hc-a2>
   </desc>
@@ -383,8 +382,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>37131</fips>
     <name>Northampton</name>
-    <hc-middle-x>0.66</hc-middle-x>
-    <hc-middle-y>0.37</hc-middle-y>
+    <hc-middle-x>0.63</hc-middle-x>
+    <hc-middle-y>0.32</hc-middle-y>
     <hc-key>us-nc-131</hc-key>
     <hc-a2>NO</hc-a2>
   </desc>
@@ -394,8 +393,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>37065</fips>
     <name>Edgecombe</name>
-    <hc-middle-x>0.50</hc-middle-x>
-    <hc-middle-y>0.54</hc-middle-y>
+    <hc-middle-x>0.52</hc-middle-x>
+    <hc-middle-y>0.51</hc-middle-y>
     <hc-key>us-nc-065</hc-key>
     <hc-a2>ED</hc-a2>
   </desc>
@@ -405,8 +404,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>37195</fips>
     <name>Wilson</name>
-    <hc-middle-x>0.51</hc-middle-x>
-    <hc-middle-y>0.64</hc-middle-y>
+    <hc-middle-x>0.49</hc-middle-x>
+    <hc-middle-y>0.55</hc-middle-y>
     <hc-key>us-nc-195</hc-key>
     <hc-a2>WI</hc-a2>
   </desc>
@@ -456,12 +455,12 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   </desc>
 </path>
 
-<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="US.NC.055" d="M665.7,90.5 L665.7,90.5 L664.4,87.5 L654.9,87.7 L656.9,81.8 L656.8,66.7 L661.0,62.9 L663.8,66.2 L666.8,65.7 L663.1,61.6 L668.1,62.9 L666.3,60.8 L667.3,57.4 L672.3,61.8 L678.0,71.6 L676.5,77.6 L677.9,80.2 L678.2,84.2 L674.4,84.5 L677.1,89.6 L676.2,92.6 L674.0,93.9 L673.9,96.1 L669.6,97.0 L666.3,92.4 L666.5,91.6 Z M653.2,88.0 L653.2,88.1 L653.1,88.1 L653.1,88.1 L653.1,88.1 Z M672.7,33.0 L672.8,33.0 L673.9,32.7 L677.6,42.7 L690.1,64.8 L691.1,68.8 L693.6,74.4 L690.9,73.1 L688.8,69.8 L686.7,62.2 L681.1,55.1 L677.6,54.2 L681.0,53.0 L680.0,50.3 L677.1,49.5 L675.5,44.7 L675.7,41.6 Z M682.5,62.3 L686.4,68.0 L685.6,71.3 L682.9,70.8 L681.2,65.9 L677.0,61.0 L679.0,60.4 Z M695.5,81.3 L693.5,76.2 L695.6,76.9 L697.4,81.7 L700.0,94.6 L698.8,102.1 L697.8,118.4 L696.1,125.8 L693.9,128.4 L690.7,128.5 L678.9,133.3 L682.8,128.8 L683.6,129.5 L693.9,124.6 L695.9,122.8 L698.0,104.6 L697.5,99.5 L698.7,96.3 L698.0,90.1 Z">
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="US.NC.055" d="M665.7,90.5 L665.7,90.5 L664.4,87.5 L654.9,87.7 L656.9,81.8 L656.8,66.7 L661.0,62.9 L663.8,66.2 L666.8,65.7 L663.1,61.6 L668.1,62.9 L666.3,60.8 L667.3,57.4 L672.3,61.8 L678.0,71.6 L676.5,77.6 L677.9,80.2 L678.2,84.2 L674.4,84.5 L677.1,89.6 L676.2,92.6 L674.0,93.9 L673.9,96.1 L669.6,97.0 L666.3,92.4 L666.5,91.6 Z M653.2,88.0 L653.2,88.1 L653.1,88.1 L653.1,88.1 L653.1,88.1 Z M672.7,33.0 L672.8,33.0 L673.9,32.7 L677.6,42.7 L690.1,64.8 L691.1,68.8 L693.6,74.4 L690.9,73.1 L688.8,69.8 L686.7,62.2 L681.1,55.1 L677.6,54.2 L681.0,53.0 L680.0,50.3 L677.1,49.5 L675.5,44.7 L675.7,41.6 Z M682.5,62.3 L686.4,68.0 L685.6,71.3 L682.9,70.8 L681.2,65.9 L677.0,61.0 L679.0,60.4 Z M695.5,81.3 L693.5,76.2 L695.6,76.9 L697.4,81.7 L698.0,85.8 L700.0,94.6 L698.8,102.1 L697.8,118.4 L696.1,125.8 L693.9,128.4 L690.7,128.5 L678.9,133.3 L682.8,128.8 L683.6,129.5 L693.9,124.6 L695.9,122.8 L698.0,104.6 L697.5,99.5 L698.7,96.3 L698.0,90.1 Z">
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>37055</fips>
     <name>Dare</name>
-    <hc-middle-x>0.30</hc-middle-x>
-    <hc-middle-y>0.44</hc-middle-y>
+    <hc-middle-x>0.31</hc-middle-x>
+    <hc-middle-y>0.46</hc-middle-y>
     <hc-key>us-nc-055</hc-key>
     <hc-a2>DA</hc-a2>
   </desc>
@@ -471,7 +470,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>37099</fips>
     <name>Jackson</name>
-    <hc-middle-x>0.48</hc-middle-x>
+    <hc-middle-x>0.43</hc-middle-x>
     <hc-middle-y>0.39</hc-middle-y>
     <hc-key>us-nc-099</hc-key>
     <hc-a2>JA</hc-a2>
@@ -483,7 +482,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
     <fips>37159</fips>
     <name>Rowan</name>
     <hc-middle-x>0.40</hc-middle-x>
-    <hc-middle-y>0.64</hc-middle-y>
+    <hc-middle-y>0.58</hc-middle-y>
     <hc-key>us-nc-159</hc-key>
     <hc-a2>RO</hc-a2>
   </desc>
@@ -493,8 +492,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>37097</fips>
     <name>Iredell</name>
-    <hc-middle-x>0.48</hc-middle-x>
-    <hc-middle-y>0.41</hc-middle-y>
+    <hc-middle-x>0.59</hc-middle-x>
+    <hc-middle-y>0.37</hc-middle-y>
     <hc-key>us-nc-097</hc-key>
     <hc-a2>IR</hc-a2>
   </desc>
@@ -504,8 +503,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>37025</fips>
     <name>Cabarrus</name>
-    <hc-middle-x>0.44</hc-middle-x>
-    <hc-middle-y>0.46</hc-middle-y>
+    <hc-middle-x>0.48</hc-middle-x>
+    <hc-middle-y>0.40</hc-middle-y>
     <hc-key>us-nc-025</hc-key>
     <hc-a2>CA</hc-a2>
   </desc>
@@ -515,8 +514,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>37179</fips>
     <name>Union</name>
-    <hc-middle-x>0.60</hc-middle-x>
-    <hc-middle-y>0.50</hc-middle-y>
+    <hc-middle-x>0.54</hc-middle-x>
+    <hc-middle-y>0.56</hc-middle-y>
     <hc-key>us-nc-179</hc-key>
     <hc-a2>UN</hc-a2>
   </desc>
@@ -527,7 +526,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
     <fips>37181</fips>
     <name>Vance</name>
     <hc-middle-x>0.50</hc-middle-x>
-    <hc-middle-y>0.50</hc-middle-y>
+    <hc-middle-y>0.43</hc-middle-y>
     <hc-key>us-nc-181</hc-key>
     <hc-a2>VA</hc-a2>
   </desc>
@@ -538,7 +537,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
     <fips>37177</fips>
     <name>Tyrrell</name>
     <hc-middle-x>0.50</hc-middle-x>
-    <hc-middle-y>0.50</hc-middle-y>
+    <hc-middle-y>0.45</hc-middle-y>
     <hc-key>us-nc-177</hc-key>
     <hc-a2>TY</hc-a2>
   </desc>
@@ -559,8 +558,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>37193</fips>
     <name>Wilkes</name>
-    <hc-middle-x>0.59</hc-middle-x>
-    <hc-middle-y>0.48</hc-middle-y>
+    <hc-middle-x>0.55</hc-middle-x>
+    <hc-middle-y>0.49</hc-middle-y>
     <hc-key>us-nc-193</hc-key>
     <hc-a2>WI</hc-a2>
   </desc>
@@ -571,7 +570,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
     <fips>37003</fips>
     <name>Alexander</name>
     <hc-middle-x>0.49</hc-middle-x>
-    <hc-middle-y>0.46</hc-middle-y>
+    <hc-middle-y>0.43</hc-middle-y>
     <hc-key>us-nc-003</hc-key>
     <hc-a2>AL</hc-a2>
   </desc>
@@ -581,8 +580,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>37027</fips>
     <name>Caldwell</name>
-    <hc-middle-x>0.49</hc-middle-x>
-    <hc-middle-y>0.50</hc-middle-y>
+    <hc-middle-x>0.54</hc-middle-x>
+    <hc-middle-y>0.45</hc-middle-y>
     <hc-key>us-nc-027</hc-key>
     <hc-a2>CA</hc-a2>
   </desc>
@@ -603,19 +602,19 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>37041</fips>
     <name>Chowan</name>
-    <hc-middle-x>0.47</hc-middle-x>
-    <hc-middle-y>0.85</hc-middle-y>
+    <hc-middle-x>0.25</hc-middle-x>
+    <hc-middle-y>0.54</hc-middle-y>
     <hc-key>us-nc-041</hc-key>
     <hc-a2>CH</hc-a2>
   </desc>
 </path>
 
-<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="US.NC.073" d="M611.1,23.2 L608.1,26.1 L604.9,25.6 L601.4,28.4 L599.7,26.9 L598.1,26.6 L593.7,22.6 L590.8,22.5 L582.1,19.1 L580.8,17.8 L580.6,12.3 L581.6,12.4 L584.1,7.7 L583.0,5.4 L583.0,4.6 L612.1,4.1 L615.6,7.4 L616.1,7.8 L616.2,11.8 L619.3,20.5 L612.7,22.7 Z">
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="US.NC.073" d="M611.1,23.2 L608.1,26.1 L604.9,25.6 L601.4,28.4 L599.7,26.9 L598.1,26.6 L593.7,22.6 L590.8,22.5 L582.1,19.1 L580.8,17.8 L580.6,12.3 L581.6,12.4 L584.1,7.7 L583.0,5.4 L583.0,4.6 L591.8,4.5 L612.1,4.1 L615.6,7.4 L616.1,7.8 L616.2,11.8 L619.3,20.5 L612.7,22.7 Z">
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>37073</fips>
     <name>Gates</name>
     <hc-middle-x>0.50</hc-middle-x>
-    <hc-middle-y>0.50</hc-middle-y>
+    <hc-middle-y>0.40</hc-middle-y>
     <hc-key>us-nc-073</hc-key>
     <hc-a2>GA</hc-a2>
   </desc>
@@ -625,8 +624,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>37139</fips>
     <name>Pasquotank</name>
-    <hc-middle-x>0.86</hc-middle-x>
-    <hc-middle-y>0.84</hc-middle-y>
+    <hc-middle-x>0.44</hc-middle-x>
+    <hc-middle-y>0.51</hc-middle-y>
     <hc-key>us-nc-139</hc-key>
     <hc-a2>PA</hc-a2>
   </desc>
@@ -636,8 +635,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>37039</fips>
     <name>Cherokee</name>
-    <hc-middle-x>0.32</hc-middle-x>
-    <hc-middle-y>0.48</hc-middle-y>
+    <hc-middle-x>0.28</hc-middle-x>
+    <hc-middle-y>0.57</hc-middle-y>
     <hc-key>us-nc-039</hc-key>
     <hc-a2>CH</hc-a2>
   </desc>
@@ -647,8 +646,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>37113</fips>
     <name>Macon</name>
-    <hc-middle-x>0.50</hc-middle-x>
-    <hc-middle-y>0.49</hc-middle-y>
+    <hc-middle-x>0.52</hc-middle-x>
+    <hc-middle-y>0.57</hc-middle-y>
     <hc-key>us-nc-113</hc-key>
     <hc-a2>MA</hc-a2>
   </desc>
@@ -658,8 +657,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>37133</fips>
     <name>Onslow</name>
-    <hc-middle-x>0.42</hc-middle-x>
-    <hc-middle-y>0.30</hc-middle-y>
+    <hc-middle-x>0.43</hc-middle-x>
+    <hc-middle-y>0.36</hc-middle-y>
     <hc-key>us-nc-133</hc-key>
     <hc-a2>ON</hc-a2>
   </desc>
@@ -670,7 +669,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
     <fips>37045</fips>
     <name>Cleveland</name>
     <hc-middle-x>0.52</hc-middle-x>
-    <hc-middle-y>0.62</hc-middle-y>
+    <hc-middle-y>0.63</hc-middle-y>
     <hc-key>us-nc-045</hc-key>
     <hc-a2>CL</hc-a2>
   </desc>
@@ -680,8 +679,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>37109</fips>
     <name>Lincoln</name>
-    <hc-middle-x>0.50</hc-middle-x>
-    <hc-middle-y>0.50</hc-middle-y>
+    <hc-middle-x>0.55</hc-middle-x>
+    <hc-middle-y>0.51</hc-middle-y>
     <hc-key>us-nc-109</hc-key>
     <hc-a2>LI</hc-a2>
   </desc>
@@ -691,8 +690,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>37119</fips>
     <name>Mecklenburg</name>
-    <hc-middle-x>0.41</hc-middle-x>
-    <hc-middle-y>0.59</hc-middle-y>
+    <hc-middle-x>0.45</hc-middle-x>
+    <hc-middle-y>0.57</hc-middle-y>
     <hc-key>us-nc-119</hc-key>
     <hc-a2>ME</hc-a2>
   </desc>
@@ -713,7 +712,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>37089</fips>
     <name>Henderson</name>
-    <hc-middle-x>0.54</hc-middle-x>
+    <hc-middle-x>0.58</hc-middle-x>
     <hc-middle-y>0.50</hc-middle-y>
     <hc-key>us-nc-089</hc-key>
     <hc-a2>HE</hc-a2>
@@ -724,8 +723,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>37147</fips>
     <name>Pitt</name>
-    <hc-middle-x>0.58</hc-middle-x>
-    <hc-middle-y>0.48</hc-middle-y>
+    <hc-middle-x>0.56</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
     <hc-key>us-nc-147</hc-key>
     <hc-a2>PI</hc-a2>
   </desc>
@@ -735,8 +734,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>37143</fips>
     <name>Perquimans</name>
-    <hc-middle-x>0.34</hc-middle-x>
-    <hc-middle-y>0.67</hc-middle-y>
+    <hc-middle-x>0.27</hc-middle-x>
+    <hc-middle-y>0.48</hc-middle-y>
     <hc-key>us-nc-143</hc-key>
     <hc-a2>PE</hc-a2>
   </desc>
@@ -747,7 +746,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
     <fips>37125</fips>
     <name>Moore</name>
     <hc-middle-x>0.45</hc-middle-x>
-    <hc-middle-y>0.40</hc-middle-y>
+    <hc-middle-y>0.47</hc-middle-y>
     <hc-key>us-nc-125</hc-key>
     <hc-a2>MO</hc-a2>
   </desc>
@@ -757,8 +756,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>37007</fips>
     <name>Anson</name>
-    <hc-middle-x>0.52</hc-middle-x>
-    <hc-middle-y>0.65</hc-middle-y>
+    <hc-middle-x>0.46</hc-middle-x>
+    <hc-middle-y>0.59</hc-middle-y>
     <hc-key>us-nc-007</hc-key>
     <hc-a2>AN</hc-a2>
   </desc>
@@ -768,8 +767,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>37141</fips>
     <name>Pender</name>
-    <hc-middle-x>0.49</hc-middle-x>
-    <hc-middle-y>0.50</hc-middle-y>
+    <hc-middle-x>0.48</hc-middle-x>
+    <hc-middle-y>0.43</hc-middle-y>
     <hc-key>us-nc-141</hc-key>
     <hc-a2>PE</hc-a2>
   </desc>
@@ -779,8 +778,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>37163</fips>
     <name>Sampson</name>
-    <hc-middle-x>0.47</hc-middle-x>
-    <hc-middle-y>0.37</hc-middle-y>
+    <hc-middle-x>0.52</hc-middle-x>
+    <hc-middle-y>0.38</hc-middle-y>
     <hc-key>us-nc-163</hc-key>
     <hc-a2>SA</hc-a2>
   </desc>
@@ -790,8 +789,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>37085</fips>
     <name>Harnett</name>
-    <hc-middle-x>0.52</hc-middle-x>
-    <hc-middle-y>0.50</hc-middle-y>
+    <hc-middle-x>0.49</hc-middle-x>
+    <hc-middle-y>0.54</hc-middle-y>
     <hc-key>us-nc-085</hc-key>
     <hc-a2>HA</hc-a2>
   </desc>
@@ -801,8 +800,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>37155</fips>
     <name>Robeson</name>
-    <hc-middle-x>0.51</hc-middle-x>
-    <hc-middle-y>0.49</hc-middle-y>
+    <hc-middle-x>0.54</hc-middle-x>
+    <hc-middle-y>0.46</hc-middle-y>
     <hc-key>us-nc-155</hc-key>
     <hc-a2>RO</hc-a2>
   </desc>
@@ -812,8 +811,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>37051</fips>
     <name>Cumberland</name>
-    <hc-middle-x>0.42</hc-middle-x>
-    <hc-middle-y>0.51</hc-middle-y>
+    <hc-middle-x>0.39</hc-middle-x>
+    <hc-middle-y>0.55</hc-middle-y>
     <hc-key>us-nc-051</hc-key>
     <hc-a2>CU</hc-a2>
   </desc>
@@ -823,8 +822,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>37075</fips>
     <name>Graham</name>
-    <hc-middle-x>0.35</hc-middle-x>
-    <hc-middle-y>0.53</hc-middle-y>
+    <hc-middle-x>0.49</hc-middle-x>
+    <hc-middle-y>0.46</hc-middle-y>
     <hc-key>us-nc-075</hc-key>
     <hc-a2>GR</hc-a2>
   </desc>
@@ -834,8 +833,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>37023</fips>
     <name>Burke</name>
-    <hc-middle-x>0.49</hc-middle-x>
-    <hc-middle-y>0.59</hc-middle-y>
+    <hc-middle-x>0.42</hc-middle-x>
+    <hc-middle-y>0.60</hc-middle-y>
     <hc-key>us-nc-023</hc-key>
     <hc-a2>BU</hc-a2>
   </desc>
@@ -845,7 +844,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>37165</fips>
     <name>Scotland</name>
-    <hc-middle-x>0.60</hc-middle-x>
+    <hc-middle-x>0.61</hc-middle-x>
     <hc-middle-y>0.47</hc-middle-y>
     <hc-key>us-nc-165</hc-key>
     <hc-a2>SC</hc-a2>
@@ -857,7 +856,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
     <fips>37093</fips>
     <name>Hoke</name>
     <hc-middle-x>0.54</hc-middle-x>
-    <hc-middle-y>0.52</hc-middle-y>
+    <hc-middle-y>0.49</hc-middle-y>
     <hc-key>us-nc-093</hc-key>
     <hc-a2>HO</hc-a2>
   </desc>
@@ -867,8 +866,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>37111</fips>
     <name>McDowell</name>
-    <hc-middle-x>0.43</hc-middle-x>
-    <hc-middle-y>0.66</hc-middle-y>
+    <hc-middle-x>0.48</hc-middle-x>
+    <hc-middle-y>0.62</hc-middle-y>
     <hc-key>us-nc-111</hc-key>
     <hc-a2>MC</hc-a2>
   </desc>
@@ -878,8 +877,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>37047</fips>
     <name>Columbus</name>
-    <hc-middle-x>0.44</hc-middle-x>
-    <hc-middle-y>0.37</hc-middle-y>
+    <hc-middle-x>0.40</hc-middle-x>
+    <hc-middle-y>0.39</hc-middle-y>
     <hc-key>us-nc-047</hc-key>
     <hc-a2>CO</hc-a2>
   </desc>
@@ -889,8 +888,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>37061</fips>
     <name>Duplin</name>
-    <hc-middle-x>0.51</hc-middle-x>
-    <hc-middle-y>0.52</hc-middle-y>
+    <hc-middle-x>0.47</hc-middle-x>
+    <hc-middle-y>0.49</hc-middle-y>
     <hc-key>us-nc-061</hc-key>
     <hc-a2>DU</hc-a2>
   </desc>
@@ -901,7 +900,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
     <fips>37197</fips>
     <name>Yadkin</name>
     <hc-middle-x>0.51</hc-middle-x>
-    <hc-middle-y>0.48</hc-middle-y>
+    <hc-middle-y>0.59</hc-middle-y>
     <hc-key>us-nc-197</hc-key>
     <hc-a2>YA</hc-a2>
   </desc>
@@ -911,8 +910,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>37067</fips>
     <name>Forsyth</name>
-    <hc-middle-x>0.62</hc-middle-x>
-    <hc-middle-y>0.51</hc-middle-y>
+    <hc-middle-x>0.61</hc-middle-x>
+    <hc-middle-y>0.44</hc-middle-y>
     <hc-key>us-nc-067</hc-key>
     <hc-a2>FO</hc-a2>
   </desc>
@@ -922,8 +921,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>37171</fips>
     <name>Surry</name>
-    <hc-middle-x>0.61</hc-middle-x>
-    <hc-middle-y>0.51</hc-middle-y>
+    <hc-middle-x>0.55</hc-middle-x>
+    <hc-middle-y>0.49</hc-middle-y>
     <hc-key>us-nc-171</hc-key>
     <hc-a2>SU</hc-a2>
   </desc>
@@ -945,7 +944,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
     <fips>37057</fips>
     <name>Davidson</name>
     <hc-middle-x>0.63</hc-middle-x>
-    <hc-middle-y>0.40</hc-middle-y>
+    <hc-middle-y>0.45</hc-middle-y>
     <hc-key>us-nc-057</hc-key>
     <hc-a2>DA</hc-a2>
   </desc>
@@ -966,8 +965,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>37029</fips>
     <name>Camden</name>
-    <hc-middle-x>0.25</hc-middle-x>
-    <hc-middle-y>0.11</hc-middle-y>
+    <hc-middle-x>0.74</hc-middle-x>
+    <hc-middle-y>0.65</hc-middle-y>
     <hc-key>us-nc-029</hc-key>
     <hc-a2>CA</hc-a2>
   </desc>
@@ -977,14 +976,14 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>37053</fips>
     <name>Currituck</name>
-    <hc-middle-x>0.46</hc-middle-x>
-    <hc-middle-y>0.25</hc-middle-y>
+    <hc-middle-x>0.43</hc-middle-x>
+    <hc-middle-y>0.30</hc-middle-y>
     <hc-key>us-nc-053</hc-key>
     <hc-a2>CU</hc-a2>
   </desc>
 </path>
 
-<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="US.NC.009" d="M208.9,18.8 L210.0,12.6 L211.7,11.6 L210.8,5.0 L213.4,0.0 L238.5,1.9 L238.4,4.7 L240.8,9.7 L244.5,14.3 L246.4,19.8 L245.8,22.3 L240.3,21.0 L237.9,23.0 L235.8,30.4 L233.1,30.1 L228.0,33.9 L222.3,30.2 L221.2,30.6 L215.6,22.9 Z">
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="US.NC.009" d="M208.9,18.8 L210.0,12.6 L211.7,11.6 L210.8,5.0 L213.4,0.0 L225.5,1.1 L238.5,1.9 L238.4,4.7 L240.8,9.7 L244.5,14.3 L246.4,19.8 L245.8,22.3 L240.3,21.0 L237.9,23.0 L235.8,30.4 L233.1,30.1 L228.0,33.9 L222.3,30.2 L221.2,30.6 L215.6,22.9 Z">
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>37009</fips>
     <name>Ashe</name>
@@ -999,8 +998,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>37115</fips>
     <name>Madison</name>
-    <hc-middle-x>0.48</hc-middle-x>
-    <hc-middle-y>0.61</hc-middle-y>
+    <hc-middle-x>0.39</hc-middle-x>
+    <hc-middle-y>0.54</hc-middle-y>
     <hc-key>us-nc-115</hc-key>
     <hc-a2>MA</hc-a2>
   </desc>
@@ -1010,8 +1009,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>37021</fips>
     <name>Buncombe</name>
-    <hc-middle-x>0.48</hc-middle-x>
-    <hc-middle-y>0.45</hc-middle-y>
+    <hc-middle-x>0.47</hc-middle-x>
+    <hc-middle-y>0.51</hc-middle-y>
     <hc-key>us-nc-021</hc-key>
     <hc-a2>BU</hc-a2>
   </desc>
@@ -1021,7 +1020,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>37071</fips>
     <name>Gaston</name>
-    <hc-middle-x>0.48</hc-middle-x>
+    <hc-middle-x>0.51</hc-middle-x>
     <hc-middle-y>0.51</hc-middle-y>
     <hc-key>us-nc-071</hc-key>
     <hc-a2>GA</hc-a2>
@@ -1032,8 +1031,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>37015</fips>
     <name>Bertie</name>
-    <hc-middle-x>0.50</hc-middle-x>
-    <hc-middle-y>0.39</hc-middle-y>
+    <hc-middle-x>0.52</hc-middle-x>
+    <hc-middle-y>0.44</hc-middle-y>
     <hc-key>us-nc-015</hc-key>
     <hc-a2>BE</hc-a2>
   </desc>
@@ -1043,8 +1042,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>37173</fips>
     <name>Swain</name>
-    <hc-middle-x>0.62</hc-middle-x>
-    <hc-middle-y>0.73</hc-middle-y>
+    <hc-middle-x>0.64</hc-middle-x>
+    <hc-middle-y>0.69</hc-middle-y>
     <hc-key>us-nc-173</hc-key>
     <hc-a2>SW</hc-a2>
   </desc>
@@ -1055,7 +1054,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
     <fips>37035</fips>
     <name>Catawba</name>
     <hc-middle-x>0.51</hc-middle-x>
-    <hc-middle-y>0.47</hc-middle-y>
+    <hc-middle-y>0.56</hc-middle-y>
     <hc-key>us-nc-035</hc-key>
     <hc-a2>CA</hc-a2>
   </desc>
@@ -1065,8 +1064,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>37069</fips>
     <name>Franklin</name>
-    <hc-middle-x>0.43</hc-middle-x>
-    <hc-middle-y>0.40</hc-middle-y>
+    <hc-middle-x>0.48</hc-middle-x>
+    <hc-middle-y>0.42</hc-middle-y>
     <hc-key>us-nc-069</hc-key>
     <hc-a2>FR</hc-a2>
   </desc>
@@ -1077,7 +1076,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
     <fips>37005</fips>
     <name>Alleghany</name>
     <hc-middle-x>0.49</hc-middle-x>
-    <hc-middle-y>0.30</hc-middle-y>
+    <hc-middle-y>0.44</hc-middle-y>
     <hc-key>us-nc-005</hc-key>
     <hc-a2>AL</hc-a2>
   </desc>
@@ -1087,8 +1086,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>37123</fips>
     <name>Montgomery</name>
-    <hc-middle-x>0.45</hc-middle-x>
-    <hc-middle-y>0.49</hc-middle-y>
+    <hc-middle-x>0.47</hc-middle-x>
+    <hc-middle-y>0.47</hc-middle-y>
     <hc-key>us-nc-123</hc-key>
     <hc-a2>MO</hc-a2>
   </desc>
@@ -1098,7 +1097,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>37149</fips>
     <name>Polk</name>
-    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-x>0.42</hc-middle-x>
     <hc-middle-y>0.49</hc-middle-y>
     <hc-key>us-nc-149</hc-key>
     <hc-a2>PO</hc-a2>
@@ -1109,8 +1108,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>37105</fips>
     <name>Lee</name>
-    <hc-middle-x>0.45</hc-middle-x>
-    <hc-middle-y>0.43</hc-middle-y>
+    <hc-middle-x>0.51</hc-middle-x>
+    <hc-middle-y>0.48</hc-middle-y>
     <hc-key>us-nc-105</hc-key>
     <hc-a2>LE</hc-a2>
   </desc>
@@ -1120,8 +1119,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>37043</fips>
     <name>Clay</name>
-    <hc-middle-x>0.51</hc-middle-x>
-    <hc-middle-y>0.48</hc-middle-y>
+    <hc-middle-x>0.57</hc-middle-x>
+    <hc-middle-y>0.49</hc-middle-y>
     <hc-key>us-nc-043</hc-key>
     <hc-a2>CL</hc-a2>
   </desc>
@@ -1131,8 +1130,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>37017</fips>
     <name>Bladen</name>
-    <hc-middle-x>0.42</hc-middle-x>
-    <hc-middle-y>0.51</hc-middle-y>
+    <hc-middle-x>0.45</hc-middle-x>
+    <hc-middle-y>0.49</hc-middle-y>
     <hc-key>us-nc-017</hc-key>
     <hc-a2>BL</hc-a2>
   </desc>
@@ -1142,7 +1141,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>37167</fips>
     <name>Stanly</name>
-    <hc-middle-x>0.65</hc-middle-x>
+    <hc-middle-x>0.60</hc-middle-x>
     <hc-middle-y>0.49</hc-middle-y>
     <hc-key>us-nc-167</hc-key>
     <hc-a2>ST</hc-a2>
@@ -1150,6 +1149,6 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
 </path>
 </g>
 
-<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bureau</text>
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2015 Highsoft AS, Based on data from The United States Census Bureau</text>
 
 </svg>

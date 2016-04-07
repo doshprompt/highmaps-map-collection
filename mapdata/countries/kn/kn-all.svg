@@ -3,8 +3,8 @@
 
 <svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <desc>
-Map version: 1.1.1
-Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
+Map version: 1.1.2
+Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth
 </desc>
 <title>Saint Kitts and Nevis</title>
 <g id="admin1">
@@ -15,11 +15,10 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <labelrank>6</labelrank>
     <country-abbrev>St.K.N.</country-abbrev>
     <subregion>Caribbean</subregion>
-    <woe-id>23424940</woe-id>
     <region-wb>Latin America &amp; Caribbean</region-wb>
     <iso-a3>KNA</iso-a3>
     <iso-a2>KN</iso-a2>
-    <region-un>Americas</region-un>
+    <woe-id>23424940</woe-id>
     <continent>North America</continent>
     <hc-key>kn</hc-key>
     <hc-a2>SK</hc-a2>
@@ -94,8 +93,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <latitude>17.3574</latitude>
     <woe-label>Saint Anne Sandy Point, KN, Saint Kitts and Nevis</woe-label>
     <type>Parish</type>
-    <hc-middle-x>0.41</hc-middle-x>
-    <hc-middle-y>0.42</hc-middle-y>
+    <hc-middle-x>0.45</hc-middle-x>
+    <hc-middle-y>0.44</hc-middle-y>
     <hc-key>kn-as</hc-key>
     <hc-a2>AS</hc-a2>
   </desc>
@@ -170,7 +169,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <woe-label>Saint James Windward, KN, Saint Kitts and Nevis</woe-label>
     <type>Parish</type>
     <hc-middle-x>0.60</hc-middle-x>
-    <hc-middle-y>0.49</hc-middle-y>
+    <hc-middle-y>0.48</hc-middle-y>
     <hc-key>kn-jw</hc-key>
     <hc-a2>JW</hc-a2>
   </desc>
@@ -194,7 +193,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <latitude>17.382</latitude>
     <woe-label>Saint John Capesterre, KN, Saint Kitts and Nevis</woe-label>
     <type>Parish</type>
-    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-x>0.49</hc-middle-x>
     <hc-middle-y>0.51</hc-middle-y>
     <hc-key>kn-jc</hc-key>
     <hc-a2>JC</hc-a2>
@@ -220,7 +219,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <woe-label>Saint John Figtree, KN, Saint Kitts and Nevis</woe-label>
     <type>Parish</type>
     <hc-middle-x>0.54</hc-middle-x>
-    <hc-middle-y>0.61</hc-middle-y>
+    <hc-middle-y>0.60</hc-middle-y>
     <hc-key>kn-jf</hc-key>
     <hc-a2>JF</hc-a2>
   </desc>
@@ -294,7 +293,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <latitude>17.135</latitude>
     <woe-label>NULL</woe-label>
     <type>Parish</type>
-    <hc-middle-x>0.25</hc-middle-x>
+    <hc-middle-x>0.26</hc-middle-x>
     <hc-middle-y>0.68</hc-middle-y>
     <hc-key>kn-pl</hc-key>
     <hc-a2>PL</hc-a2>
@@ -377,6 +376,6 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
 </path>
 </g>
 
-<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth</text>
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth</text>
 
 </svg>

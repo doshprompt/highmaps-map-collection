@@ -3,8 +3,8 @@
 
 <svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <desc>
-Map version: 1.1.1
-Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bureau
+Map version: 1.1.2
+Copyright (c) 2015 Highsoft AS, Based on data from The United States Census Bureau
 </desc>
 <title>Connecticut congressional districts</title>
 <g id="special">
@@ -15,11 +15,10 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
     <labelrank>2</labelrank>
     <country-abbrev>U.S.A.</country-abbrev>
     <subregion>Northern America</subregion>
-    <woe-id>23424977</woe-id>
     <region-wb>North America</region-wb>
     <iso-a3>USA</iso-a3>
     <iso-a2>US</iso-a2>
-    <region-un>Americas</region-un>
+    <woe-id>23424977</woe-id>
     <continent>North America</continent>
     <hc-key>us</hc-key>
     <hc-a2>US</hc-a2>
@@ -54,13 +53,13 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
     <geoid>0905</geoid>
     <name>Congressional District 5</name>
     <hc-middle-x>0.31</hc-middle-x>
-    <hc-middle-y>0.50</hc-middle-y>
+    <hc-middle-y>0.51</hc-middle-y>
     <hc-key>us-ct-05</hc-key>
     <hc-a2>CD</hc-a2>
   </desc>
 </path>
 
-<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="US.CT.03" d="M223.9,272.2 L227.1,260.3 L236.0,259.9 L230.9,251.7 L251.5,244.1 L260.6,254.3 L269.4,249.7 L285.1,262.0 L279.3,282.9 L303.4,290.4 L317.4,263.5 L315.6,256.9 L344.3,266.0 L354.4,265.0 L350.7,225.9 L350.2,219.3 L371.4,214.4 L368.7,224.3 L373.4,232.6 L384.8,224.9 L392.1,233.7 L420.5,236.0 L423.2,256.7 L394.7,262.8 L394.0,280.4 L404.5,290.1 L379.2,295.3 L381.7,336.5 L398.0,354.9 L392.0,371.2 L387.5,372.3 L378.1,381.1 L374.0,381.2 L363.5,374.9 L358.5,374.0 L344.6,375.3 L340.9,376.8 L335.1,381.6 L327.6,382.4 L321.6,381.6 L317.0,388.0 L303.7,388.6 L302.4,378.5 L299.4,372.9 L298.2,361.8 L296.6,359.6 L293.4,362.8 L288.7,371.0 L276.3,383.7 L260.9,406.2 L250.9,409.0 L245.3,406.0 L241.7,409.4 L233.8,413.4 L230.6,416.2 L226.0,424.3 L225.0,430.5 L225.9,436.9 L213.5,435.7 L205.8,429.8 L208.6,415.0 L205.3,402.8 L211.8,384.8 L224.7,379.0 L232.7,385.5 L237.7,368.8 L230.5,354.3 L221.3,348.3 L209.4,331.4 L228.9,308.8 L233.9,283.7 Z">
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="US.CT.03" d="M223.9,272.2 L227.1,260.3 L236.0,259.9 L230.9,251.7 L251.5,244.1 L260.6,254.3 L269.4,249.7 L285.1,262.0 L279.3,282.9 L303.4,290.4 L317.4,263.5 L315.6,256.9 L344.3,266.0 L354.4,265.0 L350.7,225.9 L350.2,219.3 L371.4,214.4 L368.7,224.3 L373.4,232.6 L384.8,224.9 L392.1,233.7 L420.5,236.0 L423.2,256.7 L394.7,262.8 L394.0,280.4 L404.5,290.1 L379.2,295.3 L381.7,336.5 L398.0,354.9 L392.0,371.2 L387.5,372.3 L378.1,381.1 L374.0,381.2 L363.5,374.9 L358.5,374.0 L344.6,375.3 L340.9,376.8 L335.1,381.6 L332.4,380.8 L327.6,382.4 L321.6,381.6 L317.0,388.0 L303.7,388.6 L302.4,378.5 L299.4,372.9 L298.2,361.8 L296.6,359.6 L293.4,362.8 L288.7,371.0 L276.3,383.7 L260.9,406.2 L255.6,408.5 L250.9,409.0 L245.3,406.0 L241.7,409.4 L233.8,413.4 L230.6,416.2 L226.0,424.3 L225.0,430.5 L225.9,436.9 L213.5,435.7 L205.8,429.8 L208.6,415.0 L205.3,402.8 L211.8,384.8 L224.7,379.0 L232.7,385.5 L237.7,368.8 L230.5,354.3 L221.3,348.3 L209.4,331.4 L228.9,308.8 L233.9,283.7 Z">
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <geoid>0903</geoid>
     <name>Congressional District 3</name>
@@ -71,7 +70,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   </desc>
 </path>
 
-<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="US.CT.04" d="M223.9,272.2 L233.9,283.7 L228.9,308.8 L209.4,331.4 L221.3,348.3 L230.5,354.3 L237.7,368.8 L232.7,385.5 L224.7,379.0 L211.8,384.8 L205.3,402.8 L208.6,415.0 L205.8,429.8 L198.0,425.2 L198.1,431.2 L189.1,433.8 L184.6,428.9 L183.1,430.8 L183.6,437.3 L182.4,440.7 L176.4,448.0 L166.6,453.2 L164.0,447.2 L161.0,445.1 L155.5,453.7 L144.4,455.5 L138.0,458.9 L132.9,459.4 L127.2,462.4 L111.4,473.5 L106.3,475.8 L92.9,484.9 L89.1,485.4 L82.2,491.0 L75.4,501.3 L70.3,496.7 L60.2,502.8 L51.0,505.0 L48.5,500.7 L45.9,501.2 L43.3,506.7 L34.8,508.9 L29.1,514.1 L28.1,521.2 L26.5,519.5 L27.2,506.7 L0.0,464.2 L88.7,408.6 L63.1,369.1 L65.2,329.7 L78.6,329.2 L92.2,353.3 L136.7,341.3 L142.3,356.7 L179.5,330.4 L183.4,333.5 L196.1,320.0 L186.9,306.3 L202.3,292.8 L204.4,272.6 Z">
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="US.CT.04" d="M223.9,272.2 L233.9,283.7 L228.9,308.8 L209.4,331.4 L221.3,348.3 L230.5,354.3 L237.7,368.8 L232.7,385.5 L224.7,379.0 L211.8,384.8 L205.3,402.8 L208.6,415.0 L205.8,429.8 L203.2,427.3 L198.0,425.2 L198.1,431.2 L189.1,433.8 L184.6,428.9 L183.1,430.8 L183.6,437.3 L182.4,440.7 L176.4,448.0 L166.6,453.2 L164.0,447.2 L161.0,445.1 L158.5,450.7 L155.5,453.7 L144.4,455.5 L138.0,458.9 L132.9,459.4 L127.2,462.4 L111.4,473.5 L106.3,475.8 L92.9,484.9 L89.1,485.4 L82.2,491.0 L75.4,501.3 L70.3,496.7 L66.8,497.9 L60.2,502.8 L51.0,505.0 L48.5,500.7 L45.9,501.2 L43.3,506.7 L34.8,508.9 L29.1,514.1 L30.0,516.3 L28.1,521.2 L26.5,519.5 L27.2,506.7 L0.0,464.2 L88.7,408.6 L63.1,369.1 L65.2,329.7 L78.6,329.2 L92.2,353.3 L136.7,341.3 L142.3,356.7 L179.5,330.4 L183.4,333.5 L196.1,320.0 L186.9,306.3 L202.3,292.8 L204.4,272.6 Z">
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <geoid>0904</geoid>
     <name>Congressional District 4</name>
@@ -98,13 +97,13 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
     <geoid>0901</geoid>
     <name>Congressional District 1</name>
     <hc-middle-x>0.77</hc-middle-x>
-    <hc-middle-y>0.54</hc-middle-y>
+    <hc-middle-y>0.56</hc-middle-y>
     <hc-key>us-ct-01</hc-key>
     <hc-a2>CD</hc-a2>
   </desc>
 </path>
 </g>
 
-<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bureau</text>
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2015 Highsoft AS, Based on data from The United States Census Bureau</text>
 
 </svg>

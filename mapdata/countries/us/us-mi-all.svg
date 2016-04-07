@@ -3,8 +3,8 @@
 
 <svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <desc>
-Map version: 1.1.1
-Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bureau
+Map version: 1.1.2
+Copyright (c) 2015 Highsoft AS, Based on data from The United States Census Bureau
 </desc>
 <title>Michigan</title>
 <g id="admin2">
@@ -38,11 +38,10 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
     <labelrank>2</labelrank>
     <country-abbrev>U.S.A.</country-abbrev>
     <subregion>Northern America</subregion>
-    <woe-id>23424977</woe-id>
     <region-wb>North America</region-wb>
     <iso-a3>USA</iso-a3>
     <iso-a2>US</iso-a2>
-    <region-un>Americas</region-un>
+    <woe-id>23424977</woe-id>
     <continent>North America</continent>
     <hc-key>us</hc-key>
     <hc-a2>US</hc-a2>
@@ -54,7 +53,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
     <fips>26089</fips>
     <name>Leelanau</name>
     <hc-middle-x>0.51</hc-middle-x>
-    <hc-middle-y>0.86</hc-middle-y>
+    <hc-middle-y>0.85</hc-middle-y>
     <hc-key>us-mi-089</hc-key>
     <hc-a2>LE</hc-a2>
   </desc>
@@ -252,7 +251,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
     <fips>26055</fips>
     <name>Grand Traverse</name>
     <hc-middle-x>0.50</hc-middle-x>
-    <hc-middle-y>0.63</hc-middle-y>
+    <hc-middle-y>0.62</hc-middle-y>
     <hc-key>us-mi-055</hc-key>
     <hc-a2>GT</hc-a2>
   </desc>
@@ -361,7 +360,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>26101</fips>
     <name>Manistee</name>
-    <hc-middle-x>0.66</hc-middle-x>
+    <hc-middle-x>0.65</hc-middle-x>
     <hc-middle-y>0.50</hc-middle-y>
     <hc-key>us-mi-101</hc-key>
     <hc-a2>MA</hc-a2>
@@ -390,23 +389,12 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   </desc>
 </path>
 
-<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="US.MI.021" d="M296.4,641.9 L309.7,641.9 L309.7,660.4 L309.6,682.0 L309.4,693.8 L259.9,693.6 L264.8,689.5 L269.6,686.7 L274.8,681.2 L279.2,674.4 L288.1,654.1 Z">
-  <desc xmlns="http://www.highcharts.com/svg/namespace">
-    <fips>26021</fips>
-    <name>Berrien</name>
-    <hc-middle-x>0.77</hc-middle-x>
-    <hc-middle-y>0.50</hc-middle-y>
-    <hc-key>us-mi-021</hc-key>
-    <hc-a2>BE</hc-a2>
-  </desc>
-</path>
-
 <path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="US.MI.139" d="M310.1,585.6 L310.0,564.5 L306.7,553.8 L305.5,547.9 L334.8,547.9 L334.7,538.5 L344.0,538.6 L344.7,569.8 L344.7,585.5 L323.9,585.5 Z">
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>26139</fips>
     <name>Ottawa</name>
     <hc-middle-x>0.50</hc-middle-x>
-    <hc-middle-y>0.65</hc-middle-y>
+    <hc-middle-y>0.64</hc-middle-y>
     <hc-key>us-mi-139</hc-key>
     <hc-a2>OT</hc-a2>
   </desc>
@@ -625,8 +613,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>26011</fips>
     <name>Arenac</name>
-    <hc-middle-x>0.51</hc-middle-x>
-    <hc-middle-y>0.50</hc-middle-y>
+    <hc-middle-x>0.50</hc-middle-x>
+    <hc-middle-y>0.27</hc-middle-y>
     <hc-key>us-mi-011</hc-key>
     <hc-a2>AR</hc-a2>
   </desc>
@@ -746,7 +734,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>26121</fips>
     <name>Muskegon</name>
-    <hc-middle-x>0.37</hc-middle-x>
+    <hc-middle-x>0.38</hc-middle-x>
     <hc-middle-y>0.50</hc-middle-y>
     <hc-key>us-mi-121</hc-key>
     <hc-a2>MU</hc-a2>
@@ -791,7 +779,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
     <fips>26031</fips>
     <name>Cheboygan</name>
     <hc-middle-x>0.50</hc-middle-x>
-    <hc-middle-y>0.61</hc-middle-y>
+    <hc-middle-y>0.60</hc-middle-y>
     <hc-key>us-mi-031</hc-key>
     <hc-a2>CH</hc-a2>
   </desc>
@@ -823,7 +811,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>26141</fips>
     <name>Presque Isle</name>
-    <hc-middle-x>0.30</hc-middle-x>
+    <hc-middle-x>0.31</hc-middle-x>
     <hc-middle-y>0.63</hc-middle-y>
     <hc-key>us-mi-141</hc-key>
     <hc-a2>PI</hc-a2>
@@ -835,7 +823,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
     <fips>26041</fips>
     <name>Delta</name>
     <hc-middle-x>0.46</hc-middle-x>
-    <hc-middle-y>0.29</hc-middle-y>
+    <hc-middle-y>0.26</hc-middle-y>
     <hc-key>us-mi-041</hc-key>
     <hc-a2>DE</hc-a2>
   </desc>
@@ -845,8 +833,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>26053</fips>
     <name>Gogebic</name>
-    <hc-middle-x>0.46</hc-middle-x>
-    <hc-middle-y>0.50</hc-middle-y>
+    <hc-middle-x>0.47</hc-middle-x>
+    <hc-middle-y>0.51</hc-middle-y>
     <hc-key>us-mi-053</hc-key>
     <hc-a2>GO</hc-a2>
   </desc>
@@ -857,7 +845,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
     <fips>26047</fips>
     <name>Emmet</name>
     <hc-middle-x>0.49</hc-middle-x>
-    <hc-middle-y>0.38</hc-middle-y>
+    <hc-middle-y>0.39</hc-middle-y>
     <hc-key>us-mi-047</hc-key>
     <hc-a2>EM</hc-a2>
   </desc>
@@ -878,8 +866,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>26013</fips>
     <name>Baraga</name>
-    <hc-middle-x>0.50</hc-middle-x>
-    <hc-middle-y>0.61</hc-middle-y>
+    <hc-middle-x>0.51</hc-middle-x>
+    <hc-middle-y>0.53</hc-middle-y>
     <hc-key>us-mi-013</hc-key>
     <hc-a2>BA</hc-a2>
   </desc>
@@ -918,12 +906,23 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   </desc>
 </path>
 
+<path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="US.MI.021" d="M309.4,693.8 L280.0,693.8 L259.9,693.6 L264.8,689.5 L269.6,686.7 L274.8,681.2 L279.2,674.4 L288.1,654.1 L296.4,641.9 L309.7,641.9 L309.7,660.4 L309.6,682.0 Z">
+  <desc xmlns="http://www.highcharts.com/svg/namespace">
+    <fips>26021</fips>
+    <name>Berrien</name>
+    <hc-middle-x>0.76</hc-middle-x>
+    <hc-middle-y>0.50</hc-middle-y>
+    <hc-key>us-mi-021</hc-key>
+    <hc-a2>BE</hc-a2>
+  </desc>
+</path>
+
 <path fill="#CEE3F5" stroke="#6E6E6E" stroke-width="0.4" id="US.MI.061" d="M111.9,121.2 L115.7,114.6 L118.3,113.2 L131.0,102.9 L134.5,102.1 L135.1,104.6 L134.3,111.3 L135.8,113.0 L141.5,114.4 L143.4,117.0 L142.0,122.3 L146.5,125.8 L147.9,130.0 L147.0,134.6 L139.6,134.4 L139.3,143.7 L129.9,143.4 L128.3,189.8 L117.5,189.4 L105.1,189.0 L106.3,161.0 L115.6,161.5 L116.0,152.2 L110.9,152.1 Z M163.8,107.0 L163.6,112.4 L159.9,113.3 L158.8,116.1 L156.0,117.5 L152.9,124.3 L149.2,128.9 L145.3,122.1 L146.7,118.6 L149.6,116.2 L151.7,107.0 L147.7,111.0 L149.6,114.7 L145.3,116.3 L142.9,113.3 L136.3,112.6 L135.4,111.2 L136.7,102.0 L143.2,96.8 L143.7,97.1 L159.3,97.6 L159.1,106.9 Z">
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>26061</fips>
     <name>Houghton</name>
     <hc-middle-x>0.37</hc-middle-x>
-    <hc-middle-y>0.40</hc-middle-y>
+    <hc-middle-y>0.39</hc-middle-y>
     <hc-key>us-mi-061</hc-key>
     <hc-a2>HO</hc-a2>
   </desc>
@@ -944,7 +943,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>26117</fips>
     <name>Montcalm</name>
-    <hc-middle-x>0.62</hc-middle-x>
+    <hc-middle-x>0.61</hc-middle-x>
     <hc-middle-y>0.50</hc-middle-y>
     <hc-key>us-mi-117</hc-key>
     <hc-a2>MO</hc-a2>
@@ -963,6 +962,6 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
 </path>
 </g>
 
-<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bureau</text>
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2015 Highsoft AS, Based on data from The United States Census Bureau</text>
 
 </svg>

@@ -3,8 +3,8 @@
 
 <svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <desc>
-Map version: 1.1.1
-Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
+Map version: 1.1.2
+Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth
 </desc>
 <title>Barbados</title>
 <g id="admin1">
@@ -15,11 +15,10 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <labelrank>5</labelrank>
     <country-abbrev>Barb.</country-abbrev>
     <subregion>Caribbean</subregion>
-    <woe-id>23424754</woe-id>
     <region-wb>Latin America &amp; Caribbean</region-wb>
     <iso-a3>BRB</iso-a3>
     <iso-a2>BB</iso-a2>
-    <region-un>Americas</region-un>
+    <woe-id>23424754</woe-id>
     <continent>North America</continent>
     <hc-key>bb</hc-key>
     <hc-a2>BA</hc-a2>
@@ -302,6 +301,6 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
 </path>
 </g>
 
-<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth</text>
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth</text>
 
 </svg>

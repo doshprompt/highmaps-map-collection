@@ -3,8 +3,8 @@
 
 <svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <desc>
-Map version: 1.1.1
-Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
+Map version: 1.1.2
+Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth
 </desc>
 <title>Grenada</title>
 <g id="admin1">
@@ -15,11 +15,10 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <labelrank>6</labelrank>
     <country-abbrev>Gren.</country-abbrev>
     <subregion>Caribbean</subregion>
-    <woe-id>23424826</woe-id>
     <region-wb>Latin America &amp; Caribbean</region-wb>
     <iso-a3>GRD</iso-a3>
     <iso-a2>GD</iso-a2>
-    <region-un>Americas</region-un>
+    <woe-id>23424826</woe-id>
     <continent>North America</continent>
     <hc-key>gd</hc-key>
     <hc-a2>GR</hc-a2>
@@ -45,7 +44,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <woe-label>NULL</woe-label>
     <type>Dependency</type>
     <hc-middle-x>0.38</hc-middle-x>
-    <hc-middle-y>0.62</hc-middle-y>
+    <hc-middle-y>0.61</hc-middle-y>
     <hc-key>gd-6584</hc-key>
     <hc-a2>CA</hc-a2>
   </desc>
@@ -95,7 +94,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <woe-label>Saint Andrew, GD, Grenada</woe-label>
     <type>Parish</type>
     <hc-middle-x>0.53</hc-middle-x>
-    <hc-middle-y>0.41</hc-middle-y>
+    <hc-middle-y>0.45</hc-middle-y>
     <hc-key>gd-6583</hc-key>
     <hc-a2>SA</hc-a2>
   </desc>
@@ -144,8 +143,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <latitude>12.0681</latitude>
     <woe-label>Saint George, GD, Grenada</woe-label>
     <type>Parish</type>
-    <hc-middle-x>0.61</hc-middle-x>
-    <hc-middle-y>0.49</hc-middle-y>
+    <hc-middle-x>0.62</hc-middle-x>
+    <hc-middle-y>0.48</hc-middle-y>
     <hc-key>gd-6581</hc-key>
     <hc-a2>SG</hc-a2>
   </desc>
@@ -170,7 +169,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <woe-label>Saint John, GD, Grenada</woe-label>
     <type>Parish</type>
     <hc-middle-x>0.48</hc-middle-x>
-    <hc-middle-y>0.55</hc-middle-y>
+    <hc-middle-y>0.56</hc-middle-y>
     <hc-key>gd-6580</hc-key>
     <hc-a2>SJ</hc-a2>
   </desc>
@@ -194,7 +193,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
     <latitude>12.189</latitude>
     <woe-label>Saint Mark, GD, Grenada</woe-label>
     <type>Parish</type>
-    <hc-middle-x>0.55</hc-middle-x>
+    <hc-middle-x>0.56</hc-middle-x>
     <hc-middle-y>0.43</hc-middle-y>
     <hc-key>gd-6579</hc-key>
     <hc-a2>SM</hc-a2>
@@ -202,6 +201,6 @@ Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth
 </path>
 </g>
 
-<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2014 Highsoft AS, Based on data from Natural Earth</text>
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2015 Highsoft AS, Based on data from Natural Earth</text>
 
 </svg>

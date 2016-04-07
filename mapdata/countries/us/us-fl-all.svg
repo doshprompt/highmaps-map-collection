@@ -3,8 +3,8 @@
 
 <svg version="1.1" height="700pt" width="700pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <desc>
-Map version: 1.1.1
-Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bureau
+Map version: 1.1.2
+Copyright (c) 2015 Highsoft AS, Based on data from The United States Census Bureau
 </desc>
 <title>Florida</title>
 <g id="admin2">
@@ -38,11 +38,10 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
     <labelrank>2</labelrank>
     <country-abbrev>U.S.A.</country-abbrev>
     <subregion>Northern America</subregion>
-    <woe-id>23424977</woe-id>
     <region-wb>North America</region-wb>
     <iso-a3>USA</iso-a3>
     <iso-a2>US</iso-a2>
-    <region-un>Americas</region-un>
+    <woe-id>23424977</woe-id>
     <continent>North America</continent>
     <hc-key>us</hc-key>
     <hc-a2>US</hc-a2>
@@ -54,7 +53,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
     <fips>12131</fips>
     <name>Walton</name>
     <hc-middle-x>0.47</hc-middle-x>
-    <hc-middle-y>0.46</hc-middle-y>
+    <hc-middle-y>0.45</hc-middle-y>
     <hc-key>us-fl-131</hc-key>
     <hc-a2>WA</hc-a2>
   </desc>
@@ -75,7 +74,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>12053</fips>
     <name>Hernando</name>
-    <hc-middle-x>0.38</hc-middle-x>
+    <hc-middle-x>0.39</hc-middle-x>
     <hc-middle-y>0.50</hc-middle-y>
     <hc-key>us-fl-053</hc-key>
     <hc-a2>HE</hc-a2>
@@ -109,7 +108,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
     <fips>12086</fips>
     <name>Miami-Dade</name>
     <hc-middle-x>0.41</hc-middle-x>
-    <hc-middle-y>0.42</hc-middle-y>
+    <hc-middle-y>0.43</hc-middle-y>
     <hc-key>us-fl-086</hc-key>
     <hc-a2>MD</hc-a2>
   </desc>
@@ -131,7 +130,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
     <fips>12097</fips>
     <name>Osceola</name>
     <hc-middle-x>0.64</hc-middle-x>
-    <hc-middle-y>0.32</hc-middle-y>
+    <hc-middle-y>0.33</hc-middle-y>
     <hc-key>us-fl-097</hc-key>
     <hc-a2>OS</hc-a2>
   </desc>
@@ -152,7 +151,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>12071</fips>
     <name>Lee</name>
-    <hc-middle-x>0.74</hc-middle-x>
+    <hc-middle-x>0.73</hc-middle-x>
     <hc-middle-y>0.39</hc-middle-y>
     <hc-key>us-fl-071</hc-key>
     <hc-a2>LE</hc-a2>
@@ -196,7 +195,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>12021</fips>
     <name>Collier</name>
-    <hc-middle-x>0.58</hc-middle-x>
+    <hc-middle-x>0.57</hc-middle-x>
     <hc-middle-y>0.57</hc-middle-y>
     <hc-key>us-fl-021</hc-key>
     <hc-a2>CO</hc-a2>
@@ -252,7 +251,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
     <fips>12009</fips>
     <name>Brevard</name>
     <hc-middle-x>0.57</hc-middle-x>
-    <hc-middle-y>0.79</hc-middle-y>
+    <hc-middle-y>0.78</hc-middle-y>
     <hc-key>us-fl-009</hc-key>
     <hc-a2>BR</hc-a2>
   </desc>
@@ -296,7 +295,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
     <fips>12005</fips>
     <name>Bay</name>
     <hc-middle-x>0.61</hc-middle-x>
-    <hc-middle-y>0.30</hc-middle-y>
+    <hc-middle-y>0.31</hc-middle-y>
     <hc-key>us-fl-005</hc-key>
     <hc-a2>BA</hc-a2>
   </desc>
@@ -317,8 +316,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>12107</fips>
     <name>Putnam</name>
-    <hc-middle-x>0.56</hc-middle-x>
-    <hc-middle-y>0.49</hc-middle-y>
+    <hc-middle-x>0.46</hc-middle-x>
+    <hc-middle-y>0.39</hc-middle-y>
     <hc-key>us-fl-107</hc-key>
     <hc-a2>PU</hc-a2>
   </desc>
@@ -339,7 +338,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>12003</fips>
     <name>Baker</name>
-    <hc-middle-x>0.32</hc-middle-x>
+    <hc-middle-x>0.33</hc-middle-x>
     <hc-middle-y>0.50</hc-middle-y>
     <hc-key>us-fl-003</hc-key>
     <hc-a2>BA</hc-a2>
@@ -416,8 +415,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>12065</fips>
     <name>Jefferson</name>
-    <hc-middle-x>0.50</hc-middle-x>
-    <hc-middle-y>0.29</hc-middle-y>
+    <hc-middle-x>0.28</hc-middle-x>
+    <hc-middle-y>0.47</hc-middle-y>
     <hc-key>us-fl-065</hc-key>
     <hc-a2>JE</hc-a2>
   </desc>
@@ -438,7 +437,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>12101</fips>
     <name>Pasco</name>
-    <hc-middle-x>0.60</hc-middle-x>
+    <hc-middle-x>0.59</hc-middle-x>
     <hc-middle-y>0.50</hc-middle-y>
     <hc-key>us-fl-101</hc-key>
     <hc-a2>PA</hc-a2>
@@ -461,7 +460,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
     <fips>12073</fips>
     <name>Leon</name>
     <hc-middle-x>0.70</hc-middle-x>
-    <hc-middle-y>0.51</hc-middle-y>
+    <hc-middle-y>0.50</hc-middle-y>
     <hc-key>us-fl-073</hc-key>
     <hc-a2>LE</hc-a2>
   </desc>
@@ -472,7 +471,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
     <fips>12033</fips>
     <name>Escambia</name>
     <hc-middle-x>0.27</hc-middle-x>
-    <hc-middle-y>0.23</hc-middle-y>
+    <hc-middle-y>0.24</hc-middle-y>
     <hc-key>us-fl-033</hc-key>
     <hc-a2>ES</hc-a2>
   </desc>
@@ -504,8 +503,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>12089</fips>
     <name>Nassau</name>
-    <hc-middle-x>0.26</hc-middle-x>
-    <hc-middle-y>0.40</hc-middle-y>
+    <hc-middle-x>0.27</hc-middle-x>
+    <hc-middle-y>0.29</hc-middle-y>
     <hc-key>us-fl-089</hc-key>
     <hc-a2>NA</hc-a2>
   </desc>
@@ -549,7 +548,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
     <fips>12067</fips>
     <name>Lafayette</name>
     <hc-middle-x>0.36</hc-middle-x>
-    <hc-middle-y>0.65</hc-middle-y>
+    <hc-middle-y>0.64</hc-middle-y>
     <hc-key>us-fl-067</hc-key>
     <hc-a2>LA</hc-a2>
   </desc>
@@ -637,7 +636,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
     <fips>12029</fips>
     <name>Dixie</name>
     <hc-middle-x>0.47</hc-middle-x>
-    <hc-middle-y>0.36</hc-middle-y>
+    <hc-middle-y>0.37</hc-middle-y>
     <hc-key>us-fl-029</hc-key>
     <hc-a2>DI</hc-a2>
   </desc>
@@ -691,8 +690,8 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
   <desc xmlns="http://www.highcharts.com/svg/namespace">
     <fips>12125</fips>
     <name>Union</name>
-    <hc-middle-x>0.49</hc-middle-x>
-    <hc-middle-y>0.36</hc-middle-y>
+    <hc-middle-x>0.38</hc-middle-x>
+    <hc-middle-y>0.57</hc-middle-y>
     <hc-key>us-fl-125</hc-key>
     <hc-a2>UN</hc-a2>
   </desc>
@@ -736,7 +735,7 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
     <fips>12109</fips>
     <name>St. Johns</name>
     <hc-middle-x>0.50</hc-middle-x>
-    <hc-middle-y>0.63</hc-middle-y>
+    <hc-middle-y>0.62</hc-middle-y>
     <hc-key>us-fl-109</hc-key>
     <hc-a2>SJ</hc-a2>
   </desc>
@@ -787,6 +786,6 @@ Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bure
 </path>
 </g>
 
-<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2014 Highsoft AS, Based on data from The United States Census Bureau</text>
+<text x="350" y="714" text-anchor="middle" font-family="Verdana" font-size="8" stroke-opacity="0.6">Copyright (c) 2015 Highsoft AS, Based on data from The United States Census Bureau</text>
 
 </svg>
